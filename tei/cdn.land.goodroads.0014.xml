@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.goodroads.0014">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">The Bridge at Ft. Randall</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">The Bridge at Ft. Randall</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1915-03-04"></date>
+<biblScope type="page">5</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Senate-Fort Randall</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Supplied title</change>
+<change when="2010-08-03"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+
+	<head type="main"> THE BRIDGE AT FT. RANDALL </head>
+
+	<p> G. F. Buche returned Wednesday evening from Pierre, where he has been for the past several days in the interests of the proposition of a bridge across the river at Ft. Randall, this place being selected by Col. Thatcher as the most feasible point for the Washington Highway to cross the Missouri river. Petitions asking the state legislature to memorialize <choice><sic>congress</sic> <corr>Congress</corr></choice> to construct a bridge at this point were circulated a couple of weeks ago, receiving practically every person's signature where circulated, and Messrs. Buche and Moran were selected as a <choice><sic>committe</sic> <corr>committee</corr></choice> to take these to Pierre. As will be seen by the following, from the Senate Journal, they succeeded in their efforts to get the petitions before the <choice><sic>senate</sic> <corr>Senate</corr></choice>: </p>
+
+	<p> "The Committee on Federal Relations offered the following Senate concurrent resolution, introduced by the Senate committee on Federal relations memorializing congress <sic>Congress</sic> to construct a bridge across the Missouri River at Fort Randall, South Dakota, upon the line of the Washington National Highway.</p>
+
+	<p> "Be it resolved by the Senate of State of South Dakota, the House of Representatives concurring:</p>
+
+	<p> "Whereas, There is under construction a great National Highway leading from New York City to Seattle and San Francisco, which is built as a memorial to George Washington and </p>
+
+	<p> "Whereas, Many hundreds of miles of this highway has already been constructed at a cost of millions of dollars to the people of the localities through which it passes, and </p>
+
+	<p> "Whereas, A point on the Missouri River at the site of old Fort Randall in the State of South Dakota has been selected by the engineers in charge of this great enterprise as the most feasible point for crossing the Missouri River by this National Highway; therefore,</p>
+
+	<p> "<choice><sic>Resolve</sic> <corr>Resolved</corr></choice>, That the Congress of the United States be and it hereby is earnestly petitioned to appropriate the necessary funds and to cause the construction of a suitable bridge across the Missouri River upon the line of the said Washington Memorial Highway at the said Fort Randall, in the State of South Dakota.</p>
+ 
+	<p> "Resolved, That the secretary of the Senate is hereby instructed to send copies of this joint resolution to each of the senators and representatives representing the State of South Dakota in the Congress of the United States."</p>
+
+	<p> When Mr. Buche left Pierre, Tuesday, the above had had its second reading in the <choice><sic>senate</sic> <corr>Senate</corr></choice>, and was expected to have its first reading in the house that day. Everyone with whom the gentlemen talked were favorable to the proposition, so that it may be reasonably expected the measure will receive favorable action at the hands of the legislature.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.water.boat.0024">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Mostly Local News</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0024</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Mostly Local News</title>
+<title level="a"></title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1907-05-23"></date>
+<biblScope type="page">5</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Fishing cabin</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-13"><name>Laura Weakly </name> Fixed title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+
+<head type="main">Mostly Local News.</head>
+
+<milestone unit="absent"></milestone>
+
+<p>Sheriff Skillings was here fishing Friday.</p>
+
+<p>The Valley State Bank will pay your taxes.</p>
+
+<p>A fine rain visited this section Wednesday night.</p>
+
+<p>Ask for Armour White Rose flour. At all dealers.</p>
+
+<p>Attorney Caster returned from Missouri Thursday evening.</p>
+
+<p>Messrs. McReynolds, Purvis and Campbell were down from Geddes Thursday fishing.</p>
+
+<p>Elmer Grimes, "typo" on the New Era at Wagner, was a visitor at the lake Sunday.</p>
+
+<p>A baby boy was born to Mr. and Mrs. Lawrence Jandreau on Monday, May 20th.</p>
+
+<p>Andrew Renner has just received a lot of new harness. Prices range from $27 per set up.</p>
+
+<p>The up-to-date eating house will soon be open for business. Gavin knows how to feed you.</p>
+
+<p>Charley Terry was in town on business Saturday and visited at the home of Fred Holden Sunday.</p>
+
+<p>Indian Agent Taylor was up from the agency Saturday and remained over until Sunday morning.</p>
+
+<p>Mrs. Jack Cummings returned Wednesday evening from a three week's visit at her old home in Wisconsin.</p>
+
+<p> I will be in Lake Andes April 25th and will be pleased to figure with anyone wishing to build. --<forename>J. E.</forename> <surname>Haskin</surname>.</p>
+
+<p>Stedronsky's Bros. Co., at Lake Andes are prepared to do undertaking work. They have a complete line of caskets.</p>
+
+<p>Wanted - A good reliable girl for general house work. Good wages paid. Write Mrs. F.H. Johnson, Geddes, S.D.</p>
+
+<p>Miss Annie Renner, who has been visiting at the home of her sister, Mrs. E.W. Kniffen, returned to Tyndall Thursday.</p>
+
+<p>Mr. and Mrs. Joe Wald went to Yankton last Thursday on a pleasant business trip. A. Amundson done the work at depot during his absence.</p>
+
+<p>A wedding feast was held at the home of Pack Moccasin, an Indian, Tuesday afternoon in honor of the marriage of his daughter to Henry Paji.</p>
+
+<p>Taken Up - Three 8-months-old sow pigs, black with white hind feet; owner can have same by paying for this notice. Thos. Hunter, 2 miles east of town.</p>
+
+<p>We now have our sample stock of 1908 calendars on hand. There are over 100 different styles to select from. Call at this office and make your selection; prices are right.</p>
+
+<p>Geo. Morrison was up from Yankton Tuesday on one of his regular fishing trips. Mr. Morrison is an expert with the rod and reel and, as usual, took home with him a fine string of bass.</p>
+
+<p>Frank Strohbehn drove up from Wagner Wednesday. Frank now has a cottage on the lake where he hies himself away from business cares whenever possible and tries his luck at catching the elusive bass.</p>
+
+<p>Last Saturday at Greenwood the Outlaws defeated the Regulars in an interesting and exciting ball game by a score of 5 to 0. Oldtime players like Hardman, Vandal, Keeler and Irving were with the Outlaws.</p>
+
+<p>The 22-foot <choice><sic>gasolene</sic> <corr>gasoline</corr></choice> launch ordered by John Bundy and Hoyle Gilreath arrived Tuesday. Laurence Donovan is setting the boat up for them and the owners say they will have it running on the lake by June 1st.</p>
+</div1>
+
+</body>
+</text>
+</TEI> 
+

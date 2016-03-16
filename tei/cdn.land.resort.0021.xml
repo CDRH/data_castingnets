@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.resort.0021">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">From the Boosters</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">From the Boosters</title>
+<title level="a"></title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1913-05-15"></date>
+<biblScope type="page"></biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-14"><name>Laura Weakly</name> Fixed title</change>
+    <change when="2010-02-18"><name>Laura Weakly</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<head type="main">FROM THE BOOSTERS</head>
+
+
+<note>
+The following letter from one of the party of Sioux Falls boosters, who recently visited our city, explains
+itself:</note>
+
+<opener>Messrs. Schliessmann &amp; Martin,<lb/>
+Lake Andes, S.D.<lb/>
+<salute>Gentlemen:</salute></opener>
+<p>It would have caused a broad smile to break over your faces if you had been able to have seen the Sioux City
+Trade Boosters at breakfast Wednesday morning, following the presentation by the citizens of your city of
+that splendid string of bass.</p>
+<p>I don't know when I ever enjoyed anything more than carrying the bass down to the train. I handed it over to 
+our colored book, who put the fish on ice (after cleaning them.) Tehy were as delicious a morsel as I ever ate.
+The Sioux City Trade Boosters will always remember Lake Andes, the cordial greeting, and good bass which you
+presented them with.</p>
+<p>I hope you will plan to visit Sioux City this fall, so we will have an opportunity to return to you in 
+part your hospitality.</p>
+<p>I want to compliment you on the very nice show window which you had in exhibition at your store. It was one of
+the nicest windows we saw anywhere on our trip.</p>
+<closer>
+<salute>Your very truly,</salute>
+<signed>KNAPP &amp; SPENCER CO.,<lb/> 
+Per Geo. M. Evenson.</signed></closer>
+
+</body>
+</text>
+</TEI>

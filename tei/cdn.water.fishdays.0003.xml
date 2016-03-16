@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.water.fishdays.0003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Commercial Club to Begin Fish Day</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.fishdays.0003</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="supplied">Commercial Club to Begin Fish Day</title>
+<title level="a" type="original">Untitled</title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1915-05-06"></date>
+<biblScope type="page">4</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Fish Day proposal</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-13"><name>Laura Weakly </name> Supplied title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+	<p> The Commercial club held its regular monthly meeting in the Remington hall Tuesday evening, a large majority of the members being present. Several important matters were discussed and the balance of the different committees appointed.</p>
+
+	<p> One of the main things discussed was the planting of trees along the driveway to the lake, but owing to some difficulties encountered in regards the section line and the lateness of the season it was decided not to take action on this matter this year as it would take two or three weeks at least to get things straightened out. It was decided to have a celebration in this city in the near future&#8212;about the second Friday in June&#8212;in the nature of a fish day and committees were appointed to work out the plans and report at a meeting called for two weeks from that evening. Different places have their watermelon day, cantaloupe day, apple pie day, and why not Lake Andes its fish day.</p>
+ 
+	<p> The idea is to make this a yearly event and we are sure that the club would welcome suggestions from anyone along lines that would tend to make the celebration a success. We will have more to say later. This club is certainly a live one and all are putting their shoulders to the wheel and boosting anything that will prove a benefit to this city or community. If you happen to not be one of the members, better come in. "The water's fine." </p>
+</div1>
+
+</body>
+</text>
+</TEI>

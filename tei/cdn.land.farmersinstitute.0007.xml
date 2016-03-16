@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.farmersinstitute.0007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">White Swan Indian Farmers Organization</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">White Swan Indian Farmers Organization</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1915-01-21"></date>
+<biblScope type="page">4</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Fixed title</change>
+<change when="2010-07-29"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+	<head type="main"> WHITE SWAN INDIAN FARMERS ASSOCIATION </head>
+
+	<p> Farmer Conner has succeeded in organizing the above association. On Wednesday, January 6th the organization was completed electing John Gassman, Pres., Thomas Hunter, Vice Pres., and Peter Shields <sic>Shield</sic> Secretary. After this the intentions and aims for such an organization were set forth by the farmer and interpreted for the benefit of those not understanding English, by Joseph Gassman, official interpreter. </p>
+ 
+	<p> Arthur Stone gave a good talk on "corn cultivation" and was followed by an excellent talk on "the profits to Indians, in raising small bunches of live stock." This was followed by a general discussion after which the following programme <sic>program</sic> was arranged for January 21, the date of the next meeting:</p>
+
+	<p> Opening Address, A. W. Leech, Supt. Report in writing, by every Indian belonging to the association, of the grain, hay, and vegetables raised during the season just closed.</p>
+
+	<p> "Successes and errors I have made in growing wheat," by Edwin Garfield and Reuben Spottedeagle.</p>
+
+	<p> "Successes and mistakes I have made in growing corn," by Charles LeClair and Joseph Oakiye <sic>Ookiye</sic>.</p>
+
+	<p> "Care and breeding of stock on Indian farms," by Thomas Hunter.</p>
+
+	<p> Resolved that: Every thing considered listing is a better method of planting corn than by the check rower."</p>
+
+	<p> Affirmative: A. Stone, Joseph Gassman and James Hoyu. Negative: Charles LaClair <sic>LeClair</sic> Ben LaGrand <sic>LaGrande</sic>, Joseph Rondell and Isaac Dion.</p>
+
+	<p> The aim of these meetings, which will continue through the winter and early spring, is to create a deeper interest among the Indians in farming, gardening, stock raising and care of poultry.</p>
+
+	<p> We bespeake <sic>bespeak</sic> the cooperation and assistance of our white friends and neighbors in this. Remember the Indian is here&#8212;a fixture and a quanity that must be dealt with&#8212;and that you have elected to come and live among them-not they among you&#8212;therefore lend us a helping hand. &#8212;Contributed.</p> 
+</div1>
+
+</body>
+</text>
+</TEI>

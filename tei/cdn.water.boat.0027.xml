@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.water.boat.0027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Several New Launches Will Soon Be Put on the Lake</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0027</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="supplied">Several New Launches Will Soon Be Put on the Lake</title>
+<title level="a" type="original">Untitled</title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1909-04-29"></date>
+<biblScope type="page">4</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Seven launches</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-13"><name>Laura Weakly </name> Supplied title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<p>Sunday was a beautiful day. Many were enjoying themselves at the lake. Launch riding seemed to be the sport of the day. The present depth of the lake makes this sport very interesting and it is told on good authority several new launches will soon be put on the lake. At present there are seven launches at this end of the lake.</p>
+
+<p>State Agent Badger, representing the W.C. Shinn Copper Lightning Rod Co. of Lincoln Nebraska, has been in town for the past week demonstrating the working of the Shinn rod. He has placed rods on the farm buildings of John Picotte and will rod a number of other buildings in and about town while here. The local representatives of this company are R.S. Parker and James Gavin.</p>
+
+<p>The W.C.T.U. will hold a district convention in Lake Andes, May 6th and 7th. These meetings will be most interesting and instructive. The state president, Mrs. Ramsey, and district president, Mrs. Rardon, will both be present. Twenty delegates from the different unions are expected. Prominent speakers from different parts of the state will be on the program. Special music will be a feature of the meetings, which will be held on afternoons and evenings of these dates. Everybody is <choice><sic>cordialy</sic><corr>cordially</corr></choice>  invited to attend.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

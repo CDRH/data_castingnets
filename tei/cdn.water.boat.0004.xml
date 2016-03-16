@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.water.boat.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">All Along The Line</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">All Along The Line</title>
+<title level="a"></title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1905-03-30"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Fixed title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<head type="main">ALL ALONG THE LINE</head>
+
+<milestone unit="absent"></milestone>
+
+<head type="sub">EVERYTHING MOVING IN THE WONDER CITY &amp; VICINITY</head>
+
+<milestone unit="absent"></milestone>
+
+<head type="sub"> <unclear reason="illegible"/> </head>
+
+<p>Street Commissioner Riley started a bunch of teams at work cutting down the hill on east Main street Monday. The waste dirt is being used to fill the hollow north of the P. O. As soon as the cut is made to the established grade the grader will put to work and will level and even up the street the entire length after which the entire street will be covered with a heavy dressing of gravel, putting Main street in a first class condition. Notice has been served on all lot owners on main street to construct permanent sidewalks at once, failure to comply with which within is a reasonable length of time, being authority for the street commissioner to construct such side walks [sic] at the expense of adjoining property. Permanent crossings will be put in by the town and by July 1st, at latest main street will be in first class condition, bordered by cement sidewalks and spanned by permanent crossings. By fall nearly all the gaps along the street will be filled by substantial buildings and Lake Andes' business section will present an appearance second to no town in this part of the state.</p>
+
+<p>We have noticed in the last week about forty prairie schooners pass through town. The most of them are headed for Lyman Co. to make settlement on claims filed on last fall. The railroad from Chamberlain to the Black Hills being now an assured fact is attracting thousands of settlers to the country west of the river. Along with the rest of Charles Mix is coming in for her full share of the emigration. Every day sees new settlers coming and it is cheering to note the sturdy substantial appearance of the new settlers. In the last week a half dozen cars of emigrant goods have arrived in Lake Andes from the east. We have been unable to learn the names of the new settlers, but are glad to see them come and there is room for more.</p>
+
+<p>Hon. George E. Bigelow, of Lincoln, Nebraska, will speak to the citizens of Lake Andes and vicinity tomorrow (Friday) at 2 p. m. and 8 p. m. on the subject of "Socialism." Mr. Bigelow comes highly recommended as a scholarly, forceful orator and recognizable as one of the foremost advocates of socialism in the United States. All who are interested in economic questions of the present time should make it a point to hear this discussion. Remember the time and place: Tomorrow, Friday afternoon and evening, 2 p. m., and 8 p. m. at Van Scotter's Hall in Lake Andes Come and bring your friends, and you will be fully repaid for your trouble.</p>
+</div1>
+
+</body>
+</text>
+</TEI> 

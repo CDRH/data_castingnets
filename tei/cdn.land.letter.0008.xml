@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.letter.0008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">endangered fish life articles</title>
+<title level="m" type="sub"></title>
+<principal>David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.land.letter.0008</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2010 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a">endangered fish life articles</title>
+<title level="a"></title>
+<title level="j">correspondence</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1930-03-09"></date>
+<biblScope type="page">unknown</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2010-08-05"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+<head type="main"> FISH LIFE IN STATE LAKES IN DANGER</head>
+
+<milestone unit="absent" />
+
+<head type="sub"> Ripple Tells Waltonians Conservation Sorely Needed</head>
+
+<milestone unit="absent" />
+
+<head type="sub"> TONS OF FISH ARE GIVEN TO NEEDY</head>
+
+<milestone unit="absent" />
+
+<head type="sub">Removal of Fish From Shallow Waters is Urged</head>
+
+<milestone unit="absent" />
+
+<p> 	The following address was given by State Game and Fish Commissioner R L. Ripple, before a meeting of the Izaak Walton League, held at  the Lincoln hotel, Wednesday evening, December 14.</p>
+
+<p> 	The condition at Lake Pelican is but one among the many that our department has had to deal with during the past few years of drought, low waters and suffering fish.</p>
+
+	<p>One year ago this winter the while we were rushing here and there to save fish-life and do all  possible to relieve conditions, we thought if we could only get through that winter at Lake Poinsett, Madison Lake, Lake Herman, Clear Lake, Fish Lake, Lake Campbell and some others including Pelican Lake, water would come in the spring and things would be much different.</p>
+
+<p>It would be too long a story to recite here what happened, however, a brief account will, I know, prove interesting and will bring home the great need to conserve our fish and fishing in South Dakota. Experience in the field of operations is what counts and although many of our people did not think it necessary to remove all fish, game and rough fish alike, from such lakes as Campbell, Clear Lake and others previous to last fall's freeze-up, when the ice went out; the past spring, we had the evidence that correct action had been taken, because although we removed all fish within our means and ability, the bottoms of those lakes including the shore lines, told the sad story.</p>
+
+	<p> No doubt you are aware of what happened at the largest  natural lake in South Dakota, Lake Poinsett, also Madison lake, Clear lake, Lake Norden and others. I surely voice my own opinion and think perhaps that of many others when I say that had we not gotten to Pelican lake in the nick of time last winter another lake with  its fish-life would have been added to the list of gone but not forgotten. Personally, I will never forgot those experiences of one year ago and that is why our department is taking the present stand at Pelican lake.</p>
+
+	<p> I am frank to state that we are fortunate in this locality to have such a wonderful opportunity for saving fish that can be netted from Pelican lake, by removing same to Lake Kampeska, just over the ridge. We were not in this position at Lake Campbell, nor at Clear lake and some others, we just seined game fish and all ashore and gave them to needy people. No one not acquainted with those operations can in the least, realize what that source of food supply amounted to. Crowds lined the shore lines at each and every haul. Thousands upon thousands of Great Northern pike and other game fish were given away because of the great distances to waters that would perhaps have wintered them and the great expense to get thern there.</p> 
+
+<p>Food was a crying need last winter, it is no different this winter, however, to stand at those lakes and see our fishing and recreation depleted in that manner was a thing that will take some years to bring back, speaking of game fish. There was one redeeming feature, in that mother nature took care of great hordes of carp through her freezing out process and in our fight to control this so called wonder fish from across the seas, this was a big lift. I have fought the damnable carp in behalf of game fish for over 80 years and will always fight that greatest mistake, speaking of the introduction of and including all forms of wild life.</p>
+
+	<p> There is not time to dwell on the work of the carp. There is at this minute not far from here at least one train-load of those vacuum snooted water hogs and several train-loads in the state as a whole, including border lakes, that are doing more to deplete good fishing than all the people ever will do.</p>
+
+	<p> Reading from a recent edition or survey book dealing with wild water fowl and the like, I learn that carp are very detrimental among lakes and sloughs in that they deplete the very food supply that rightly belongs to our water game birds. Well, at least there seems to be those who have come to realize in small measure what that bringing to this country resulted in after two failures to get them across was met with and that a third attempt proved a success some sixty years ago. </p>
+
+<p> Please do not think that Lake Poinsett and some others that went bad last winter, were lower in water supply than Pelican lake at the present time, no, that was not the case. If we are to compare for instance, Lake Poinsett with Pelican Lake, we find that Poinsett had a depth of 6 feet over a large portion of its area, but that was not enough. Other lakes that were some deeper than Pelican, went bad and so ever since the first of September, I have realized that if late fall rains did not come, we would be in for trouble this winter at Pelican lake in spite of all that can be done.</p>
+
+	<p> Carefully measuring Pelican Lake up through the center, I can  find some 43 inches of ice and water combined, compared to 58 inches last winter and with two feet of ice, I claim that a very great portion of the total area of that lake will be frozen to the bottom. If on top of this amount of ice and there can be more, if we should get a heavy blanket of snow, I cannot see how those fish can pull through. From all our experience and sad experience among other lakes, is it just and proper that we take such a long chance, that is the question, and personally I made my decision, long ago, when the first ice formed on the lake.</p>
+
+	<p> I realize that in spite of all the fish that we can remove with nets, there will remain a goodly portion, of the whole. Yes, there will remain a wonderful stocking of young perch and bullhead the latter possibly the greatest stocking contained in any lake wholly within our borders. Unless one has worked with our fishing crews out there to note the hundreds of thousands of this year's hatch of these two varieties of game fish work around these holes in the ice, he cannot, in the least, estimate that stocking of young fish that will be left behind because they cannot be taken by netting operations or any other method. There will also be plenty of breeders left, over and above what can be removed and so, if they winter thru by some hook or crook, Lake Pelican Lake will not want for re-stocking. </p>
+
+<p> If we are to remove what game fish <unclear reason="illegible" /> we can, to Lake Kampeska, and high water ensues the coming spring, no doubt many game fish as usual, will run oat of Lake Kampeska and find their way back to their old home, Pelican Lake. </p>
+
+<p>I would like to think that when next spring rolls around, those wonderful Northern pike, bullhead and perch breeding fish will have an opportunity to spawn and re-produce in Lake Kampeska or wherever they may go to do so.</p>
+
+	<p> Cracks have formed across Lake Pelican that give some relief to the fish contained under that ice and already the fish are going to such slight openings for relief from the stagnant waters and lack of air or oxygen. Such cracks and heaves give some relief at this time, it is where we have  learned to look for fish in our seining operations. Even the carp crowd at those places and the game fish have to give way because no fish can cope with an on-rush of carp, as they travel in mass formation and rule supreme.</p>
+
+	<p> Just the other night if Mr. Williams could have landed without mishap all the carp taken near one of those ice heavings, he could have told a real story of carp seining, but the 14,000 pounds taken, made a hole in that bunch and he will hit the balance of them as he always does when the seine is not torn and other mishaps come. Not many game fish among that horde of wonder fish, no, they had left for parts unknown, so speaking, where they could get along some how, some way. Perhaps the next seine haul will find the game fish crowded up to the west end or some place where we may find tons of them all together as to varieties, possibly 5 tons of bullheads for instance as we had a short time back. Thousands of perch and hundreds of Great Nothern pike.</p>
+
+<p> Some day we will begin to find  out and conserve them for other waters. Thank the Lord we have Lake Mitchell and a few other places where this stuff can be moved to. illegible men carrying heavy investments in the shores of Lake Andes seeing their business going to pieces from the effects of the drought. </p>
+
+	<p> Can you wonder why I say that it is high time to conserve and not take to sic much chance with our fish Go about and experience all the conditions that we fishery fellows bump into and it all becomes a part of one's make-up, it haunts a fellow and it just seems to me that although I don't want to paint so dark a picture, it has come to a point where conservation should be the watch-word.</p>
+
+<p> If we are not to remove the game fish from Pelican lake, I will be the happiest man in the world if they pull through, if we do remove what we can and the balance pulls through I will feel the same way. I want to go on record as not being willing to take the chance of leaving them there. The winter it still young but frisky and along about February first with real heavy snow, well, I don't want to think about it now.</p>
+
+<p>  Little do you folks know about our fish rescue operations these past couple of years. Right here at your front door we rescued truck load after truck load of game fish as croppies, bass, pike, and other varieties from the river at the entrance of Lake Kampeska outlet on north up river for <unclear reason="illegible" /> miles and placed them all in lake Kampeska. Don't you think I would have been happy to have placed some of that great raft of stuff in Pelican lake, had it been in shape to receive it. Especially crappies, perch, etc.</p>
+	  
+	<p> This work was carried on just previous to the freeze-up to save it all from freezing out, etc. Up at Campbell slough which body of  water connects with Enemy Swim lake, we removed nearly one hundred thousand. Some day we will begin to find moved nearly one hundred thousand little game fish to the lake proper that would by this time have been dead. These are but a couple of instances.</p> 
+</div1>
+
+</body>
+</text>
+</TEI>

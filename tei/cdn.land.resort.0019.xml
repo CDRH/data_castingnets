@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.resort.0019">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Untitled [Ye editor took a few days vacation]</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a">Untitled [Ye editor took a few days vacation]</title>
+<title level="a"></title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1913-06-12"></date>
+<biblScope type="page">5</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2010-02-18"><name>Laura Weakly</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<p>Ye editor took a few days vacation at Lake Andes last week, the guest
+of Albert Amundson. We have had an invitation from that gentleman
+several times this spring to come down to his town and enjoy a few
+days fishing. During the past few years we have enjoyed many fishing
+excursions to Lake Andes but on most of our trips the fish were not
+in a catchable humor. In any event while we always enjoyed our trips
+to the Lake we were seldom able to brag on our prowess as a fisherman;
+but on this trip we beat all of our past records, as we caught about
+forty fine bass and were able bring home enough to pass around a mess
+to many of neighbors to prove that we had become "some fisherman While
+we were at the Lake we also enjoyed a fine auto ride out into the
+country with Druggist O.C. Nicolls, who now drives a fine 35 horse
+power Studebaker auto. The country north and east of Lake Andes
+looks beautiful. Large farm buildings, groves, and a variety of crops
+in a most thrifty condition greeted the eye on all hands and on this
+trip we saw some of the finest fields of alfalfa that we have ever 
+seen anywhere. The country around the lake has been favored with
+some heavy rains this spring and as a consequence, together with 
+good farming, the crops in that locality never looked better at this 
+time of year. - Wheeler Courier.</p>
+
+</body>
+</text>
+</TEI>

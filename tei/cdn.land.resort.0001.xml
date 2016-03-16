@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.resort.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lake Andes as It Is Viewed Afar</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Lake Andes as It Is Viewed Afar</title>
+<title level="a" type="original">Editor Spencer News Sees a Splendid Future for the Webfeet</title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1904-09-22"></date>
+<biblScope type="page">8</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Streets</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-14"><name>Laura Weakly</name> Fixed title</change>
+    <change when="2010-01-28"><name>Laura Weakly</name> Model Encoding</change>
+    <change when="2010-01-25"><name>Sam Herley</name> OCR</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<head type="main">Lake Andes As It Is Viewed Afar</head>
+
+<head type="sub">Editor Spencer News Sees a Splendid Future for the Webfeet.</head>
+
+<note type="editors">Editor Seifert in his Spencer News last week has this to say of his 
+visit here:</note>
+    
+<p>"Last Friday morning, accompanied by our little son Harry, we started
+on a little trip to Lake Andes, in Charles Mix. * * * We got to Tyndall
+finally and transferrred onto the 'Squaw Central," and at 6:15 arrived
+at Lake Andes, where we were met by our old friend Phil McGuire, the
+section foreman, whose residence was left two and one-half miles out
+whom the present town of Lake Andes was located, and as yet the 
+Milwaukee railroad company, as Mr. McGuire expressed it, 'has not felt
+able to move it to the town.' Mr. McGuire and his estimable family 
+entertained us in the finest style, and did everything to make our
+stay pleasant, and to say that we greatly enjoyed their hospitality
+would be putting it entirely too mildly.</p>
+    
+   <p>"We spent the time while there in hunting and fishing with the
+usual hunters' luck. The lake is a beautiful sheet of water from a 
+half to a mile wide and 12 miles long. It is fed by two artesian
+wells but in by the government, and the water is as clear as crystal
+and teeming with fish. The land adjoining the lake is nearly all
+'allotment land' that is alloted to the Indians by the government,
+but there are quite a few white settlers scattered over the prairie.
+Some of the Indians have good houses and cultivate a portion of the 
+land but the greater part is used for grazing and hay.</p>
+   <p>"The town of Lake Andes, which is only about four months old,
+is a specimen of western enterprise, and already has several
+hundred inhabitants, three elevators and the fourth one being built,
+several general stores, drug store, two barber shops, a newspaper.
+The Lake Andes Wave, ably edited by Bro. Fry, and numerous other
+business institutions, such as hotels, restaurants, billiard halls,
+etc. The town is bound to be a boomer in the near future - and 
+probably the county seat at no distant day."</p>
+</body>
+</text>
+</TEI>

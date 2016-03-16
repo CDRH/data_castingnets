@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.goodroads.0015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Thatcher Calls Roads Meeting</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="supplied">Thatcher Calls Roads Meeting</title>
+<title level="a" type="original">Untitled</title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1915-03-18"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Thatcher copyrighted colors</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Supplied title</change>
+<change when="2010-08-03"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+
+	<p>Colonel Thatcher, the main spoke in the Washington Memorial Highway, has called a meeting of good roads enthusiasts at Geddes on April 5th, when matters pertaining to a continuance of work in the spring on this great highway will be talked over. There is no getting away from it, Colonel Thatcher has accomplished more in the way of good roads in this county than has ever been done before, or ever will be in so short a time. In fact he has the people so enthused that the route of his great highway through this county will be one of the best. We have all come to realize the value of this highway to a community, and of good roads, and all through the influence of Colonel Thatcher. Watch the dirt fly in the spring.</p>
+</div1>
+
+ 
+<div1>
+
+<head type="main">WILL PAINT THE POSTS ANYWAY</head>
+
+	<p> Tabor Independent: Our paint and brush artist is waiting for favorable weather when he will take a hike out into the country between here and Tyndall and mark the posts where the Washington Highway is supposed to be running. And this on top of the warning Col. Thatcher has sent into Tabor, that he has the color scheme copyrighted, or patented, we don't know which. The fact is that a thing like the Washington Highway color scheme cannot be copyrighted, because its purpose is not commercial. We'll give the Colonel all credit that is coming to him, but we refuse to be "shooed" away from our purpose by any such thing as a copyright.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

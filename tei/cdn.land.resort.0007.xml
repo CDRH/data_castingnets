@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.resort.0007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">A Trip To Lake Andes</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.land.resort.0007</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">A Trip To Lake Andes</title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1906-06-28"></date>
+<biblScope type="page">5</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2010-02-18"><name>Laura Weakly</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<head type="main">A TRIP TO LAKE ANDES</head>
+
+<p>Last Friday in company with Treasurer Evers, Auditor Gibson and
+Clerk Rouse ye editor went to Lake Andes on a fishing excursion. We
+returned on a Saturday evening with seventy-five fish and well
+pleased with our catch and with the enjoyment we had throughout the 
+trip. Our stay at the lake was made most pleasant by the courtesy
+of some of the business men of Lake Andes. Mr. T.E. Andrews supplied
+us with boats and fish-poles. Mr. W.B. Gilreath took us down to the
+lake and showed us where and how to catch fish. A. Vander Voort and
+Editor Thompson came down to the lake late in the evening to help 
+us care for the fish we had caught and the next morning Albert 
+Amundson took us for a six mile ride in his gasoline launch which
+he has recently constructed. This craft is 28 feet long and skips
+through the water propelled by a three horse gasoline engine. The
+boat will carry fifteen persons. Other parties are remodeling the
+machinery on the Latham excursion boat and this boat too will soon
+be at the service of pleasure seekers on the lake.</p>
+<p>Lake Andes is a model place for an outing and in the near future
+will be known far and wide as a pleasure resort which good fishing 
+and good hunting will insure.&#8212;Wheeler Courier.</p>
+
+</body>
+</text>
+</TEI>

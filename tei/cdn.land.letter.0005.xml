@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.letter.0005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Johnson, Ripple, and Dutch correspondence</title>
+<title level="m" type="sub"></title>
+<principal>David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.land.letter.0005</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2010 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a">Karl Mundt correspondence</title>
+<title level="a"></title>
+<title level="j">correspondence</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1930-02-16"></date>
+<biblScope type="page">unknown</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2010-08-04"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+
+<p> June 3, 1933.</p>
+
+<p> Dear Bob:</p>
+
+	<p> As program chairman for the state Izaak Walton
+League Convention, I have put you down for a 15 minute
+talk on "Future Fishing Conditions in South Dakota".
+Please prepare the best talk of your young life and give
+the boys something to remember and something to look forward
+to. Your talk will come Monday, June 19.   Due to the
+fact we have just a one-day convention, this year, we are
+asking the boys to adhere strictly to their time limits
+and we are going for Shorter and Better Speeches.</p>
+
+	<p> Please let me have your confirmation of this
+speech assignment as soon as possible.</p> 
+
+	<p> I hope fishing operations are going along fine,
+Bob, and there are just two things we'd like down here
+before Convention time which would do a lot for Bob
+Ripple's popularity and a lot for Lake County Lakes:</p>
+
+	<p> (1) We should have some more Pike fry for Lake
+Herman. We got some nice fry, Bob, but not very many of
+them as we put some of them in Lake Badus. Can't you send
+us a few more for Herman??</p>
+
+	<p> (2) You have long promised us some more BASS for
+Herman and Badus but they have never been forthcoming.
+You were going to get them from the ponds at Lake Andes
+or from some salvage work along the river. What has
+happened in this regard? Can't you locate us some bass,
+adults or fingerlings, and send them down before the 18th?</p>
+
+	<p> Best wishes.</p>
+		
+					<p> Cordially yours,</p>
+					  <p> Karl. E. Mundt.</p>
+</div1>
+
+
+<div1>
+
+	<p> Watertown, June 6, 1933.</p>
+
+<p> Mr. Karl E. Mundt, Vice Chairman,
+Department of Game and Fish,
+Madison, South Dakota.</p>
+
+<p> Dear Mr. Mundt,</p>
+	
+	<p>A million thanks for the opportunity
+extended in your letter June 3rd, to talk about fish
+and fishing for 15 minutes at the coming convention in
+the Izaak Walton League at Madison Monday, June 19th,
+and I will endeavor to plan my work so that nothing will
+stand in the way for me to attend so far as possible.
+We have put over a big program this spring in fisheries
+work and have now turned to getting rough fish from the 
+Sioux River above and at the Flandreau Dam where people
+were getting quite sour to have something done.
+With my short crew combined with so many things to look
+after at this particular season its rather difficult to
+cover it all but Karl I am out to endeavor to show those
+people at Flandreau that we will co-operate with them
+and so my men and self are making an effort that I hope
+will be a success and ask that you back me in this endeavor.</p>
+
+	<p> About the wall-eyed pike fry, you did not
+get so very many cans but you did get a wonderful number
+and quality of fry in them since that trip was a short one
+from our hatchery so I could pile them in thick.
+I wont say anything about the planting of pike fry in Badus
+lake instead of placing them all in Lake Herman however
+they may do well at Badus.     Those pike fry were nearly two
+weeks old and of very fine quality and just a couple days after
+that shiptment was sent forth along with others, our hatchery
+was closed up for the season.    I have had no end of letters
+from people around our lakes like Big Stone etc. telling of
+their appreication for the wonderful plants of pike this year.</p>
+
+	<p> Those breeder black bass I spoke of sending to
+Lake Herman this spring could not be had as I learned from
+E. E. Allgier, Lake Andes. Duffy first told me he would
+get them down there however later he told me he did not have
+them to send so thats all I know about this deal.
+During our work this spring I havent been in position to get
+any bass breeders even for our state ponds although we have
+a good supply left over from former years that will fill the
+bill. Although I am extremely sorry the Lake Andes bass
+did not terminate for Lake Herman there is nothing I can do
+at this time.</p> 
+</div1>
+
+
+<div1>
+
+<p> Mr. Karl Mundt . . . 2</p> 
+
+	<p> When the man went to Madison with pike fry
+I told him to let you know that Duffy had said he did not
+have the bass breeders to send and again when I met warden
+Cliff Coffey here at Watertown I told him to let you know.
+Although I am not passing the goat to Duffy, I had depended
+on him to get you these bass after he told me he would.</p>
+
+	<p> I am planning out a new program at our
+Redfield bass hatchery this summer to create an output of
+large bass fingerlings this fall season that will put that
+place on the may in a big way and from a letter received from
+Liebig last night it looks as though this program will bear
+fruit to the extent that everyone will set up and take notice.
+I wont brag to much now but the propagation of black bass
+fingerlings will have its day this fall at that hatchery.
+The supposed lowly bullhead will also have its day there.</p>
+
+	<p> With my total crew and self tied up with the 
+Flandreau work of getting out rough fish above that dam I
+wont have any opportunity to get further fish to Madison
+previous to the coming meeting however may you realize that
+to me it is very plain what the people want in more and better
+fishing in that locality and its ever in my mind to do all
+possible to that end.</p>
+
+	<p> While we were on the pike work at the Kampeska
+hatchery, Mr. Coffee asked me for some perch for Lake Herman
+saying there was such a demand for same and although possibly
+it is not just proper to start perch in there with the pike,
+I did send down about 1,100 good sized perch for Herman.</p>
+				
+				<p> Again thanking you for the invitation Mr. Mundt,
+					Cordially yours,
+					R. L. Ripple</p>
+</div1>
+
+
+
+<div1>
+
+<p> Watertown, June 27, 1933.</p>
+
+<p> New Bedford Cordage Co.
+230 West Huron Street,
+Chicago, Illinois.</p> 
+
+<p> Gentlemen:
+
+	Replying to yours June 23rd, asking for
+list of commercial fishermen in South Dakota, will
+give the following names and addresses.</p> 
+
+		<p> Chas. Smith       Arlington, S. D.
+            W. W. Williams    Watertown, S. D.
+            K. J. Kjellsen    Arlington, S. D.   Garage
+            Jerry Wilson      Sisseton, S. D.    Pool Hall 
+            Dick Allen,  % Jerry Wilson, Sisseton, S. D.
+            Joe Kiner,        Lake Norden, S. D.
+            Chas. Nitteberg,  Castlewood or Estelline, S. D.</p> 
+
+		<p> The above seven names are about all the commerical
+fishermen who have been engaged in such work in South Dakota
+during recent years.</p> 
+
+                   <p> Very truly yours,
+                   Department of Game and Fish,
+                      R. L. Ripple
+                    Supt. of  Fisheries,
+                    R. L. Ripple</p>
+</div1>
+
+</body>
+</text>
+</TEI>

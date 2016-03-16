@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.water.fishdays.0002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">What Others Say of Fish Day</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.fishdays.0002</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">What Others Say of Fish Day</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1916-06-22"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Remarks</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-13"><name>Laura Weakly </name> Fixed title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+	<head type="main">What Others Say of Fish Day </head>
+
+<p> Wagner Post: Fish Day at Lake Andes was a great success. We were informed that fully 3,000 fish dinners were served and yet did not have enough to feed all present.</p>
+
+<milestone unit="absent" />
+
+<p> Wagner Eagle:  A large number took in the "Fish Day" program at Lake Andes last Friday, reporting a fine program, an enormous crowd, and a good "fish fry." Andes certainly did herself proud in  entertaining the people on this date.</p>
+
+<milestone unit="absent" />
+
+<p> Wheeler Courier: Last Friday was Fish Day at Lake Andes and an immense crowd of people were present to enjoy the fish dinner and sports. For weather the day was ideal. A good program was carried out as advertised. A large number attended from this locality and all report a grand good time.</p>
+
+<milestone unit="absent" />
+
+<p> Armour Herald: A large crowd attended the annual Fish Day celebration at Lake Andes. It is estimated that there were fully 2,000 autoes <sic>autos</sic>.  The main  feature of the
+day was the big free fish dinner, at which fully 6,000 people were served. Everything was well planned, the vast crowd being fed with very little confusion in one hour and thirty minutes.</p>
+
+<milestone unit="absent" />
+
+<p> Platte Tribune: Fish Day at Lake Andes was a howling success from every angle. The day could not have been more perfect had it been made to order, and the crowd estimated at six thousand, was all and even more than was expected. The entire day was one of great pleasure to those in attendance, and the business men of that thriving little city are to be congratulated upon the success with which they handled a proposition of such magnitude.</p>
+
+<milestone unit="absent" />
+
+<p> Armour Chronicle: Flah Day at Lake Andes occured <sic>occurred</sic> last Friday and was a decided success. Parties from all parts of the surrounding country were there, some 3,000 strong and it taxed the facilties of Lake Andes' citizens to care for their guests. However, none came away hungry, there were bass and other toothsome dainties in plenty for who so ever would and it was free at that.  Fish Day is fast becoming one of the red letter days of our neighboring little city.</p>
+
+<milestone unit="absent" />
+
+<p> Bristow (Neb.) Enterprise: Quite a number from Bristow and vicinity attended the annual fish day celebration at Lake Andes, S. D., Friday. An enormous crowd was present and everything was pulled off in fine shape. The base ball <sic>baseball</sic> game in the afternoon between Avon and Greenwood, was an exciting affair and ended in a victory for Greenwood, 3 to 2, in a whirlwind finish in the ninth inning. The crowd was estimated at 6,000 and most of them partook of the fish dinner.</p>
+
+<milestone unit="absent" />
+ 
+<p> Geddes News: Fish Day at Lake drew one of the largest crowds ever gathered at one place and time in Charles Mix county. The day was ideal for automobile riding and hundreds took advantage of its call for a ride and outing at the town beside the lake. Fried fish was in abundant evidence and with the sports and music and good roads made an enjoyable day for those who had the pleasure of being present. The residents of Lake Andes did themselves proud in entertaining the battalions of splendid army out for a good time and which, so far as we have heard, all had.</p> 
+
+<milestone unit="absent" />
+
+<p> Geddes Citizen: What is conceded to have been the largest crowd ever assembled in one place in Charles Mix county was that which met at Lake Andes last Friday, the occasion being their annual "Fish Day" celebration. Conservative estimates place the number at from five to six thousand people, while the number of automobiles is estimated at upwards of five hundred. People came not only from all parts of our own county, but there were many from Douglas, Brule, and Aurora counties. The enormous crowd was handled to a perfection. Not an untoward incident marked the day. The weather was ideal, by far the best day of the season so far this year. Lake Andes appeared to be working in perfect harmony with the weather clerk, for the days both preceding and directly following their gala day were far from as pleasant. The entertainment of the day consisted of well conducted sports, including two good ball games. In one of these the Geddes team figured in a contest with Ravinia, in which Geddes was the victor. The big feature of the day, of course, was the big free fish dinner. In this the committee in charge of celebration kept full faith with their advertised promised <sic>promise</sic>, and supplied fish for everybody. Taken all around Lake Andes' second "Fish Day" was an outstanding success, and will go down in history as a high mark to be equalled by future celebration of a similar nature.</p>
+
+<milestone unit="absent" />
+
+<p> Platte Enterprise: It would have been impossible for the fair city of Lake Andes, a candidate for the county seat at the November 1916 election, to have furnished a more fitting introductory than that of its Second Annual Fish Day celebration last Friday. A perfect day, excellent roads and a big desire to eat bass drew one of the largest crowds ever assembled in Charles Mix. The large crowd present at the dinner hour was evident the the black bass was the feature of the day. The managers of the fish department were equal to the occasion and we saw no one who did not receive their portion of the big fish feed. The program consisting of ball games, horse racing, foot races, novelty races, street attractions, etc. furnished amusement for the nearly 6,000 people present. At eventide the lovers of dancing repaired to Rest Haven where its genial owner, H. Z. Miller, traveling representative for the Hibbard, Spencer, Bartelt and amp; Co. of Chicago, took them in charge and waited on the largest crowd aver assembled at the Haven. This is certainly one of the prettiest places on the lake and those not knowing that such a place exists would be surprised to note its pleasant surroundings. A popular orchestra entertained the large crowd till early this morn. To say that Lake Andes did herself proud in entertaining and caring for the large crowd is putting it mildly. It is a certainty that all were highly pleased as was evidenced by the many kind remarks made by the visitors toward the citizens who had treated them so royally.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

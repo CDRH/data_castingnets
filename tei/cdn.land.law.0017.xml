@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.law.0017">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Contributed by a V.C.C.C. Veteran</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Contributed by a V.C.C.C. Veteran</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1933-07-27"></date>
+<biblScope type="page">uncertain</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>VCCC Veteran</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Fixed title</change>
+<change when="2010-08-04"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+
+<head type="main">Contributed by a V.C.C.C. Veteran</head>
+
+<p>On the eastern outskirts of Lake Andes lies the tent city of the V.C.C.C. Company, 1776 which is composed of veterans of the late war. These men are not here of their own choosing, but because of the depression, working for a dollar a day, board and clothing that their loved ones at home may have the food and clothing that they need to exist.</p>
+
+<p>Is this company a bunch of bums, that are too lazy to work? No, they are not. It is because the bankers, Senators and in fact, all of our lawmakers do not see fit to pay the bonus that is ours.</p>
+
+<p>They say that the country can not <sic>cannot</sic> stand to pay it now &#8212; that it would ruin the money standard, <sic>period</sic> It is true that it is a large sum of money, but did anyone ever stop to think that if this money had been paid that the Veterans would put it back in circulation.</p>
+
+<p>It is a funny life. Back in 1917-18 when our country needed the husky young men of this country, we answered the call and were hailed as heroes. The ones that gave their lives are still heroes but the ones that lived through it all and got home were no longer thought of, till they marched to Washington last summer and again this year. At last one President has created some work for us and provided us a home till we can better our selves <sic>ourselves</sic> otherwise.</p>
+
+<p>There is not a man in this company that would not take a job at home so that he could be with his family. But as we cannot be there, lets make the best of it, and take it with a smile. We thank the Lake Andes people for their kindness to us and that the memories may be pleasant to them and the members of Company 1776.</p>
+</div1>
+
+<div1>
+
+<head type="main">VETERANS AT CAMP ENTERTAIN</head>
+
+<p>The C.C.C. men gave a pleasing entertainment at the camp last Thursday evening. The high school band played several members and the rest of the program was furnished entirely by the men. It was clever and brought forth hearty applause.</p>
+
+<p>The hypnotist, dancers, singers and mind reader deserve special mention with Princess Fatima as leading lady. The mutual good will and courtesy between towns people <sic>townspeople</sic> and the camp was expressed in a few remarks and enjoyed by those who participated in the evenings entertainment.</p>
+
+<p>Parking space was hard to find as the attendance more than exceeded the space alloted. Future performances will receive a greater patronage due to the success of the first.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

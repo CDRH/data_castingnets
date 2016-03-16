@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.law.0013">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Building a Dyke and Road Across the Lake</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Building a Dyke and Road Across the Lake</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1934-08-23"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Dyke</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Fixed title</change>
+<change when="2010-08-04"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<head type="main">Building a Dyke and Road Across the Lake</head>
+
+<p>Armogur Herald: A detail of about 20 men was detached from the VCC camp at Lake Andes and began work Monday morning on a new project at the north end of the lake. This new job is to be a grade or dyke across the lake on the section line which runs thru <sic>through</sic> Bass Beach Park east and west. The dyke will be eighteen feet high where it crosses the center of the lake, and thirty feet across the crest. A graveled road will be built on top of the dyke, much the same as the one on the dam at Lake Mitchell. This road when completed will connect the graveled road at Bars Beach with a graveled road on the west side of the lake which leads into Lake Andes. Such a road will give the people in the locality a more direct route to Lake Andes town and the Wheeler bridge. It will also divert much of the traffic from the stretch of road at the south end of the lake, which is now used, both as US 18 and state highway 50. This piece of road has always been hard to keep in repair due to the heavy traffic it has been called upon to carry and this new route will no doubt save a great deal in maintaining expense to the state. </p>
+<p>The dyke will have a water gate in the center of the lake to insure a water level at all times and to allow flood waters from Andes creek to reach the main body of water. It is expected that the Spotis or north artesian will furnish sufficient water in this part of the lake to care for a great many fish and will act as a guard against the lake ever drying completely up as it has several times in the past. Many are of the opinion that, with the exception of the few fish around the well, fish life in the lake is now extinct.</p>
+
+<p>This project is in line with Roosevelts <sic>Roosevelt's</sic> water conservation program, as it will keep the water from the well confined to a smaller area, thereby lessening the evaporation surface and also save the rain water which comes into this part of the lake from the water shed <sic>watershed</sic> to the north and west. It will furnish a reservoir where thousands of fish could be saved in case of a water shortage such as we are now experiencing.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

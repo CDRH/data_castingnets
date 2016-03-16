@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.resort.0005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Senator Gamble in Town</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a">Untitled</title>
+<title level="a">Senator Gamble in Town</title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1906-04-19"></date>
+<biblScope type="page">5</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Streets</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-14"><name>Laura Weakly</name> Fixed title</change>
+    <change when="2010-02-18"><name>Laura Weakly</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<head type="main"></head>
+
+<head type="sub"></head>
+
+<p>Senator Gamble was in town for a short time Friday afternoon, calling
+on friends.</p>
+<p>Mr. and Mrs. J.W. Hewett went to Tyndall Wednesday morning, returning
+the same evening.</p>
+<p>Miss Sadie Anderson came up from Vermillion Friday evening to spend
+Easter at home.</p>
+<p>John Stedronsky came up from Wagner on business Monday, returning Tuesday.
+Attorney Dirks returned from a two weeks' visit with friends at Yankton,
+Monday.</p>
+<p>Stedronsky Bros. have a full line of machinery and hardware. See
+their advertisement this week.</p>
+<p>Roy Tucker and Date Raben were down from Geddes first of the week
+hunting ducks.</p>
+<p>Several prairie fires were burning east of town this week, and 
+considerable property was destroyed, caused by some people being 
+careless. People should be a little more careful about setting fires
+unless there are good fire guards.</p>
+<p>The Alpena Journal came out with eight pages of home print, 
+containing a splendid write up of the town. When Brother Dye took
+charge of the Journal plant six years ago it was practically a pile
+of junk, he has made it one of the lceanest and best weekly 
+newspapers of the state.</p>
+<p>Belows Wood started for Texas Friday morning, he expects to purchase
+several car loads of cattle to stock his farm east of town, which
+he has fitted up in fine shape and where he has just put down an 
+artesian well.</p>
+<p>A citizen meeting was called Saturday evening to talk over the ...</p>
+
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.game.0003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fish Poachers in Lake Fined</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.land.game.0003</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Fish Poachers in Lake Fined</title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1906-01-04"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2010-07-29"><name>Rhiannon Root</name> Proofreading</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<head type="main">FISH POACHERS IN LAKE FINED</head>
+
+<milestone unit="absent" />
+
+<p>City Justice Van der Wort had his first <unclear reason="illegible" />. at the fish robbers Friday last. Joseph Kotalik and Joe Novotney were the first on the carpet and the former was dismissed, but Novotny paid $25 and cost. Later in the day Henry Schmoll and Adam Fauth each paid $25 and costs for taking the fish from the lake other than by baited hook and in unusual quantity to the danger depleting the lake of its foodfish.</p>
+
+<p>Justice Steel had his round on Saturday when the Paul boys and their uncle were pulled for the same offense. It developed that the old man held the sack while the boys filled it with fish. The justice felt a little sorry for one of the boys because of his ignorance of the law, but concluded that a taste of the same would benefit the lake. The uncle led the break for liberty and was caught with a threat of a bigger fine. Their second effort was successful, but upon reaching Wagner they sent a check for the fine. They would have been brought back had they not thought better of the matter and forwarded the money.</p>
+
+<p>The lightest possible fine has been administered by both justices in hopes that the lessons will tend to discourage further unlawful taking of fish from the lake. Bullheads seek the warm water in the vicinity of the artesian well, and they congregate in such great schools that they can be scooped up by the pailful. It has been a great temptation for people far and near to abuse the law and carry fish away by the hundreds, and frequently by the wagonload. What were not otherwise disposed of were often fed to hogs. The people in town who regard the lake as one of the town's sources of revenue have become alarmed lest this privilege if continued would deprive the people of a large district from enjoying the legetimate <sic>legitimate</sic> sport in season, and the result is the punishment being inflicted.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

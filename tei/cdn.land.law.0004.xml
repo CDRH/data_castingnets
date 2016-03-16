@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.law.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">VCC, 1776, Wins First Place in 7th Corps Area</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">VCC, 1776, Wins First Place in 7th Corps Area</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1933-09-07"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Camp award</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Fixed title</change>
+<change when="2010-08-03"><name> Rhiannon Root </name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<head type="main">VCC, 1776, WINS FIRST PLACE IN 7th CORPS AREA</head>
+
+<p> Lake Andes has reason to feel honored that the Veteran Conservation Corps. No. 1776 has received the <unclear reason="illegible"/> award from the Army and Navy <unclear reason="illegible" /> of Washington, D. C. in a <unclear reason="illegible" /> <choice><sic>sponsered</sic> <corr>sponsored</corr></choice> by this publication <unclear reason="illegible" /> the highest scoring camp in the 7th corps area which <choice><sic>incluudes</sic> <corr>includes</corr></choice> 158 camps. From the 8 states, Arkansas, <unclear reason="illegible">Minnesota</unclear>, Kansas, Missouri, North and South Dakota, Nebraska and <unclear reason="illegible" /> Lake Andes, 1776 had the highest rating in the various points re-<unclear reason="illegible" />. The sanitation of the <unclear reason="selection" />, preparing, and serving of the <unclear reason= "illegible">food</unclear>, care of kitchen and mess halls and arrangement of tents from point <unclear reason="illegible" />. <unclear reason="illegible" >Sufficiency</unclear>, bathing facilities and <unclear reason="illegible">health protection</unclear>  also recreational <unclear reason="illegible">stages</unclear> and layout and beautification of ground were all considered <unclear reason="illegible">for the</unclear> final award. The Captain, H. <unclear reason="illegible" /> will receive a gold medal and <unclear reason="illegible">the</unclear> men each a a bronze button.</p>
+
+<p> Colonel Pendleton of Omaha was <unclear reason="illegible">the</unclear> inspecting officer and recommended this camp as the highest.</p>
+
+<p> <unclear reason="illegible">The</unclear> local community can best <unclear reason="illegible">speculate</unclear> what the officers and <unclear>men</unclear> have accomplished in the <unclear reason="illegible">weeks</unclear> since the camp site was <unclear reason="illegible">made</unclear> in the alfalfa field east of the <unclear></unclear> park.</p>
+
+<p> <unclear reason="illegible">It is</unclear> now an attractive addition to <unclear reason="illegible">the town</unclear> and the community is justified that such an honor has been <unclear reason="illegible">bestowed</unclear>, possibly realizing more <unclear reason="illegible">than</unclear> others what the camp has accomplished. Each camp had only a <unclear reason="illegible">limited</unclear> amount of money to spend <unclear reason="illegible">and careful</unclear> management together with hard work has placed this camp at the top. The officers and the men are to be congratulated.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

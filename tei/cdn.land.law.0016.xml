@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.law.0016">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Power Machines Digging Spillway</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Power Machines Digging Spillway</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1933-10-26"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Fixed title</change>
+<change when="2010-08-04"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<head type="main">Power Machines Digging Spillway</head>
+
+<milestone unit="absent" />
+
+<p>Finding that work of digging the spillway of our lake by hand power has not produced the expected results, two drag-line excavating machines were ordered here the last of the week, one arriving Friday and was put to work Sunday with three shifts to speed the work. The ditch for the 6000-feet of tiling through the deepest part of the digging is to be widened in places deepened by the machines.</p>
+
+<p>The work of completing the digging and laying of the monster tiles, which are about six feet in height and the same distance in length, will be attempted before cold weather seriously interfers <sic>interferes</sic>.</p>
+
+<p>The Roberts Construction Co. of Omaha are in charge of the dredges and with a 24 hour service they expect to render, it is not improbable that they will remove a lot of dirt and make a big showing in the project which began more than three months ago by the members of the Veterans Conservation camp, located at the Amundson resort in this city.</p>
+
+<p>The second machine arrived Tuesday and was immediately taken to the west end of the tile part of the ditch and put in service laying a few tile <sic>tiles</sic> and assisting in the widening and deepening of the canal.</p>
+
+<p>Many spectators have been attracted to the scene of operations and marveled at the deftness and power of the monster shovels.</p>
+</div1>
+
+</body>
+</text>
+</TEI> 

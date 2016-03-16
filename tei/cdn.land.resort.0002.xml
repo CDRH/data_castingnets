@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.resort.0002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Parker Stops at Limit</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a">Untitled</title>
+<title level="a">Parker Stops at Limit</title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1905-08-31"></date>
+<biblScope type="page"></biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-14"><name>Laura Weakly</name> Supplied title</change>
+    <change when="2010-02-18"><name>Laura Weakly</name> Initial Encoding</change>
+    <change when="2010-01-25"><name>Sam Herley</name> OCR</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<p>Ralph Parker with his new gun and his eagle eye stopped at the limit
+of the game law and left a couple of prairie chickens for the 
+newspaper family.</p>
+   <p>A. Amundson and Robert Craig went to Platte Tuesday evening on 
+business, and while they were on the return train concluded to go to
+Chamberlain to see the new sights here.</p>
+   <p>Two seperator outfits have been landed by A. Amundson and C.W. 
+Rathbun, the traveling salesman of the Avery people. No other town
+on this line can compare in any way with this infant burg, and 
+particularly in machinery sales of the two firms here.</p>
+   <p>Rev. E.H. Grant, Sunday school superintendant of the state, was 
+the guest of Rev. Berry and other friends several days this week
+and will remain over Sunday and preach instead of Rev. McClement of
+Platte, who was to have exchanged pulpits with Mr. Berry, but his 
+hay fever was not in the least generous to him.</p>
+   <p>Mesdeames Adam Grimes and John Absher and Misses Minnie Absher 
+and Dora Amundson came up from Wagner Monday evening and were guests
+of the Amundson home. The former returned next day and left the 
+young ladies to enjoy the tastes of combination city and resort life.
+Miss Alma Heligas, a teacher in the Tyndal schools, joined them 
+Wednesday.</p>  
+   <p>H.G. Harris, representing the Sioux Falls Daily Press, was in town
+Tuesday and wrote up a glowing description of Lake Andes, its 
+agricultural surroundings and hunting, fishing, and resort features,
+aided by photos of the town. He has been joined by J.N. Harris, D.C.
+Ricker, and Los Mulvey of his home city, and together they will
+assist in opening the game season.</p>
+
+
+</body>
+</text>
+</TEI>

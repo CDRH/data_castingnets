@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.water.lake.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Storm Sweeps Country Sun</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.lake.0004</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Storm Sweeps Country Sun</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1933-11-16"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>storm</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-13"><name>Laura Weakly </name> Fixed title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+<head type="main">Storm Sweeps Country Sun.</head>
+
+<p> The cap-sheaf sand and dust storm hit Lake Andes before noon Sunday and continued until sundown, turning day into night and sifting dust and grit into every corner and crevice, covering even the closest built cellars and buildings with deep layers. Shortly after noon the 40-mile gale reached its worst, totally obscuring the sun and made necessary the use of lights in homes and on the streets. Automobile lights were bedimmed but a few feet away and street lights looked like 10 watt bulbs. The redeeming feature of the storm was the absence of cold weather.
+In the country many small buildings were <choice><sic>over-turned</sic> <corr>overturned</corr></choice> and telephone poles were broken and <choice><sic>up-rooted</sic> <corr>uprooted</corr></choice>. Lights were necessary in homes almost the entire day and it is said some chickens went to roost doubtless figuring it was night and time to go to bed.</p>
+
+<p> A <choice><sic>peculair</sic> <corr>peculiar</corr></choice> phenomenon was the appearance of bright blue <choice><sic>halo</sic> <corr>halos</corr></choice> at the top where the sun was attempting to shine through the murky darkness. The storm swept from west to east and covered the country from Minneapolis to Oklahoma and from the Rocky mountains to Ohio. Some people thought the world was coming to an end and became panicky.</p>
+
+<p> West of here it is reported, the wind blew harder and the damage to fall sown grains was heavy. East of there was a considerable acreage put in to fall wheat, rye and other fall seeded grains this year. The rains of September were beneficial to the grain and a good stand resulted. The storm Sunday exposed the roots and even though the grain itself was not blown from the ground, the exposure of the roots threatens complete loss of the crop through winter killing.
+The weather bureaus from all parts of the storm swept area declare it was the most severe dust storm ever known in the middle west.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

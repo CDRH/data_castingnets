@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.law.0005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Tile for Spillway Completed Tuesday</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Tile for Spillway Completed Tuesday</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1934-02-08"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Spillway tile</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Supplied title</change>
+<change when="2010-08-04"><name> Rhiannon Root </name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<head type="main">TILE FOR SPILLWAY COMPLETED TUESDAY</head>
+
+<milestone unit="absent" />
+
+<p>The making of the tile for the spillway of the lake which began last August was finished Tuesday at the plant south of the Farmers' elevator. There are 1,004 of these monsters which are aboout <sic>about</sic> six feet in diameter, outside measurement and five feet in length.</p>
+
+<p>It took about 1700 cubic yards of crushed stone and nigger-heads that was reduced to usable size, of not more than two inches the longest way by L. Donovan and his sons. It took 15,000 100-pound sacks of cement, five carloads of 9-32 in. steel wire, 120 rolls, weighing 1800 pounds to the roll, or probably if in one strand would reach more than five miles.</p>
+
+<p>As it was a federal job and the cement awarded by contract, Nebraska cement dealers under-bid our South Dakota cement plant and got the contract. The cost of making the tile would easily exceed $20,000. The digging of the remainder of the ditch for the tile was halted several weeks ago, because of the lack of funds. When it will be resumed and the work copmleted is not now surmised.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

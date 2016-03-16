@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.resort.0011">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Duck Hunting on Lake Andes</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Duck Hunting on Lake Andes</title>
+<title level="a"></title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1909-01-28"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-14"><name>Laura Weakly</name> Fixed title</change>
+    <change when="2010-02-18"><name>Laura Weakly</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<head type="main">Duck Hunting on Lake Andes.</head>
+
+<p>Clate R. Tinan, editor o f the Kimball Graphic spent a few days with his friend, Levi D. Wait of Armour, hunting
+ducks on Lake Andes last fall and on his return home published the following in the Graphic:</p>
+
+<quote>
+<p>"The ducks have gone for their winter's visit in the south land, for it is a visit merely, the north land being
+their true and only home, where they nest and rear their young and where they would always remain were it not
+for the freezing of the waters they love so well, and if I should never see any of them again, I should feel always
+that the enjoyment and keen sport they gave me for a few days hunt at Lake Andes, nestling in the prairie land of 
+Charles Mix, was a fit culmination not only of a season's rare hunting but years upon years of it in times gone by.
+"In response to repeated invitations from my old friend, Levi D. Wait, and which finally terminated in a positive
+demand, I was finally induced to break away from the cares of this printing office just before election and spend
+a few days with him at his 'shack' on the bank of the lake about ten miles from Armour, and that outing stands out
+as the most conspicuous and enjoyable duck shooting experience that I have ever had in South Dakota &#8212; and I have 
+'gone some' at times.</p>
+
+<p>The lake is ten miles long, from half a mile wide, four to eight feet deep, and with very little 'cover' and that mostly
+along the edges and out of the line of fight of the main body of ducks. To get action on the ducks one must be provided
+with a modern "sneak" boat, or something equally as good, decoys, perhaps, and of course a place to sleep and eat convenient
+to the best grounds for shooting. A tent isn't the war nest thing in the world in cold weather, when the big ducks
+are at the lake, and the inconvenience of the transportation of boats and camping outfit to the shores of the lake is a big
+undertaking. In common with a bunch of other Armourites, Mr. Wait has a 'shack' at the lake, equipped with all the accessories
+for either summer or winter camping, including boats, decoys, fishing, tackle, and son on, and a good place for his team.</p>
+
+<p> "Now, nobody likes 'all the comforts of home' better than your humble scribe, especially after a hard day's outing with the 
+gun, but the camping out part of it, under proner conditions, is as much a part of the real genuine sport of it as the shooting.
+To run the nose of your boat, well filled with ducks, into the bank of the lake after dark, and in the inky blackness of the night
+swing open the door of the shack and find your companion there and a good fire and a bang-up hot supper under ful headway - 
+wel, say, may the Good Lord have pity on the skim milk soul that has never felt it. It is the autum spirit focalized, the 
+quintessence of everything that is bully and first rate. But it's hard work &#8212; the shooting part of it, not the eating.</p>p>
+
+<p>My old friend, Frank J. Corey, of Watertown, a dead game sportsman, characterizes slough shooting as the next hardest to 
+feeding a threshing machine. To my notion it's boy's play compared with being cramped up in a steel ducking boat from daylight until
+noon, lying in all sorts of positions but easy ones to shoot from; in scant cover scarcely higher than the cockpit and perhaps in
+winds that keep you busy holding hte boat anchored half the time and the other half pounding your legs to keep them from freezing
+stiff. The man who prides himself on being a good duck shot, standing on his feet, will under such conditions have the conceit
+all knocked out of him, and he will especially be up against it when he draws a bead on tehahrdest bird to kill that flies - 
+the blue bill duck.</p>
+
+<p>"We happened to hit the lake when the main flight of these northern deep water fowl were on their southern flight. They were there
+by the thousands and with the a goodly number of canvasbacks and redheads, all three varieties of which consort. The blue bills
+were so numerous that it was not necessary to spend much time trying ot get onto the feeding grounds of the canvasbacks and 
+redheads, all three varieties of which consort. The blue bills were so numerous that it was not necessary to spend much time
+trying to get onto the feeding grounds of the canvasbacks and redheads, and what we got of the latter were scratch shots in 
+the early morning shooting at early daylight. Blue bill shooting when it is good can scarcely be excelled. They are an extremely
+gamey bird, wonderfully fast flyers and rely on their tremendous speed rather than the height of their flight to outwit the enemy.
+They decoy well, but to their own specie only, or canvasbacks and red heads, and when headed for some favorite feeding ground or 
+midday resort afford the fastest as well as the most difficult in shotting imaginable to the hunter in a properly constructed
+boat blind. They are always busy and are continually flying from place to place all day long, and always seemingly at times for no
+other purpose than for exercise or to see how good a shot you are. I have in year gone by had some magnificent shooting on these birds 
+along the marshes of the great lakes, but never any better than at Lake Andes of October, 1908."</p>
+</quote>
+</body>
+</text>
+</TEI>

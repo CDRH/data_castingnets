@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.water.boat.0035">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Is Lake Andes Navigable?</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0035</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Is Lake Andes Navigable?</title>
+<title level="a"></title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1911-09-21"></date>
+<biblScope type="page">8</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Navigable Letters</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-13"><name>Laura Weakly </name> Fixed title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+
+<head type="main">Is Lake Andes Navigable?</head>
+
+<p>(The following article is reprinted from the Armour Chronicle at the
+request of E. Harry Best.)</p>
+
+<p>As the question of the right of public travel to and upon the banks
+or shores of Lake Andes is so often in dispute I submit herewith
+copies of a part of the communication which I have had from the
+department of the interior upon that subject. The information which I sought in my letter of inquiry, 
+is indicated in a letter from the department to Hon. C. H. Burke, which is as follows.</p>
+<floatingText>
+ <body>
+<head type="sub">Department of the Interior,<lb/>
+General Land Office,<lb/>
+Washington, D.C., June 16, 1911.<lb/>
+Relative to the status of a lake in S.D.<lb/>
+<name>Hon. <forename>Chas </forename>H. <surname>Burke</surname>,</name><lb/>
+House of Representatives. </head>
+<opener>
+<salute>Sir:-</salute></opener>
+<p>I am in receipt of your letter 
+dated June 13, 1910 inclosing <sic>enclosing</sic> one from E. Harry Best, dated Armour, South Dakota, June 9, 1910, addressed to you, requesting information releative <sic>relative</sic> to the boundary of a lake described as being in Howard township, Charles Mix county, South Dakota, locally known as Lake Andes, with reference to the width from high water mark, upon which public travel may be made without trespassing upon the adjacent lands,  and in reply, I have the honor to state that as your correspondent has failed to describe the numbers of the township, range and section or sections of the public surveys within which the lake refered to is situated, I am unable to determine its status from the records.</p>
+
+<p>If, therefore, he will describe the location of the lake, with reference to the public surveys as above suggested, the records in this office will be examined and he will be advised of any information that they may afford with reference thereto.The letter transmitted by you is returned herewith.</p>
+<closer>
+<salute>very respectfully,</salute>
+<forename>S.V.</forename> <surname>Proudfit</surname>.
+Acting Commissioner.</closer>
+</body>
+</floatingText>
+</div1>
+
+<div1>
+<p>The location of the lake with reference to the public surveys,
+as suggested, was duly stated and forwarded, and the reply
+following received.</p>
+
+<floatingText>
+ <body>
+<head type="sub">Department of the Interior General Land Office.</head>
+
+<head type="sub">Washington, November, 12, 1910</head>
+<head type="sub">Status of a lake in South Dakota</head>
+
+<opener><salute>Sir:-</salute></opener>
+<p>In reply to your letter dated October 14, 1910, you are advised that the official plats on file in this office show that Lake Andes covers portions of sections 1, 2, 3, 10, 11, T96N, R65W. Sections 5 T96N, R64W, Sections 16, 20, 21, 22, 28, 29, 30, 31, 32, and 33, T97N, R64W., South Dakota, and it was duly meandered when the subdivision surveys in the township were executed and the survey closed thereon. The lake is regarded as the boundary of the frac. tracti fronting thereon and the records do not show that any marginal tract of land bordering upon the lake has been reserved, from high water mark, over which the public may travel without trespassing upon the adjacent lands.</p>
+ 
+<p>From the statements in your letter it may be assumed tht the lake is navigable, andI will invite your attention to the N.S. supreme court decision in the case of Dolland vs Hagen (3 How, 212) where it is held that: </p>
+
+<p>"First. The shores of navigable waters, and the soils under them were not granted by the constitution to the United States, but were reserved to the states respectively.</p>
+
+<p> Secondly. The new states have the same rights, sovereignty and jurisdiction over the subject as the original states."</p> 
+
+<p> The letters from the office to Hon. Chas. H. Burke and from him to you, received  with your letter are returned herewith.</p>
+<closer><salute>Very respectfully,</salute>
+
+<signed><forename>Fred</forename> <surname>Dennett</surname>,
+Commissioner.</signed></closer></body>
+</floatingText>
+</div1>
+
+
+<div1>
+<p>From the supreme court decision above referred to, is very clear that
+if Lake Andes is navigable, then the lake or its shores never belonged to the 
+United Stated <sic>United States</sic>, and having no 
+title thereto, could not possibly convey title to anything inside the 
+outer margin of the land next to the lake.</p>
+
+<p>Is Lake Andes an inland navigable lake? That is
+the one pivotal point upon which rests the question of
+public right to and upon its shores.</p>
+
+<p>What is a navigable lake in a legal sense? I
+believe in our state the doctrine of the
+civil law prevails, which is in effect: That an
+inland navigable lake is one capable of use
+for navigating in the passing of boats or
+small vessels in some useful, substantial and
+practical way.</p>
+
+<p>Lake Andes has in my judgement all prerequisits <sic>prerequisites</sic> of
+a navigable lake, and has sufficient area, a main
+inlet, and is capable in its natural state and in its ordinary volume of water of not only
+passing the small row-boats for pleasure or profit,
+but of transporting by motor-propelled vessels
+even the tillage of the soil from one of the opposite
+shore.</p>
+
+<p>If the attitude which I assume is the correct one
+then the waters of Lake Andes, and the land
+beneath it up to and including the margin of land next to the lake belong to people of
+the state and any fencing or otherwise impeding
+the free use of the lake or its shores by the public, is unlawful and a public nuisance. If I knew that it would meet with generous approval, I would in the near future draft a memoriae to
+our next legislature, invoking an exercise of its sovereign power in settling the disputed question by establishing and defining the metes and bounds along the meandering of the lake and submit the same to the public for signatures.</p>
+<closer><signed><forename>E. Harry</forename> <surname>Best</surname>.</signed></closer>
+</div1>
+
+</body>
+</text>
+</TEI>

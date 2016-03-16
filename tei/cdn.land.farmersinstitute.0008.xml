@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.farmersinstitute.0008">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">White Swan Indian Farmers Association Meets</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">White Swan Indian Farmers Association Meets</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1915-03-25"></date>
+<biblScope type="page">4</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Fixed title</change>
+<change when="2010-07-29"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+
+	<head type="main"> WHITE SWAN INDIAN FARMERS ASSOCIATION MEETS </head>
+
+	<p> The White Swan Indian Farmers Association met, persuant to adjournment, in the police headquarters on the Government reserve on March 18th, President John Gassman presiding.</p>
+
+	<p> A good crowd of our young Indian farmers were present. Among the Government employees present were Superintendent A. W. Leech, Dr. Campbell and Farmer Conner.</p>
+
+	<p> Among the features of the evening was an address by Supt. Leech ably interpeted <sic>interpreted</sic> by Isaac Dion, in which the Indians were encouraged to persevere in their efforts at farming and all were assured of the cooperation and assistance of the superintendent in their endeavors to better their condititions <sic>conditions</sic> and the general uplifting of their race.</p>
+ 
+	<p> Following this was a select reading from a farm paper by Peter Shield, on preparation for spring work, by getting all machidery <sic>machinery</sic> repaired and in readiness, making what necessary purchases of farm tools, stock and seed needed and having all the choring of this nature finished and being ready for farm work when spring opens up.</p>
+
+	<p> Thomas Hunter delivered an excellent talk on breeding and raising horses. Among the things mentioned were the facts that thirty years ago there was issued to the Indians of this reservation, one hundred of brood mares. When this issue was made the agent then in charge&#8212; Agent Kinney&#8212; advised the young men how to take care of this brood stock. He listened, took his advice, and still raises all of his own horses, having a few to sell occasionally and all from this start thirty years ago. Many did not heed the advice given and reaped no benefit, Thomas Hunter's standing among the Indians and his white friends of today attests what an Indian may accomplish, if he will.</p>
+
+	<p> "Corn and Hogs" was the subject handled by Paul Picotte and the points to be considered in the selection of swine for breeding purposes and the selection of seed and manner of cultivating corn, with which to feed the herd, were brought out in fluent and interesting manner.</p>
+
+	<p> After a short talk by Farmer Conner the following programme <sic>program</sic> was announced:</p>
+
+	<p> How to successfully grow a grove on a farm.&#8212; John Hopkins.</p>
+
+	<p> Care and raising of poultry. &#8212;William Spottedeagle.</p>
+
+	<p> Gardening&#8212;John O'Connor and Isaac Dion.</p>
+
+	<p> Hog raising&#8212; J. H. Ellis Jr. and Ben LaGrand <sic>LaGrande</sic>.</p>
+
+	<p> Best methods of securing better sanitation in Indian homes&#8212; Herbert Picotte and Nick Conner.</p>
+
+	<p> All who receive State and National Agricultural bulletins are requested to bring them along and read selections from them.</p>
+
+	<p> After a cordial invitation to all to be present at the next regular meeting, which is called at the same place for April 1st, the meeting adjourned. &#8212; Contributed.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

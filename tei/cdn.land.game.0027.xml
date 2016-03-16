@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.game.0027">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Federal Game Law</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Federal Game Law</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1913-08-14"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Supplied title</change>
+<change when="2010-08-02"><name> Rhiannon Root </name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+<head type="main">FEDERAL GAME LAW</head>
+
+<p> The new federal game law has caused so much discussion that this article from the Kimball Graphic will be appreciated by the sportsmen:</p>
+
+<p> "Last March congress <sic>Congress</sic> passed a bill providing that all wild geese, swan, brant, ducks, snipe, plover, woodcock, rail, pigeons and all other migratory game and insectivorous birds which in their northern and southern migrations pass thru' or do not remain permanently in any state during the entire year shall hereafter be doomed to be within the custody and protection of the United States and shall not be destroyed or taken contrary to the regulations hereinafter provided. The matter of such regulations was thereby turned over to the bureau of biological survey of the department of agriculture. The law provides that before the proposed regulations shall take effect October 1st next, that public hearings shall be held at designated places, at which time and place, representatives from any state may appear and give any reason why they should not, but protests arising from local or private interests will not be considered.</p>
+
+<p> A few weeks ago the biological bureau gave out the proposed laws and regulations in circular form, which has given wrong impressions in some respects, especially as they effect shooting in South Dakota. Briefly stated, the United States is divided into two zones, No. 1, comprising the breeding zone consisting of states lying wholly or in part north of latitude 40 and the Ohio river, and No. 2 consisting of those states comprising the winter zone lying south of latitude 40 and the Ohio river.</p>
+
+<p> The closed season in zone No. 1 is between December 16 and September 1 except in Massachusetts, Minnesota, the Dakotas, New York, Oregon, Long Island. New Hampshire, New Jersey and Washington. Exceptions in these states are made to conform to the existing state regulations, that of South Dakota making the opening day September 10 instead of September 1.</p>
+
+<p> The closed season in the southern or winter states is to be from January 16 to October 1, with the exception of Kansas, Oklahoma, New Mexico and Arizona, which shall be between December 16 and September 1. In Maryland, Virginia and the Carolinas the closed season is from February 1 to November 1, while other southern states have similar exceptions. The latest, however, in which migratory birds can be shot is February 1. while in Louisiana, Texas, Florida and all the gulf states the season closes January 16&#8212;that is to say they can he shot only from October 1 to January l6. </p>
+
+<p> As will be seen, the law not only cuts all winter shooting in the southern states after the middle of January, but prohibits all spring shooting in all the northern states. This is the strongest feature of the proposed regulations and will meet with universal approval of all true sportsmen everywhere. The market shooters of the gulf states have up to very recent years been permitted to kill ducks all winter long and tidy shipped them by the carload. </p>
+
+<p> The regulations further provide that the closed season shall continue between January 1 and November 1 on all migratory birds passing over or at rest on any waters of the main streams of the the Mississippi, Ohio and Missouri rivers or over the shores or any point within the limit of these rivers. The object of this is to give the birds safe passage along the great waterways in their northern and southern migrations.</p>
+
+<p> One of the most important features of the law is that prohibiting the shooting at waterfowl or other birds at night. After October 1 it will be unlawful to hunt any migratory birds between the hours of sunset and sunrise. This makes no change in the existing laws in about one fourth of the states; it will make existing conditions clear in about one fourth of the states and will add additional protection in fourteen states which now have no restrictions of this kind, of which South Dakota is one.</p>
+
+<p> The following are some of the important principles on which the regulations are based:</p>
+
+<p>To prevent spring shooting.</p>
+
+<p> To protect migratory birds between sunrise and sunset.</p>
+
+<p>To provide protection flights along three great rivers.</p>
+
+<p>To make the seasons approximately equal in length in different parts of the country.</p>
+
+<p>To limit the hunting seasons to a maximum of three or three and a half months." </p>
+</div1>
+
+</body>
+</text>
+</TEI>

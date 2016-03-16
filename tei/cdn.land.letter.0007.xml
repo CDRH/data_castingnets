@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.letter.0007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">A. G. McBride correspondence</title>
+<title level="m" type="sub"></title>
+<principal>David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.land.letter.0007</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2010 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a">A. G. McBride correspondence</title>
+<title level="a"></title>
+<title level="j">correspondence</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1930-03-09"></date>
+<biblScope type="page">unknown</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2010-08-05"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+				<p> Rapid City, March 9, 1930.</p>
+
+<p> Mr. A. G. McBride, Commissioner,
+Department of Game &amp; Fish,
+Lake Andes, South Dakota.</p>
+
+<p> Dear Mr. McBride:</p>
+
+	<p> I got in touch with Duffy Algar <sic>Allgier</sic> and find
+that the seining crew has not to date shown up at Lake
+Andes and presume from present indications that they may
+not get down there until just as the ice is or has gone
+out of the north end of the lake.    Duffy said he was
+getting in touch with some-one <sic> someone</sic> connected with the seining
+work and taht as I understood him to say, he had talked 
+or heard from "Moose" Randal.</p>
+
+	<p>The sum and substance of the letter enclosed,
+copy of letter sent to Duffy today, I talked over with him
+on the phone, station to station call at $.75 so the expense
+was not great and I wanted to be sure whether or not they were
+seining at this time down there.</p>
+
+	<p>I am making an effert <sic>effort</sic> to get in touch by mail
+with Mr. Randal in order to be sure that things will terminate
+in the proper manner at Lake Andes this spring in reference
+to the Carp        Some part of the Randal outfit is just
+starting operations again at Hendricks lake from a word I
+got from my supervisor there, so will trace "Moose" from there
+since I believe his borther <sic>brother</sic> is the one operating at Hendricks
+at this time.</p>
+
+	<p>Had some difficulty getting through to Rapid
+owing to that big storm out Midland way but plows etc. were
+rapidly getting the road in shape.</p>
+
+				<p>  truly yours,</p>
+				<p> . Ripple</p>
+</div1>
+
+<div1>
+
+			<p> Rapid City, March 9, 1930.</p>
+
+<p> Mr. "Duffy" Algar,
+Lake Andes, South Dakota.</p>
+
+
+            <p> Dear Mr. Algar:</p>
+	
+<p> Carp.</p>       
+
+   <p> In line with our talk over the phone
+today, Mr. McBride told me at the Pierre meeting that 
+he understood the seiners would be down there ready to
+start operations at this time.     Mr. Randal phoned me
+a couple weeks ago that he had a man down there watching
+conditions for the spring seining and that just as soon
+as conditions were right that the crew would be on hand 
+to again try for Carp.</p>
+
+	<p> As I understand conditions, the smallest freshet
+came early this spring and so far as this freshet is concerned,
+the crew was not there to work under the ice.
+However we must deal with present and the near future
+conditions and I know as well as Mr. Randal that little can
+be gained by trying to seine under the ice the while the
+soft weather of early spring will put water on the ice and 
+otherwise make conditions for working on the ice anything
+but satisfactory or safe.</p>
+
+	<p> If the warm weather continues until the
+break-up, I cannot see how much can be accomplished until we
+can seine in open water at the north end of the lake where
+the remaining  Carp that have been attracted by the fresh waters
+will remain until such open water seining is attempted.
+So speaking, I am at the mercy of the Randals to be on hand
+for such open water fishing since they have promised me all
+winter that they would do the work of spring Carp fishing down
+there.</p>
+
+<p> Bass.</p>  
+
+	<p> Referring to our conversation in reference to
+the Bass pond etc.     The bottom of the new pond should be
+burned off or mowed off if it is not dry enough to burn and
+the bottom if it can be arranged, plowed up and dragged or
+leveled off so we can later in the season, plant water vegetation.
+We will have a heap of green algae or green slime as it is
+commonly called, in that new pond the coming summer in any
+case and as is always the case in the flooding of water over
+land the first year, but we will have less of the nuisance if 
+we can plow up the bottom and turn under the land grasses and
+weeds.     There will be no reason to hurry the filling of
+the new pond with water since that can be done much later on.</p> 
+</div1>
+
+<div1>
+
+<p> Mr. Algar  <sic>Allgier</sic> . . . 2,</p>
+
+	<p> We should make every effort to obtain breeding Bass from
+the seining operations or otherwise in order to get the parent
+Bass from the lake as soon after the ice goes out as possible,
+the breeders thus gotten for use in the new pond this season.
+Any breeders taken this spring can be placed in the lower or
+old pond until we drain that pond down to sort what breeders
+for males and females that we have there.</p>
+
+	 <p> It is my opinion that possibly we will have better results
+in the nesting and hatching of Bass in our new pond this year
+that in that old pond for various reasons and especially so
+if we can arrange to get the bottom of  the new pond burned off
+or mowed off and plowed and leveled up over the area of the
+bottom that is not under water at the present time.
+The area of the new pond that is at present under water at the
+center over the lower part of same and covered with cat-tails
+will not be harmfull <sic>harmful</sic> as it is for it will affort cover for
+young fish and is water vegetation in itself.</p>
+	
+	<p> Personally, I have considerable work out here in connection with
+some new road grading at the hatchery and numerous other details
+to look after previous to turning east for the spring work at
+the Pike hatcheries, Bass hatcheries and the rough fish work 
+at various places so kindly keep me informed in reference to
+when anything is attempted in seining at Andes
+As you say, you can arrange to look after any seine hauls and
+getting the new pond in condition until such time as I can
+go from here to Andes and then to my other eastern work.</p> 
+
+			 <closer><salute> Very truly yours,</salute>
+			<signed> Department of Game &amp; Fish,
+			R. L. Ripple
+			Supt. of Fisheries,
+			R. L. Ripple.</signed></closer>
+</div1>
+
+</body>
+</text>
+</TEI>
+

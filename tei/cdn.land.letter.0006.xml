@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.letter.0006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Johnson, Ripple, and Dutch correspondence</title>
+<title level="m" type="sub"></title>
+<principal>David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.land.letter.0006</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2010 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a">Johnson-pickups correspondence</title>
+<title level="a"></title>
+<title level="j">correspondence</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1935-05-09"></date>
+<biblScope type="page">unknown</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2010-08-05"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+<p> May 9, 1935</p> 
+
+<p> Mr. R. L. Ripple,
+Watertown, S. D.</p>
+
+<p> Dear Bob:
+
+	We have an authorization from the State Purchas-
+ing Department covering the 125" wheelbase International
+pickup, complete with enclosed cab, steel pickup box, oil
+bath, air cleaner and 5 heavy-duty 6-ply casings and tubes.</p> 
+
+	<p> The low bidder on this outfit was M. F. Heintz
+of Florence, South Dakota, but would suggest that you call
+at the International Harvester Company's office in Water-
+town and find out whether delivery will be made at Water-
+town or Florence.</p> 
+
+	<p> The Ford pickup at Lake Andes is being turned
+in on this job and I am writing Al Van Leur at Woonsocket,
+who is now using it, asking him to drive it to Watertown
+within the next few days. Be sure to remove the state plates
+from the trade-in and send them to us here at Pierre, also
+send us a description of the new International so that we
+may secure State plates for it.</p> 
+
+		       <p> Very truly yours,</p>
+			
+		
+				<p> O. H. Johnson, Director
+                        Department of Game and Fish</p> 
+<p> OHJ:AW</p>
+</div1>
+
+<div1>
+
+<p> Watertown, May 28, 1935.</p> 
+
+<p> Mr. O. H. Johnson, Director,
+Department of Game and Fish,
+Pierre, South Dakota.</p> 
+
+<p> Dear Mr. Johnson:</p> 
+
+	<p> In order to avoid any mistake in reference
+to what kind of fish carrying tanks are to be used on the
+three new Pickups, I would like to suggest that the men
+who are to use the other two outfits may not have the same
+opinion that I have in the makeup of a tank.</p>
+ 
+	<p> We have given much thought to a proper tank
+for our use on the International Pickup and this enclosed
+plan suits us to a nicety however we realize it may cost more
+than we can afford to invest in such equiptment <sic>equipment</sic>.</p> 
+
+	<p> Talking with Chairman, Dr. Fankhauser at
+Pickerel lake hatchery recently I learned that he has some
+definite views relative to size, shape and other features
+of a proper fish carrying tank for their Pickup and it may
+be that the boys at Rapid City have like wise <sic>likewise</sic> and so it would
+be well to let them go over our plan before hand <sic>beforehand</sic>.</p> 
+
+	<p> Dr. Fankhauser's idea in one respect was that
+the tank should fill in the total inside of the rear Pickup
+box or body and not have the tank to <sic>too</sic> high.   If this is the
+plan they want, this plan of ours can be made to fit the need
+if they find the balance of the plan suitable.   After explainging <sic>explaining</sic>
+to the Dr. why we would elect to use a tank and Pickup body box
+he may have changed his mind however I don't know.
+We know from experience that the smaller tank with deeper water
+will work out much better on the road in reference to water
+splash and sway and thats <sic>that's</sic> the main reason for a higher tank.
+The body-box measurements of the other two Pickups may differ
+from ours so that would have to be taken into consideration
+since this plan is drawn to fit what we want on the International.</p> 
+
+	<p> The tank cover we would select would be the
+two piece affair, hinged at both sides and hasps in the middle.
+This type of cover would be far superior to the one piece cover.
+	Please note on plan, the weight of laod <sic>load</sic>, 26"
+of water, 1976 pounds.     Thats <sic>that's</sic> a great plenty to carry on single
+tires.</p> 
+
+					<p> Very truly yours,</p> 
+				    <p>  R. L. Ripple</p>
+</div1>
+
+<div1>
+
+<opener>
+<dateline>Mr. Ripple                              Omaha, Nebraska 
+Kampeska Hotel                         26, 1935
+Watertown
+   S. Dak.</dateline>
+
+<salute> Dear Sir:</salute>
+</opener>
+	<p> I received a letter from Mr. Johnson
+who says that you are fishing Swan 
+Lake.</p>
+
+	<p> Please let me know what you are
+getting now.</p> 
+
+			<p> Yours Truly
+			Sam Flax</p> 
+</div1>
+
+<div1>
+
+<p> Watertown, October 30, 1935.</p>
+
+<p> Mr. Sam Flax
+1402 North 24th, Street,
+Omaha, Nebraska.</p> 
+
+<p> Dear Mr. Flax:</p>
+
+	<p> Replying to your letter October 26th, in
+reference to our rough fish removal work to be done down
+at Swan Lake near Viborg, South Dakota will say that we
+are at this time moving our equiptment <sic>equipment</sic> to said lake so
+that very soon we will be under way.</p> 
+
+	<p> Just as soon as we have the opportunity to
+make a few seine hauls I will acquaint you with what the
+catch consists of however I am informed that buffalo are
+more numerous than the carp in that lake.</p>
+
+			<p> Very truly yours,
+			Department of Game and Fish,
+			R. L. Ripple
+			Supt. of Fisheries,
+			R. L. Ripple, General Delivery,
+			Viborg, South Dakota.</p>
+</div1>
+
+<div1>
+
+<p> Watertown, September 27, 1935.</p>
+
+<p> Mr. W. W. Aitken,
+State Biologist,
+Iowa Conservation Commission,
+State Capitol,
+Des Moines, Iowa.</p> 
+
+<p> Dear Sir:</p>
+	
+	<p> I have just received a copy of your letter under
+date September 5th, together with a letter from our Director,
+Mr. O. H. Johnson with the request that I make reply to your
+inquiry in reference to areation of low water lakes.
+During the past several years of severe drought we have had
+a considerable number of lakes to contend with that either went
+dry entirely or so low that all fish-life had to be removed to
+deeper lakes.</p>
+
+	<p> May it be understood that the air compressors we made
+use of were not a cure-all, however we consider the results
+attained from their use payed us a hundred fold for the expense
+we went to in the matter of proper equiptment <sic>equipment</sic>. </p>
+
+	<p> Although we had a number of fish rescue crews in the
+field seining the fish-life from many of the low water lakes we could
+not keep pace with the situation and that was when the air compressor
+work came in and through their use we were able to tide many lakes
+over the winter months.    The average depth of our lakes from which
+we either removed all fish or used the compressors to tide through
+the winters was about 5ft so that when ice came to the depth of
+28 to 34 inches we had a real problem to contend with.</p>
+
+	<p> In some of our lakes the water depth under the ice was 
+only about 2ft. still we brought through the fish and such lakes
+were well stocked with native fish such as northern pike, black bass,
+perch, crappies, etc.   In a few instances where we could not get
+to certain lakes but was making use of the compressors in lakes
+nearby we had a loss of fish in the waters not worked with the 
+compressors while no loss was had where we worked same.
+Such lakes were in the same condition as to being heavily minerali-
+zed, depth, size etc.    We have plenty of proof in reference to
+the value of areating low lakes through winters of heavy ice etc.</p>
+
+	<p> Our lakes are of course prairie lakes for the greater
+part with a gumbo bottom and heavy vegetation.    We found of 
+course that where wall-eyed-pike and crappies were the principal
+varieties of fish in a lake and since they make use of the deeper
+portion during the winter months, our efforts with the compressors
+were more confined to the central portion of the lake.</p> 
+</div1>
+
+<div1>
+
+<p> Mr. W. W. Aitken, 2,</p> 
+
+	<p> Lakes containing black bass of the large mouth variety,
+bluegills and some other varieties that take more to the bays and
+more shallow water areas were worked accordingly.</p>
+
+	<p> I recall the winter several years  back when we were
+seining carloads of buffalo and carp from one of our largest lakes
+some 7,500 acres in extent at a time when the fish were coming in
+at each seine haul in bad condition from the very shallow water
+under the ice and we had some 6 carloads in our carp cribs that 
+were so weak one would not think anything could bring them around
+so I hustled our large compressor over from a neighbor lake and after
+a couple hours among the cribs areating the fish they came through
+and buyers eagerly grabbed them off.    During the balance of that
+winter there were many times when our compressors saved many carloads
+of rough fish in our cribs at different lakes.</p>
+
+	<p> There were some instances among lakes where the water
+under the ice got so low we could not hope to save the fish through
+any means except to open same to public fishing with a netting progra <sic>program</sic>
+allowing so many feet of seine or gillnets to the person, either
+previous to the freeze-up or after ice came.</p> 
+
+	<p> The average size of the lakes we used the air compre-
+ssors on run from several miles long and mile wide down to those
+much smaller say a mile long and quarter to half mile wide. Only
+one large compressor was used at each lake and this outfit
+was moved from lake to lake as needed.    We used several smaller
+outfits however we found the larger unit more adapted to the work.</p>
+
+	 <p> The following is a line-up of our equiptment <sic>equipment</sic>.
+	Pump-Lehmann Bros. Newark, N. Jersey, Size F. (2)
+Rated at 78 Cu. ft. air per minute at 200 revolutions.
+Power-8. h. p. 2 cylinder Le Roi gas engine, radiator cooled- working
+through a 3:57 to 1 reduction gear and belted to pump.
+The whole apparatus enclosed in a Trailer House.
+Because of the enormous lubrication drag in the air pump when
+freezing cold, belt drive is used to avoid possible breakage of
+working parts.    It is advisable to warm pump with blow torch
+before starting and as soon as it is running direct blow torch flame
+into pump air inlet umtil <sic>until</sic> pump operates normally.   The heat of
+the engine keeps the 7x10 house very confortable <sic>comfortable</sic> and the pump uses
+the warmed air for areation.   The method then is to have wooden
+pipes made of 1x6 or 1x8 boards frozen into the ice well in advance
+of the time areation is to be done.    These pipes are long enough
+to extend at least 3 or 4 inches below the ice when it is thickest
+and 6 or 10 inches above to make them easy to locate under the snow.
+Their location is of course marked by a tree limb or something on
+the ice. The idea then is to put the hose from the air pump (a
+length of 2 inch suction is the hose used)down through this wooden pipe
+after the ice has been chisled from inside to the water
+and in under the ice far enough that the air does not escape back
+out through the pipe.</p>
+
+<p>No method of air diffusion is used on the end of the hose as it
+is believed that the air in contact with the water under the ice
+is all that is needed, the water being deficient in oxygen will
+absorb oxygen as well as if the air was finally diffused. 
+Another point is the large air bubbles will go way off under the
+ice and in that way take air a considerable distance from the
+point of pumping.   Air pockets from pumping have been located
+nearly a half mile from the pump.   We endeavor to check on the 
+oxygen along about 3 to 4 weeks after the freeze-up in the
+questionable lakes and then a week or tow <sic>two</sic> later make a second
+check. From the two figures we project at that rate of oxygen loss
+the approximate time the oxygen content will lower to about 2 parts 
+per million.   It is then planned to start areation some in 
+advance of this time with the air pump.    As to merits-for the
+cost it is beleived <sic>believed</sic> most practical and successful.</p>
+
+	<p> One cubic ft. of air at sea level contains enough oxygen to
+saturate about 37 ft. cu. ft. of water.   At winter temperature and
+under this condition saturation is about 7 times more oxygen
+than lake fish require. So we assume that 7 times our 37 is
+sufficient air or to compensate for differences of air pressure
+and pump inefficiency we use a ratio of one cu. ft. of air to 200
+cu. ft. of water.    This has been shown to all indications very
+satisfactory results.       With our 75 cu. ft. pump it is possible
+to treat about 15000 cu. ft. of water per minute or 20 acre ft.
+per hour.      By estimating the acre ft. of water under the ice
+and dividing by the 20 it is possible to reach a satisfactory
+estimate of the pumping hours required and then an oxygen analysis
+about a week or less after the pumping will show the
+accomplishments.  This method will give spots in the lake
+well areated and of course places not so well areated but this
+occurs in the lakes even when they are not artificially areated.</p> 
+
+<p> Pump cost about $168.00
+Gas engine "     200.00
+Assembly &amp; Trailer 125.00</p> 
+
+<p> Will use about 10 gallons of gasoline per 24 hours.</p> 
+
+<p> If there should be any further data desired relative to this matter
+kindly address to R. L. Ripple, Kampeska Hotel, Watertown, S. D.</p> 
+
+						<p> Very truly yours,</p>
+						<p> R. L. Ripple</p> 
+</div1>
+
+<div1>
+
+<p> Viborg, November 2, 1935.</p>
+
+<p> Mr. O. H. Johnson, Director,
+Department of Game and Fish,
+Pierre, South Dakota.</p> 
+
+<p> Dear Mr. Johnson: </p>                                         <p> Swan Lake, Viborg.</p> 
+
+	<p> Sorry to say things dont <sic>don't</sic> look very
+good to us down here today with Swan lake <sic>Lake</sic> partly covered
+with ice and freezing more every minute.    Not enough
+open water to attempt any seine haul with weather conditions
+looking more like mid-winter than usually at this time of
+the season.</p>
+
+	<p> Coming south from Watertown yesterday
+morning to find Poinsett and Campell lakes all frozen over
+we had hoped this far south to find things at least so we
+could make a few hauls but there is nothing to be done about
+it.</p>
+
+	<p> If we only knew what to expect of the
+weather because the average fall does not find this lake
+freezing up until at least the middle of November.
+If this freeze-up dont <sic>don't</sic> let up, there wont <sic>won't</sic> be any use of
+the crew staying around here waiting for heavy enough ice
+for ice fishing so all I can do is wait a reasonable length of 
+time for the lake to open up or forget this job for the time being.</p>
+
+	<p> If the freeze-up continues it will be just
+to <sic>too</sic> bad to have this job on our hands to the detriment of
+the big job at Kampeska lake for ice fishing.</p>
+
+	<p> Talking with Pete Hansen whom we are staying
+with here at the lake and who has had considerable experience
+with the rough fish situation here, we dont <sic>don't</sic> learn much about
+what can be expected with our big seine more than the stuff is
+not so numerous as many people think.</p>
+
+	<p> Looks as though a fine local market could be
+expected combined with the Sioux City guys however there is
+quite a flurry from some Farmers' Union outfit that say we cannot
+remove and sell Swan lake rough fish legally etc.
+This latter flurry will wear itself out with proper handling
+so I have no fear of the future, its something alike to our
+little trouble at Lake Poinsett and is not at all serious.</p> 
+
+					<p> Very truly yours,</p>
+					<p> R. L. Ripple</p>
+</div1>
+
+<div1>
+
+			<p> Viborg, South Dakota.</p>
+			<p>November 2, 1935.</p>
+
+<p> Mr. A. N. Herrboldt,
+County Auditor,
+Ipswich, South Dakota.</p>
+
+<p> Dear Mr. Herrboldt:</p> 
+
+	<p> I am very pleased to have your letter 
+under date of October 30th, in reference to the well-fare <sic>welfare</sic>
+of the fish-life contained in the Mina dam during the
+coming winter months because it shows the correct interest
+you have for the future of hook and line fishing in that
+territory which is bound to come.</p> 
+
+	<p> We have been so terribly busy during the
+past summer stocking hundreds of dams and other new waters
+combined with the remaining natural lakes that I just havent <sic>haven't</sic>
+personally gotten to Mina dam however my impression is from
+an early visit there previous to the dam going in is that
+water holes along the creek run containing creek <unclear reason="typo" /> and
+shiner minnows along with other fish food would find their
+way into the dam proper when water came which did come.
+It is my opinion that there is more fish food in Mina dam
+than one would suppose other than someone who understands
+the workings of nature etc.     This is a thing I would liked <sic>like</sic>
+to have checked on had the opportunity been my good fortune
+however I am not worrying very much about fish-life not going
+through the winter at Mina dam with a twenty foot depth and
+several hundred acres in extent.    It is surprising what
+nature accomplishes in the way of fish food as water bugs
+and other animal-life in one season in an area of water the
+size of Mina dam or any part of its size.</p>
+
+	<p> Fish must have food of course and it is as 
+proper to introduce fish food minnows as shiners and chubs
+of the minnow family of fishes as it is to introduce stock
+fish themselves especially in dams or artificial lakes where
+there is no creek bed or opportunity for minnows to gain
+entrance into the dam proper.    Food minnows should no doubt
+be introduced into Mina dam if available and I would advise
+this at any time, however, the old CARP question of rough fish
+getting into new dams bobs up and no transfer of minnows should
+be undertaken unless some warden or other qualified person that 
+knows fish can be on hand to sort out the best of waters the
+carp and other rough fish minnows that may be found in the 
+source of supply.</p>
+</div1>
+
+<div1>
+
+<p> Mr. A. E. Herrboldt 2,</p>
+
+	<p> Having been in the propagation of fish
+or more properly the farming of fish for some 40 years I
+have stumbled onto some things that I wish I had another
+hundred years to devote to and one is the fight against
+that wolf of waters the CARP.    This because I know him
+to be the smartest fish in fresh water and one that had no
+business along side <sic>alongside</sic> our native fishes to wreck and ruin
+and represent the greatest mistake every <sic>ever</sic> made in this country
+in the introduction of wild-life.   That is why I am down here
+at Swan lake, Viborg at this time to remove the wolves and
+place them in wooden boxes packed away where the only good carp
+are to be found, they are no good alive in waters.</p>
+
+	<p> I have mentioned this carp strongly to you
+because I wish to show how very much pains should be taken
+not to get them introduced into your dam or any other where
+from the nature of the bottoms of such dams they possibly
+could never be eradicated.</p> 
+
+	<p> A great portion of the stock fish placed
+in Mina dam were young in age and small insize <sic> in size</sic> so that their
+main food supply the first season would consist of animal life
+in the way of water-bug-life that nature seldom fails to bring
+with its vegetation etc.    In the matter of food, fish are
+some what <sic>somewhat</sic> dormant during the winter months.</p>
+
+	<p> My advice is not to worry about the fish
+and food supply in Mina dam this winter and if at any time
+there is found some place where creek minnows as chubs and
+shiners can be had it would be well of course to add same
+to those waters.     I know of a lot of dams that I wish were
+as well of <sic>off</sic> in fish food this winter as I think Mina dam is
+with its fine depth and size.</p>
+
+	<p> The coming spring when we are in our 
+fish hatchery work at Pickerel lake and other points I shall
+make it a point to give Mina dam the once over for general
+conditions and will be glad to contact you with them.</p> 
+	
+		<p> Mail addressed to Kampeska Hotel, Watertown, 
+will always be forwarded to me.</p>
+	
+		  <p> Very truly yours,
+		  Department of Game and Fish,
+			R. L. Ripple
+			Supt. of Fisheries,
+			R. L. Ripple.</p>
+</div1>
+
+<div1>
+
+							<p> Woonsocket, S. Dak. 4-20, 35.</p> 	
+
+<p> Mr. Bob Ripple                         
+Watertown, S. Dak.</p>
+ 
+
+<p> Dear Bob:</p>
+
+	<p> I presume you are busy with the work of getting out your pike
+spawn and as we had some very bad weather just after you wrote me, we did not have the fish
+you asked for at that time.</p>
+
+	<p> The boys have done a lot of work here and at Lake Andes, and the last
+few days, have taken a lot of fish out of the river and have stocked several of the lakes in
+this part of the state.   We have about 60 or 70 thousand now in the hatchery storing ponds mostly 4 inch bullheads, and about 4 or 5 hundred breeder croppies which we intend to use in this end of the state.  We have also about 2 or 3 thousand larger breeder bullheads that we are going to use in stocking.</p>
+
+	<p> We may have a load or two to spare later and if we do I will let you
+know and when you have spare time you can run down and get them.    I believe though that
+you could get them closer through Curtis or Liebig over west of you on the Jim as they are 
+plentiful along the Jim river most anywhere.    The 4 inch stuff is a little underfed due 
+to their being so numerous but when placed in a lake where they get more food they make a very
+fast growth.</p> 
+
+	<p> The netting you ordered (1/2 inch I believe) was very good and boys
+were wishing they had about 35 lbs <sic>lbs.</sic> more of it so they could make a hundred foot seine to get out this little stuff.   They have the lead and the floats here to make it up.   I wish you would order that amount of it and have them rush it out at once.</p>
+
+	<p> Was over to Sioux Falls with a stock of bass for their lake out of ther <sic> out there</sic> and they were very much pleased.</p>
+
+	<p> Have had some very good snow and rain and hope this dry weather will 
+be a thing of the past soon.</p>
+
+<p>Say Hello to <unclear reason="illegible" />.</p>           
+
+                                     <p> Very truly,</p>
+							
+                                     <p> Dr Fankhauser</p>
+</div1>
+
+<div1>
+
+										<p> Lake Andes, S. D.</p>
+										<p> Jan. 4th, 1935.</p>
+
+<p> Mr. R. L. Ripple,</p> 
+
+<p> Watertown, S. D.</p> 
+
+<p> Dear Bob:</p>         
+
+		      <p> Inclosed please find report on the Lake Andes Hatcheries,
+for 1934. have <sic>Have</sic> got a few Blue Gills left to plant, will take them to Woonsocket
+Twin Lakes. Was unable to take care of the two dams at Gregory &amp; Iona,</p> 
+	 		<p> I have 200 breeder bass &amp; 500 breeder Blue-gills in the 
+north pond for the winter.</p>
+
+				<p> Very truly yours,</p>
+				<p> E. E. Allgier, Warden.</p> 
+</div1>
+
+<div1>
+
+                        <p> June 22, 1934 </p>  
+
+<p> Duffy to take care of fall 1934 with Bass</p>
+
+<p> Mr. Ripple
+Superintendent of Fish Hatcheries
+Pierre, South Dakota</p>
+
+<p> My dear Sir:</p>
+
+	<p> I am writing you at the request of
+several of the sportsmen and fishermen residing
+in Clay County, South Dakota, who are interested
+in stocking Swan Lake, located about twelve miles
+straight North of Wakonda, Clay County, South
+ Dakota, which lake is over the line in Turner 
+County. You, no doubt, are aquainted with the lake.</p>
+
+	<p> This lake even during the dry times
+has had from six to eight feet of water the year
+around, and at the present time, the water is going
+over the spillway, and it seems to me it would be an
+ideal lake for both pike and bass. There are a few
+bass and pike in the lake now, but bullheads, perch,
+croppies and sunfish are the most abundant, and are
+caught out of the lake at the present time. I believe
+that to restock this place with bullheads would make 
+it a very profitable investment as this is the only
+lake for a radius of 100 miles that a person can
+catch fish.</p>
+
+	<p> I would appreciate it very much to hear 
+from you as to what kind of fish you have on hand
+at the present time, and if there is any information
+that I can furnish you, do not hesitate to call on
+me as I will be very glad to get the information you
+desire.</p>
+	
+					<p> Yours very truly</p>
+					<p> Norman Joquith</p> 
+
+<p> NJ/E</p> 
+</div1>
+
+<div1>
+
+					<p> Huron, September 22, 1934.</p>
+
+<p> Duffy Allgier,
+Lake Andes, South Dakota.</p>
+
+<p> Dear Duffy:</p>
+
+	<p> Was glad to have you say you could get some
+bass fingerlings over to Swan lake at Viborg since the
+folks down around Vermillion have been asking about stocking
+that lake since it is the only one they have in that whole
+territory.   Our big Ford truck left here this morning with
+bass for Flandreau, Baltic and Garretson dams while the Ford
+Pickup took bass at the same time for Lake Chappelle at Highmore
+and this finishes up our bass pond north of here except that
+tomorrow morning we will truck about 3,000 fingerlings to
+Pickerel and Enemy Swim lakes.   A number of other shiptments <sic>shipments</sic>
+have been made including 600 which Fred Curtis the warden took
+down to Lake Mitchell the other day.</p> 
+
+	<p> Mr. O. H. Johnson is arranging to have a lot of
+bass fingerlings trucked to west river country dams from our
+Redfield ponds however we dont<sic>don't</sic> know until we get over there
+next week Tuesday and get the ponds drawn down, just what we
+can expect to have from that hatchery so I am glad you have
+not to date drawn down your ponds so in case we are short at
+Redfield we possibly can draw on your supply in part for some of
+the places Mr. Johnson has in mind.      I am to hear from him
+today about this matter of west river dams.</p> 
+
+	<p> As soon as we get to Redfield and can extimate <sic>estimate</sic> our
+supply of fingerlings I will let you know at once however I
+know that you can stock the Platte lake and Swan lake and 
+other places you are in the habit of stocking with bass like
+Lake Henry at Scotland etc. but of course you dont <sic>don't</sic> know what
+numbers you will have either until your ponds are drawn down. </p> 
+   
+	<p> Will keep in touch with you next week and if for
+any reason you want to get in touch with me address or phone
+in care Elmer Liebig, Lakeside bass hatchery, Redfield anytime
+after next Monday as I will be there Monday night on through
+the week.</p> 
+
+					<p>Very truly yours,</p>
+					<p> R. L. Ripple</p>
+</div1>
+
+<div1>
+
+					<p> Watertown, September 24, 1934.</p>
+
+<p> Mr. E. E. Allgier,
+Lake Andes, South Dakota.</p>
+
+<p> Dear Duffy:</p>
+
+	<p> If you will please refer to my letter September 22nd,
+you will notice I expected a letter from Director Mr. O. H. 
+Johnson in reference to the distribution of bass fingerlings
+from our  various bass hatcheries and I received said communication
+here at Watertown last night.</p>
+
+	<p> Mr. Johnson has suggested that a major portion of
+this years <sic>year's</sic> output of bass fingerlings from the Huron, Redfield,
+Woonsocket and Lake Andes hatcheries be placed in natural lakes 
+with the exception that a few of the artificial lakes should be
+stocked with some stuff as Lake Chappelle south of Holabird,
+Lake Platte, Lake Mitchell, Kennebec in Lyman county, Scotland
+Lake and possibly three or four in Deputy Bristol's territory,
+also Lake Burke in George county.   His further suggestion is
+that although a number of new artificial lakes have filled with
+water this season we will adhere to our policy that the introduction
+of fish other than bullheads be withheld for one full season after
+an artificial lake fills up thus giving plant life an opportunity
+to become established.</p>
+
+	<p> Since you have not drawn down your ponds and we dont <sic>don't</sic>
+know until the middle of the present week what we will have at
+our Redfield hatchery we probably better keep in touch so as
+soon as I lower the Redfield ponds starting tonight I will let
+you know and will appreicate <sic>appreciate</sic> if you would drope me a line in care
+of warden Elmer Liebig at Redfield what your prospects are.
+We had a wonderful hatch at the Redfield ponds however the menace
+of ducks and other water fowl has been great this season so we
+are not so sure until the water is lowered.</p>
+
+	<p> We stocked 800 bass fingerlings in the Chappelle lake
+and 700 in Lake Mitchell from our Huron pond so in case you are
+short of bass these stockings will be plenty especially that at
+Chappelle lake.      Lake Mitchell of course can stand more bass in
+case you have them over and above the other waters that will be
+convenient to stock from your hatchery as Platte lake, Kennebec
+lake in Lyman county, Scotland lake and Burke lake in Gregory county.
+Also Swan lake at Viborg since they are hot for some bass and this
+lake I understand is running over the outlet. From the Redfield
+hatchery we expect to take a big load out into Deputy Bristol's
+territory.</p> 
+</div1>
+
+<div1>
+
+<p> Duffy Allgier 2,</p>
+
+	<p> We have taken care of our natural lakes from the
+Huron bass pond as Pickerel, Enemy Swim, Big Stone, Lake Cockran
+with good stockings of bass so aside from Kampeska lake we
+havent <sic>haven't</sic> any others in shape to receive fish and Kampeska being
+so low this fall and not being a bass lake unless filled because
+of no vegetation etc. we are caught up on natural lakes except
+the Swan lake you will take care of.</p>
+
+	<p> I am enclosing a couple of fish applications from 
+Gregory county and hope you can do something about them but if
+not kindly mail them back soon so I can have them on file in case
+something turns up that we can fill them from some other source.</p>
+
+	<p> Might further mention that Attorney J. C. Graber of
+Freeman, S. D. wrote me saying their lake is full southeast of
+Freeman that is supplied from Turkey Ridge creek and is about 20
+to 30 acrea <sic>acres</sic> in extent.   Since this Turkey Ridge creek is spring
+water they are thinking of trout and also suggest pike etc.
+They state that they have already stocked crappies, SUNFISH, to <sic>too</sic> bad
+about the sunfish, bluegills and bullheads obtained from the 
+James river and now they ask what varieties of fish should be
+introduced.   It is difficult for me to get away down there to
+talk over matters with them and if at any time it is convenient
+for you to do this it would be fine.    This lake of course has 
+vegetation started from the creek that runs through it but I dont <sic>don't</sic>
+know what to suggest about placing any bass in there this fall.
+Thats <sic>That's</sic> why I think it would be well if you could contact the lake
+and give them your ideas and tell them as I did in my reply not to
+get any more SUNFISH in there.</p> 
+		
+			<p> Will keep in touch with you.</p>
+
+						<p> Very truly yours,</p>
+
+						<p> R. L. Ripple</p> 
+</div1>
+
+
+<div1>
+				
+						<p> Watertown, June 7, 1934.</p>
+<p> Mr. E. E. Allgier
+Lake Andes, South Dakota.</p>
+
+<p> Dear Mr. Allgier:</p>
+
+	<p> Since the time is drawing near when 
+I will be making up the report of fish handled during
+the past year, you will kindly make up a list of fish
+sent out from your hatchery.</p>
+
+	<p> Was sorry to learn you had such bad
+luck with the bass breeders during last winter and when
+we got to the Fair Grounds pond this spring we found
+a big loss of bass breeders I presume from the same cause.
+The new artesian well there kept an open space all through
+the winter with plenty of depth and the bluegills came
+through fine however the large bass went fluey.</p>
+
+	<p> We are having a wonderful bass hatch at our
+Redfield hatchery and expect a fair hatch from what breeders
+I had left to devote to the Byron lake bass pond north of
+Huron.    Had expected a fine hatch of bluegills at the Fair
+Grounds pond however the well has retarded its flow so that 
+along with the drought,the pond has gone down to the point
+where we may have to take everything out.</p>
+
+	<p> Had a wonderful hatch of pike fry at both
+the Pickerel lake and Kampeska hatcheries this spring.</p> 
+
+	<p> Hoping things are going along as well as 
+can be expected during the drought and hard times, we have
+heaps of rain up here, it just rains about every ten minutes
+the past several days.</p>  
+
+			<p> Very truly yours,</p>
+			 <p> R. L. Ripple</p>
+</div1>
+
+</body>
+</text>
+</TEI> 

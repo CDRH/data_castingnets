@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.water.boat.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Wavelets</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Wavelets</title>
+<title level="a"></title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1904-08-08"></date>
+<biblScope type="page">4</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-14"><name>Laura Weakly</name> Fixed title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<head>WAVELETS</head>
+
+<p>The safe for the Valley Bank was placed in position
+today.</p>
+
+<p>Miss Camillo Martin of Westfield, Ia., is a guest of 
+Mr. &amp; Mrs. M. Qually.</p>
+
+<p>The Wave desires a correspondent in every neighborhood
+in the country. Write for terms.</p>
+
+<p>E.H. Wood, of the State Bank at Lane, S.D., a new
+bustling town 100 miles north of here, was in town last
+evening the guest Mr. and Mrs. Amundson.</p>
+<p>John Jirieck is among the enterprising men of town and 
+by his work he shows his faith. He has a clean, up-to-
+date meat market that would make some larger towns ashamed.</p>
+
+<p>P.S. Everst, chief clerk and M.D. Colgrove, issue clerk
+of the Yanktons at Greenwood, were in town Sunday, as was also
+J.E. McCraig, one of the traders there, who incidentally took
+in the ball game.</p>
+
+<p>C.J. Allgood occupies part of teh Wave building exhibiting the
+latest patterns of the cash register. His latest machine will
+register a man's breath. So while he is in town don't give
+yourself away.</p>
+
+<p>"Teddy" Hinzeman was up from Wagner last night on his westward
+trip for the Wagner Cigar Factory and left a good supply with our 
+merchants. His factory will soon get out a "Lake Andes" brand.</p>
+
+<p>G.M. Caster of Riverton, Neb. has been in town for several days 
+and is seriously contemplating location here as an attorney. He
+is a most agreeable gentleman and The Wave trusts he may decide
+to remain.</p>
+
+<p>David Dudley of Greenwood an Indian boy whom the Wave editor about
+15 years ago taught to set type while superintendent for the Santee
+Normal Training School renewed his acquaintance with the editor
+Saturday.</p>
+
+<p>The Wave has much enjoyed the companionship of M.E. Parham of Burr Oak,
+Mich., a photographer of high merit and a young man of splendid character.
+He is in the country partially for his health and with a view of location in 
+the future.</p>
+
+<p>A.M. Evans of Searsboro', la.. has been in town for a few days looking up
+a location for a buisness [sic] and has about decided upon Lake Andes as
+that location. His wife is a former educator in Iowa and will bring an 
+experience whose quality is worthy of attention.</p>
+
+<p>The Sioux Grain Company has its elevator well under way, but on Tuesday
+was considerably delayed by reason of lumber delays. The foundation for
+Major J.W. Harding's elevator is ready for the builders but the delay
+of lumber is the same reason why his is not pushing ahead faster.</p>
+
+<p>Wagner New Era, 29: Albert Amundson and family came from the Lake Monday
+morning to finish packing their household goods, preparatory to moving
+there to that town. He reports the town still growing, and predicts
+that it will not be long till they have the largest town in the county.</p>
+
+<p>O.M. McBaide of Tripp and Miss Bellows of Spirit Lake were the guests of 
+the former's brother, A.G. McBribe, Sunday. They were delighted with the
+location of Lake Andes, and Miss Bellows especially was surprised to see
+such a growth in town building.</p>
+
+<p>Rev. and Mrs. Peck, of Armour accompanied by their son and daughter were
+in town Monday and purchased resident lots in the northwest part of the
+town and are going to erect two dwellings this summer. They are pleased
+with Lake Andes and satisfied to see the sun go down here in their
+retirement.</p>
+
+<p>Agent Ramsdall moved into his new quarters in the depot Wednesday morning
+and he had an unusual smile for every patron when they congratulated him 
+upon getting out of the old sweat box. The depot is similar to the Wagner 
+station but some interior improvements not found in any of the older ones.</p>
+
+<p>The following Armour visitors were in attendance at the baseball game
+Saturday: Mrs. Roberts, Mrs. Kospers and mother, Mrs. Foster, Miss James,
+Miss Dallie Sterns, Misses Kospers, Lizzie Roberts, Mr. Roberts, Mrs.
+Boling, Lorice Boling, Beard Boling, Charles Black, Mr. Worer, Partie Sterns,
+and Harry James.</p>
+
+<p>Mr. and Mrs. Henry Steele and Mr. and Mrs. Frank
+Frush of Tyndall were the guests of M.P. Steele
+last week and on Sunday accompanied the Armour
+people on their homeward lake trip on the Belle
+of Andes. The return trip was by moonlight and
+the pleasures of the trip with its variety of
+excitement and novelties of navigation will be 
+remembrances long to be related.</p>
+
+<p>The Wave acknowledges editorial grips from Bros. Roy Tucker of the Geddes News,
+V.A. Wecher of the Geddes Record and A.H. Pease of the Wagner New Era. A.J. 
+Reichmann of the Record also handed out the grip with considerable vanity and
+a faraway look, being the lucky printer to draw No. 136 in the Rosebud lottery.
+O.P. Baker, H.D. Jelm and N.R. Reynolds were with Gedees editors.</p>
+
+<p>The initial number of The Wave published here was eagerly sought last week. It 
+was in the hands of every stranger, and those from the east came in for extra
+copies to send home. "This is a pretty young town to have a newspaper," said
+one gentleman, "and it's all right, for you are going to have a good town here.
+The country surrounding Lake Andes justifies your enterprise and will support
+it. I predict a thousand for your population in the next two years." In the 
+meantime The Wave hopes to do its share of the pushing to that end and merit
+a patronage that such service is entitled to. In way of suggestion, it will 
+materially assist the editor if personal items of friends visiting any of
+The Wave's readers, or any other items, are left at this office. A little
+item may often serve for a text to a good local story, and this paper wants
+the people its partners in the news. A subscription, of course, is always in
+demand.</p>
+</div1>
+
+<div1>
+<head type="main">THE BETTS GRADERS AT WORK</head>
+<head type="sub">Depot Grounds Graded for Extra Trackage &#8212; Big Hotel Talk.</head>
+
+<p>Betts Bros. grading gang pulled in here Saturday night and went into camp south
+of the track. The grading of the depot grounds began Monday morning and 
+excellent progress is being made toward levling up the premises preparatory to
+beautifying them next spring. Additional trackage will be laid for the 
+convenience of the five elevators to go up, three of which are already under
+construction, the stockyards, coal sheds and water tank. Several weeks will
+be occupied in finishing the work, and when completed it will make us appear
+as if we were settling down to business.</p>
+
+<p>"We are moving on the hotel project," said J.R. Arnold to The Wave itemizer, "and
+as soon as Mr. Andrews returns from Oyster Bay we will bring the matter to a 
+showdown. Andrews is warming up to the subject as he sees the necessity of a large
+hotel, and it will be urged now."</p>
+</div1>
+
+<div1>
+<head>YOUR PHOTO FREE</head>
+
+<p>In order to introduce my work as a Photographer, I will give to ALL who come on next
+Monday, Tuesday and Wednesday afternoon for NEXT WEEK ONLY a portrait of themselves
+FREE. A.G. SCHMIDT GALLERY.</p>
+</div1>
+
+<div1>
+<head type="main">RETURN OF THE ROSEBUD PILGRIMS</head>
+	<head type="sub">Strangers Stop to See the Wonder Town Lucky County Men.</head>
+
+<p>Many people are passing thro [sic] Lake Andes who are looking up
+locations after becoming satisfied that their chances for a mansion
+in the sky are better than one in Rosebud. "We like your get-up," said F.D.
+Colgron of Algona, Ia., who, with N.S. Bruner of Chicago and F.E. Silvers of
+Council Bluffs, drove over from Bonesteel Tuesday and took a fish in the lake
+while their team rested. "It is simply beautiful about here, and a more 
+desirable location for a town in this county could not be found. The soil
+is here for a rich agricultural country, and there is none better anywhere than
+right about Lake Andes."
+"It surprises me," said Mr. Bruner, "that you have such a law-abiding class of 
+people here, for I am told you are yet without organization in the town. It
+speaks highly of the good sense of the population."</p>
+
+<p>"No. 786 doesn't quite come up, to Platte's 8 nor Geddes' 36 in the Rosebud
+drawing," remarked Irving Daly, "but Lake Andes is on the ground floor in the 
+land selection. I shall go up in a few days and make my selection."</p>
+
+<p>A.G. Schmidt's furniture store has a fine line of pictures and mouldings to 
+frame them. Prices right.</p>
+
+<p>Commodore Latham of the Belle of Andes has issued invitations to the editors
+of Charles Mix and adjoining counties to mtake a spin on the lake August 11, 
+accompanied by the families or best girls. The ocasion promises to be one of 
+pleasure where we can chew the bait for the finny tribe instead of one another's
+scalp. The visiting editors are reminded that this is forbidden ground and 
+sarsaparilla is hard to pronounce when one's awfully dry.</p>
+
+<p>Miss Martha and Master Lee Swett of Tyndall, sister and brother of Dr. Swett,
+were guests of doctor and wife last week.</p>
+</div1>
+</body>
+</text>
+</TEI>

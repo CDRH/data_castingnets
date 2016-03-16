@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.letter.0002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Ripple carp correspondence</title>
+<title level="m" type="sub"></title>
+<principal>David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.land.letter.0002</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2010 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a">Ripple carp correspondence</title>
+<title level="a"></title>
+<title level="j">correspondence</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1936-02-07"></date>
+<biblScope type="page">unknown</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2010-08-04"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+
+<p> Watertown, February 7, 1936.
+
+ Mr. O. H. Johnson, Director,
+ Department of Game and Fish,
+ Pierre, South Dakota.</p>
+
+<p> Dear Mr. Johnson:</p>
+
+	<p> No doubt you have some times thought about
+the carp that we have cribbed ever since the start of
+our operations at Kampeska lake along with other carp that we
+contacted from time to time.    Well Brushaber always as usual
+was waiting until we had a carload and did not want to ship
+dead shiptments <sic>shipments</sic> so we held onto them with tender handling etc.</p>
+
+	<p> The terrific weather came and operations were held up, the carp were getting old and I getting scared so a call came from old Sam Flax of Omaha for carp and buffalo fish.
+Knowing Sam as I do, I knew he would be out for cheap fish as
+usual but I advised him he better come along and size up what
+we had on hand.</p>
+
+	<p> Letters from the eastern buyers, telephone
+calls, suggestions from Brushaber relative to his prices on
+carp and the whole kaboodle told me that all we could expect
+from any and all sources would be 4 cts. per pound on carp.</p>
+
+	<p>Sam Flax came on and to make a long story short,
+I got 4 cts. per pound from him for 4,800# of the oldest cribbed
+carp and 6 1/2 cts. per pound for about 800# of buffalo fish.
+Will mail in the report covering this shortly.
+The Flax truck carried new knocked-down boxes which I helped
+him put together and which fact made me wonder a little for
+going onto the Omaha market.    Casually looking about I learn
+that this total bunch of boxed carp were later shipped from
+Arlington, to some point in Canada. Eastern Canada.
+The buffalo were no doubt taken back to Omaha.</p>
+
+	<p> Off hand, without looking up our records of
+fish cribbed, I think we have between 2 and 3 thousand pounds
+of later caught carp cribbed that are in good shape.
+I was relieved when those carp went and if no better prospect
+shows up in the near future, I may again sound out Flax.
+It may be the jews <sic>Jews</sic> are leaving Germany for Canada, at any rate
+I get a big kick out of the whole darn thing when it comes
+to CARP MARKETS.   The eastern buyers are still bossing the
+job and making good at it.</p> 
+
+				<p> Very truly yours,</p> 
+         <p>R. L. Ripple</p> 
+
+</div1>
+
+
+<div1>
+
+<p> Watertown, April 4, 1936.
+
+Mr. O. H. Johnson, Director,
+Department of Game and Fish,
+Pierre, South Dakota.</p>
+
+<p> Dear Mr. Johnson:
+
+	Referring to your letter April 2nd,
+also copy of letter to Mr. W. H. Dent, President, Aberdeen
+Chapter I. W. L. A. relative to obtaining stock fish from
+the few remaining natural lakes with which to stock the
+new dams in the vicinity of Aberdeen.</p>
+
+	<p> In my opinion you have so thoroughly
+covered the matter of stocking our new artificial lakes
+in so far as our fish resources go or are in evidence
+at the present time there remains little if any room
+for further comment.</p> 
+
+	<p> When the ice bound shores of our few
+remaining lakes in the north eastern part of the state
+again splash out into waves of open water, we find that
+the past terrible winter conditions have not been to harsh
+on the fish-life contained in them, we should be mighty happy,
+however, in no mood to carry on a program that would take from
+them adult game fish for the re-stocking of artificial lakes 
+in the face of the fact that our department has very well taken care
+of the latter through a wise, sane, re-stocking program that
+we know will give hook and line fishing at the earliest possible
+time consistent with the conditions of new waters that are not
+as conducive to the well fare of many varieties in their new
+state as natural lakes that are retaining their water supply.</p>
+
+	<p> Personally I have no sympathy with those who
+would tear down the program of the department that has the 
+experience in fisheries work and the matter of hook and line
+flshing at heart, with its life blood, and go over to a hap-
+hazzard program that can have but one ending, dissatisfaction.</p> 
+
+	<p> This, that and the other, could be added to
+your letter explaining at length the requirements of fish in
+newly constructed waters, in fact a treatise could be written
+a half mile long but your letter is full of meat, there is
+no call for anything of the kind.</p> 
+</div1>
+
+<div1>
+
+<p> Mr. O. H. Johnson 2,
+
+	You know fully well that going to look
+at a new lake recently filled or partly filled with water
+is to the layman a wonderful sight just as it is to us,
+however, the layman at once comes to the conclusion that it 
+should harbor about all these different varieties of fish
+native to the very natural state waters and in that conclusion he
+is so very far from right that it is  very hard to convince him
+when our first load of young stock fish arrive on the sceen,
+that another load should not be at once on the way so that
+hook and line fishing can be started about the first of next
+week.</p> 
+
+	<p> I am thinking of Lake Andes, Lake Campell and 
+perhaps other natural lakes that have or may get their water back
+this spring. I am thinking of those great spawning areas that 
+will again be intact for adult spawning fish when the re-production
+would be great if only the adults were on hand. Then why should
+we think of supplying adult game fish adults as breeders for
+artificial waters that are in their infancy with little or no
+opportunity for adult fish to propagate. Wouldn't I like to
+just have a few thousand adult northern pike, black bass and the 
+like for breeders in the lakes I mention in this paragraph, but
+I am loath to go into any natural lake even to that extent.</p> 
+
+	<p> It is my opinion that during the past year our
+department put over one of the greatest re-stocking programs ever
+attempted by any state in the union and another such program is 
+in the making for this season.   Fish planted by experienced men,
+not by application and dumped by laymen who know as little about
+the planting fish and their requirements as they do about proper
+varieties, lake conditions etc.   We have in this state a few
+sample dams that got away from us in the matter of Tom, Dick and 
+Harry stocking the fish, that will suffer for many years.
+On the other hand we have those new waters that have their governing
+according to our program that are producing that for which they
+were constructed in the matter of fishing.</p> 
+</div1>
+
+
+<div1>
+
+<p> Mr. O. H. Johnson 3,
+	The Aberdeen territory being thickly populated
+and inhabited by a wonderful bunch of sports people whom have
+not been accustomed to easy access to nearby fishing waters like
+some of the larger city areas, are overly anxious to the time
+hook and line fishing can start in their dams and for that they
+cannot be blamed, however, it is hoped that they can see fit to
+abide with a program that will with the display of a little
+patitence, give them ore and better fishing recreation that
+all the hap-hazzard work they could accomplish otherwise.</p> 
+
+	<p> Hundreds of thousands of wall-eyed pike,
+thousands of fine black bass fingerlings, also bullheads of
+various sizes and nature slowly but surely making conditions all
+set and so if the dams retain what water they have or more comes
+to them, along with perhaps additional stock fish from the Jim
+River and from our hatcheries, what more can be asked?</p> 
+
+	<p> Even if a program was put over allowing the 
+holder of a fishing license to retain his fish bag limit in
+a live state with the intention to use for stocking some new
+waters, it would cause a great amount of confusion and not the 
+proper opportunity to know what was going on as to varieties
+being handled etc.</p>
+	
+			 <p>  Very truly yours,</p> 
+       <p> R. L. Ripple</p> 
+</div1>
+
+
+<div1>
+
+               <p>April 2, 1936
+
+Mr. W. H. Dent, President
+Aberdeen Chapter I. W. L. A.
+Aberdeen, South Dakota</p> 
+
+<p> Dear Mr. Dent:
+
+	This will acknowledge receipt of your letter of
+March 31st and while we sincerely appreciate the interest
+which your organization is taking in the prompt and adequate
+stocking with suitable fish, of new waters in Brown County,
+we cannot, without subjecting ourselves to severe criticisms,
+authorize your organization to take stock from natural lakes
+for introduction into your lakes.</p>
+
+	<p> We do, however, believe that a vast supply of de-
+sirable game fish will be available from the waters of the 
+James River throughout this season and we assure you that
+no effort will be spared by our wardens in these rescue
+operations and that in the distribution of the fish thus res-
+cued, all lakes suitable for the reception of stock will be
+supplied. Our wardens have been instructed to avoid placing
+valuable stocks of fish in lakes that do not have sufficient
+depth to insure their protection and inasmuch as Mina and 
+Richmond lakes are gradually filling up in spite of sub-normal
+precipitation, we feel justified in continuing stocking operations
+consistent with the natural food supply in those bodies of water.</p> 
+
+	<p> There is, you will understand, danger of over-
+stocking lakes, as all fish in order to thrive must have an
+ample supply of natural food. This supply consists not only
+of food minnows of of lower forms of animal life that has
+its origin in acquatic plant life. Until a lake has reached
+its maximum water level, an intelligent progress of plant in-
+troduction cannot be undertaken.</p> 
+
+	<p> With this in mind we hope that your group will
+assist us in carrying out tested stocking policies and thus
+avoid, so far as is humanly possible, unnecessary waste of
+valuable foundation stock, which might result should our
+stocking operations progress more rapidly than conditions
+warrant.</p> 
+</div1>
+
+
+<div1>
+
+<p> W. H. D.
+
+	We hardly regard the introduction of breeders into
+these new lakes essential, inasmuch as natural spawning habitat
+for other than bullheads and black bass, is not present.
+Better results we know will be obtained by the transfer of
+game fish hatched in natural environment.</p>
+
+	<p> Much as we would like to introduce adult fish into
+our new lakes in sufficient numbers so that immediate angling
+might be available, this I believe you will agree is
+physically impossible. I do believe that by July 1937,
+fishing under restrictive regulations might reasonably be
+expected in Elna Dam. Nothing creates more interest and
+enthusiasm for an artificial lake than do fishing privileges
+and as a means of stimulating interest in these projects,
+the Commission feels justified in permitting limited fishing
+as promptly as possible. This policy I believe will appeal 
+to your organization and we pledge our best efforts to the
+end that this ambition may be realized.
+
+			      Very truly yours,
+
+
+OHJ: AW		<milestone unit="absent" />, Director,
+			Department of Game and Fish.</p> 
+</div1>
+
+
+<div1>
+
+<p> Watertown, April 6, 1936.
+
+Mr. Walter B. Neville,,
+Clear Lake, South Dakota.</p>
+
+<p> Dear Sir:
+
+	Referring to your letter April 3rd, asking
+for information relative to game and fish management
+and what is being done in this state wether or not
+a college education would be necessary in order to
+acquire a position in such work.</p> 
+
+	<p> Will say that a college education is of course
+a wonderful asset to attain for the following of any
+line of endeavor including game and fisheries management
+however perhaps it is not entirely necessary.</p> 
+
+	<p> So far as our fisheries  department is concerned
+at the present time we have several of our old employes
+off duty due to the past couple seasons of drought when
+some of the work was curtailed owing to drying up of lakes
+etc.    There is nothing I could suggest at this time in
+the way of a position in the fisheries department.</p> 
+
+	<p> In reference to your request for pamphlets or other
+bulletins pertaining to game and fish in connection with
+our department I would suggest that you drop a line to
+the Department of Game and Fish, Pierre, S. D. asking for
+such pamphlets as they may have something of interest to help you in
+your quest for information relative same.</p> 
+
+	<p> Personally I appreicate very much your interest in
+the work I have followed most of my life and I am going to
+make it a point to call on you at Clear Lake the very first
+time I get that way when we can talk over the things that 
+would interest you in the conservation of game and fish.
+
+				Very truly yours,
+                       Department of Game and Fish
+		
+				<milestone unit="absent" />
+				Supt. of Fisheries,
+				R. L. Ripple, Watertown, S. D. </p> 
+</div1>
+
+
+<div1>
+
+<p> April 7, 1936
+
+
+R. L. Ripple, Supt. of Fisheries
+c/o Kampeska Hotel
+Watertown, S. Dak.</p> 
+
+<p> Dear Bob
+	
+This will acknowledge receipt of your letter of April 4th
+and appreciate your comment on my letter to W. H. Dent,
+President of the Aberdeen Chapter of the I. W. L. A. It is
+quite evident that the Aberdeen enthusiasts will have to have
+their "sights lowered" considerably. They seem to proceed
+on the theory that this Department has no other responsibilities
+than that of stocking new waters in Brown County. I can appre-
+ciate their enthusiam and only wish there were more communities
+in the state similarly afflicted. However, our job is to
+serve the entire state and we can ill afford to neglect a com-
+munity because they do not resort to strong-arm methods in
+getting what they want. I am confident that by a year from 
+next July anglers will be taking good fish from the waters of
+Mina Lake. When that time arrives we will have less trouble
+getting along with sportsmen in that section.</p> 
+
+				   <p> Very truly yours
+		   		O. H. Johnson ,Director
+				 Department of Game and Fish</p> 
+
+<p> OHJ:CC</p> 
+</div1>
+
+</body>
+</text>
+</TEI>
+
+			

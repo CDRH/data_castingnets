@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.law.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Many Projects Await CWA Toilers</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Many Projects Await CWA Toilers</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1934-02-01"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>CWA</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Supplied title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<head type="main">Many Projects Await CWA Toilers</head>
+
+<p>Those needing CWA and CWS employment can thank the committee that went to Pierre ten days ago to intercede for more projects on which to be employed, regardless of the reducing the number of hours from 30 to 15. That committee came back with several projects which have since been approved. Several of these have started and others will be begun soon.</p>
+
+<p>Project No. 1128 which now employs 37 men is the graveling of the township road from Newman's corner, four miles from norhteast of town to connect with the east and west road from Geddes to highway 18, three miles south of Armour.</p>
+
+<p>Moore township at the west edge is to have the rejuvenation of Brown Bear lake which 20 years ago was drained to produce more farm land. At the time,The Wave understands, a vigorous protest was made by the surrounding property owners to preserve the lake.</p>
+
+<p>Another lake one-and-a-half miles northwest of Academy in La Roche township is to be built. 42 men started last Friday to gravel the streets of Geddes.</p>
+
+<p>Project No. 1112 extends the graveled road four miles south of Lake Andes to connect with No. 1130 which is surfaced west of Sunrise hill. If all goes well it is planned to gravel about twelve blocks of streets in Lake Andes and re-surface that many more where the gravel has worn out or disappeared.</p>
+
+<p>Twenty-five men are employed on building a public swimming pool at Rest Haven. A dike 9 feet high will encircle the flow of the two artesian wells, making a pool with gravel bottom and a little less than 10 feet in the deepest place. Also 100 rustic seats are to be made at Rest Haven - to be distributed at the various lakes in the county. The work will be done by local carpenters and the material is birch trees sent from the Black Hills.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

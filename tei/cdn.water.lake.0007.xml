@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.water.lake.0007">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Indian Delegation Leaves for Washington</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.lake.0007</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="supplied">Indian Delegation Leaves for Washington</title>
+<title level="a" type="original">Untitled</title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1905-02-16"></date>
+<biblScope type="page">8</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>yankton</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-13"><name>Laura Weakly </name> Supplied title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+<p>Justice Steele has been pretty busy in his court for the past few weeks. Attorney Castor keeps 'em moving.</p>
+
+<p>The lake is pretty solidly frozen, but the large quantity of snow that will flow into it will greatly increase the depth.</p>
+
+<p>F. G. Sheeder, who has been working for W. B. Daly during the past fall, left for Beulah this morning, where he had received word of his mother's illness.</p>
+
+<p>Albert Amundson and family have moved into the upper portion of their new dwelling on Pleasant Knob and will work <unclear reason= "illegible" /> as the painters make room for them.
+It's a little out of season for printers, nevertheless we witnessed about as close a run the other day as one would wish to see. And at that the winner only got second money.</p>
+
+<p>E. G. Miller, foreman of The Wave office, was stricken with asthma last Friday and his friends hustled themselves to relieve his wants. He says it is about the most severe attack he has ever experienced.</p>
+
+<p>Platte has just turned down a proposition to become incorporated under the city class and now Geddes will submit the same point on March 1. It is thought that Geddes will win out on the strength of its attempt to steal the county seat by legislation, a bill having been offered providing that "the county seat be moved to the nearest railroad town."</p>
+
+<p>A delegation of Indians left Lake Andes and Wagner Wednesday morning for Washington. The Lake Andes members of the delegation are Arthur Stone, Pack Moccasin, Yellow Thunder and Red Owl, who were joined at Wagner by a like number and Dave Zephier, who directs the delegation to the capitol, where several leaders of the Yanktons have been all winter. The object of this visit is to see what can be done in having the interest money divided individually among them instead of the present plan of families. The children are branching out for themselves into independent families and are in many cases deprived of their individual share in the semi-annual interest payments. It is believed that the president will see the justice of this method of payment as the children reach their majority. Another object of the visit will be to ask the department to permit the Indians who have heirship lands to dispose of to draw this money and not have it tied up by the department as is the case at present. While in some cases, it is alleged, this may be found neccessary, in the majority of cases it causes much annoyance in the progress of the Indians.</p> 
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.game.0031">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Comments on Game Law</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Comments on Game Law</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1913-07-24"></date>
+<biblScope type="page">4</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>game law comments</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Fixed title</change>
+<change when="2010-08-03"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+<head type="main">COMMENTS ON GAME LAW</head>
+
+<p> Argus-Leader: Not having noticed any comments in your valuable paper pertaining to the recent regulations promulgated for carrying out the provisions of the new federal migatory bird law. I take the liberty of calling your attention to a few of the provisions of special interest to the sportsmen readers of your paper. I am aware that there was a false rumor more or less prevalent throughout the west, that the regulations when issued would absolutely prohibit the hunting and killing of waterfowl, but there was no foundation for any such rumor from any standpoint. You understand that the new migatory law merely authorizes the Department of Agriculture to fix close seasons without covering questions of possession, bag limits, shipment, sale, or various other matters. You will note that no change is made in the beginning of the open season this year as the new regulations cannot take effect before October 1. It was found to be impracticable at this time to harmonize the seasons under the regulations and the state laws as closely as we could wish, but hope that this discrepancy can be removed later on so that there may be no uncertainty in the minds of the sportsmen as to the opening dates under the state and federal statutes.</p>
+
+<p> In South Dakota, under the federal regulations the open season remains the same, September l0, but makes the season close on waterfowl, December 15, instead of April 9. The open season for snipe in your state has been the same as the open season for prairie chickens, grouse, upland and golden plover, September 10 to October 10, which was evidently a radical mistake on the part of the framers of the law in the legislature of 1909, but under the federal regulations the opening season for all shore birds is from September 10 to December 16, the same as for waterfowl. There was considerable pressure brought to bear from a number of western states to have a closed season under the Federal regulations placed on prairie chickens during the entire period of each year, and while the Department would have been pleased to have done this, it was somewhat doubtful whether the prairie chicken was sufficiently migratory to come within the terms of the act, and it was finally considered advisable, for the present at least, not to include them under the regulations.</p>
+
+<p> It is not expected that the regulations are going to meet with the approval of all sportsmen, but I firmly believe that all true sportsmen will give the committe that framed the regulations credit for doing the very best that they could under the circumstances at this time. Assuming that protection of migratory birds heretofore has been unsatisfactory, which seems to have been the case since the matter has been made the subject of Federal statut <sic> statute</sic>, it is evident that some more adequate protection must be provided, and this the members of the committee aimed to do to the best of their ability. It is true that in some parts of the country the closed seasons will raise a loud "hue and cry" from many true sportsmen, but few if any changes will be made this year. Probably some changes will be made next year. It will now be up to the various state lawmakers to enact laws that will be uniform in every respect with the Federal regulations, and then the long sought for uniform game laws will have been accomplished &#8212; almost.</p>
+
+<p> In the matter of enforcement of the Federal regulations, no details have been worked out but before the first of October. when these regulations go into effect, a statement explaining the method of work will be made to those interested. It Is natural to expect that the government will need the hearty cooperation of the various state game departments in making the provisions of the federal law a success, and my own personal opinion is that in this cooperation will prove the sincerity and capability of the various state game wardens as to whether or not they are filling their offices for just what they can get out of it financially or from the right standpoint of game conservation.</p>
+
+<p> The bureau of biological survey, which has charge of the enforcement of the provisions of the new migratory law, will be pleased to answer all communications addressed to it in reference to any part of the regulations which are not readily understood. Circulars No. 92 and 93 contain the new regulations and explanations, and can be secured by addressing the Division of Agriculture, Washington, D. C.</p>
+
+<p>Very truly yours,
+<forename>W. F.</forename> <surname>Bancroft</surname>,
+Administrative Assistant, Game Preservation Dept., Bureau of Biological Survey.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

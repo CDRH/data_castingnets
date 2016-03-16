@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.law.0018">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Conservation Work by Lake Andes C.C. Camp</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Conservation Work by Lake Andes C.C. Camp</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1934-09-27"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>CCC work update</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Fixed title</change>
+<change when="2010-08-04"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<head type="main">CONSERVATION WORK BY LAKE ANDES C.C. CAMP</head>
+
+<milestone unit="absent" />
+
+<p>The Emergency Conservation work program as carried on by the Lake Andes CC camp consists of two main projects, the completion of pipe laying operations and backfilling in the outlet ditch to the lake and the construction of the west diversion into the lake. Another project, the Owen's Bay Migratory Waterfowl Refuge, will undoubtedly be added to the work of the camp as soon as the property rights are acquired.</p>
+
+<p> Work is progressing as rapidly as possible on the pipe laying operations in the outlet ditch, while backfilling over the pipe already in the place has progressed rapidly and is practically completed. This operation was accomplished by a Cletrac bull-dozer unit and an elevating grader, the property of the U.S. Forest service.</p>
+
+<p>A good start has been made on the west diversion into the lake. Fresno scrapers, trucks, and men are working at full speed to complete the lower end of the diversion. As yet the rights of way for the upper end of the diversion have not been obtained, but the state is working on this phase at present.</p>
+
+<p> The Owen's Bay Migratory Waterfowl project consists of the diversion of the Miller well and the south side fish hatchery well in the present Owen's Bay and the construction of an earth fill dike to separate the bay from Lake Andes. In the bay three large islands will be constructed to provide nesting places for migratory waterfowl.</p>
+
+<p> The present enrollment of the CC camp is 283 veterans, approximately 245 men work on the projects daily.</p>
+
+<p> The work is under the supervision of the U.S. Forest Service with the following charge.</p>
+
+<p> E.W. Saylor project superintendent: V.A. Goure, in charge of pipelaying operations and R.C. Braidwood, C.F. Silvis and B.E. Wilson as foremen.</p>
+
+<p> E. W. Sayler , Proj. Supt., Camp DSE-204.</p> 
+</div1>
+
+</body>
+</text>
+</TEI>
+

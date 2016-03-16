@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.resort.0006">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Lake Andes Good for Hunting, Fishing</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Untitled</title>
+<title level="a">Lake Andes Good for Hunting, Fishing</title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1906-07-05"></date>
+<biblScope type="page">5</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Streets</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-14"><name>Laura Weakly</name> Supplied title</change>
+    <change when="2010-02-18"><name>Laura Weakly</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+
+<p>Of the many places within easy distance of Sioux City, Mitchell,
+and Sioux Falls, for the man in search of good fishing and hunting
+grounds, where he can spend his summer vacation, there is probably
+no place so little heard of as Lake Andes, South Dakota.
+Located in Charles Mix county, but six miles from the old muddy and 
+within the borders of the Old Yankton reservation situated a little
+village of 500 population, the farming facilities and the soil being
+unexcelled. The prosperity of the town, though but two years old, is
+attested to by the substantial appearance of its streets, and the 
+wide cement sidewalks that extend in every direction. About one half 
+mile down a gradual slope lies the west end of the lake, which extends
+for fourteen miles, varying in the width from one mile to three in
+width. The depth averaging five feet over its entire surface.
+It is a common occurance for fishers, after a three or four hours 
+trip to come in with from fifty to seventy-five bass, varying in 
+weight from two to six pounds, a four or five pound fish being quite
+common. While the catches of bull-heads, which many people prefer
+for eating on account of their being practically boneless, are 
+not spoken of unless they exceed the hundred mark, it being no usual
+thing to make two and even three hundred for the day. To those who 
+have fished in the worn out lakes of the old advertised resorts, 
+the catches here put down may seem erroneous and have a fishy flavor
+and nothing but a trial will convince. A good landing and numerous
+boats are for hire, while several gasoline launches, one of which
+seats over a hundred people ply back and forth over the lake, for the 
+convenience of the pleasure seekers. . . .</p>
+
+</body>
+</text>
+</TEI>

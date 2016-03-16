@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.water.boat.0012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Indian Land Sold</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0012</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="supplied">Indian Land Sold</title>
+<title level="a" type="original">Untitled</title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1907-08-22"></date>
+<biblScope type="page">5</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-14"><name>Laura Weakly</name> Fixed title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<p>On last Monday at Greenwood Indian land was sold to the following bidders: Frank Harrington bought 114 acres in section 31-98-63 for $31.10 an acre; Bertha Eggers bought the e2 of nw nw 18-93 and lots 1173-1160 in section 19 and lot 1156 in section 30-94-62. 140 acres, for $21.60 per acre: Fritz Strohbehn bought 240 acres in sections 22 and 27-95-62 at $7.77 per acre; Frank Strohbehn bought the e2 of nw section 15-94-62 at $12.61 per acre; James B. Steckman bought the s2 of section 15-94-62, 320 acres, for $3,200.</p>
+ 
+<p>Miss Dollie Brazill and Mrs. J. W. McKane of Omaha, who is visiting at the Brazil home, decided that the wind was just right Monday afternoon to take a fine sail on the lake and both being expert sailors they were able to maneuver their boat about the lake in a manner to excite the envy of all the other sailors on the lake. However, when they were ready to return home they were at a loss how to start on the homeward course and as a result were compelled to land near the well and started to walk around the lake, via town, to their home. They arrived here about 10 o'clock and after refreshing themselves at Gavins' restaurant, made the balance of the trip home with a horse and buggy.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

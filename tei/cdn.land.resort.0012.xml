@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.resort.0012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bundy Launch in Commission</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a">Untitled</title>
+<title level="a">Bundy Launch in Commission</title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1909-05-27"></date>
+<biblScope type="page">3</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-14"><name>Laura Weakly</name> Fixed title</change>
+    <change when="2010"><name>Laura Weakly</name> Model Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+
+<p>J.H. Bundy once more has his launch in commission. It has been
+treated to a new coat of paint and the engine overhauled and is now
+one of the niftiest pleasure crafts on Lake Andes ...</p>
+
+<p>Tri-County News &#8212; Ye Editor and the "Devil" returned from a very pleasant
+fishing tour to Lake Andes last Monday night after an outing which
+lasted from Friday until Tuesday of this week. To say that we
+enjoyed our trip is putting the same mildly but we certainly did
+not have the luck of former trips and those we promised a mess
+of fish will have to be contented with "the next time we go." We
+are sorry that we were not able to fetch home a greater amount
+of the finny monsters of the beautiful Lake Andes. While in the town
+of Lake Andes we were treated royally by our former townsman F.A.
+Anderson who did everything in his power to make the trip pleasant
+for us and we appreciate his efforts very much. We also met Mr. Rogers
+of the Lake Andes Wave, who is the handy man around the office, 
+and enjoyed a pleasant hour in the sanctum sanctorium of Brother
+Corey. We shall not forget the trip to the Lake Town for these many
+moons and hope in the very near future to return to get more of
+the finny tribe.</p>
+
+</body>
+</text>
+</TEI>

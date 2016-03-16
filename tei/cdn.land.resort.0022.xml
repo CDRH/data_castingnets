@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.resort.0022">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Bass in the Lake Acting Very Peculiar</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Untitled</title>
+<title level="a" type="supplied">Bass in the Lake Acting Very Peculiar</title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1914-06-11"></date>
+<biblScope type="page">4</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-14"><name>Laura Weakly</name> Fixed title</change>
+    <change when="2010-02-18"><name>Laura Weakly</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<head type="main"></head>
+<head type="sub"></head>
+
+<p>Kimball Graphic: The Lake Andes Wave remarks that the bass in the lake act very peculiar this season for some
+reason or other. And it is even so. Fact is, they always do. When they do not something evidently is wrong with
+them. The man who thinks he knows all about the habits of black bass doesn't know the first thing about
+the critters. The more experienced the angler the less he claims to know. The best of them can't select a 
+good fishing day and deliver the goods more than once in times to bat. One day the bass will strike at anything
+within striking distance, and you'll reel in nine out of ten that strike. The next day or the day after, or the day 
+after that, with exactly the same temperature, wind and weather conditions, you won't get a strike &#8212; or if you do, you can't
+hook them. Moreover, much of this talk about the bass taking one bait one day and another kind another day is
+moonshine when applied to the big mouth variety. When they are striking freely one bait is as good as another
+if not better.</p>
+
+<p>The town has been full of strangers this week, who are enjoying the fishing at the lake. And the fishing
+has been pretty good, in fact, better than for the past two or three weeks. as a consequence everyone was
+well supplied with fish.</p>
+
+</body>
+</text>
+</TEI>

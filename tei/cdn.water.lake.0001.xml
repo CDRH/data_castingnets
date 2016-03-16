@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.water.lake.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Not First Time Our Lake Was Waterless</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.lake.0001</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Not First Time Our Lake Was Waterless</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1934-08-02"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-13"><name>Laura Weakly </name> Fixed title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+<head type="main">NOT FIRST TIME OUR LAKE WAS WATERLESS</head>
+
+<p> Armour Herald: The water in Lake
+Andes is now at its lowest ebb since
+1894, at which time it was completely
+dry. The earliest records available in
+regard to the history of the lake come
+to us from the soldiers of the Civil war,
+who under General Sulley fought the Sioux
+Indians in the Dakotas, following the outbreaks
+in Minnesota and the New Ulm massacre.</p>
+
+<p>These troops, the 6th Iowa cavalry, were
+quartered at Fort Randall, during the winter
+of '62 and '63. The soldiers of this command
+say that during their campaigning in this
+country the weather was very hot and dry, and
+feed for their horses was very hard to get.
+Although they traversed the country for miles
+around the fort on both sides of the river,
+they were unable to find water anywhere
+except at the "Old Muddy". These boys left
+many records in the form of diaries, reports,
+etc., but no mention was ever made of a lake
+where Andes now is. J.W. Hewitt, one of
+Sully's troopers who passed away in 1917,
+said that he had hunted buffalo for miles north
+of the fort in 1863 and at that time our
+lake contained no water.</p>
+
+<p>Though we are unable to locate any records
+in connection with the lake between 1863 and
+1882, we find that in this last named year
+the lake ran over. The water it is said by old
+timers, ran north from Johnson's Bay into
+Arcon lake, which is partly located on the
+Gerald McGrath place south of Armour, thence
+north, then east and southeast into Choteau
+creek some distance south. It might be said
+in passing that the original survey for the
+spillway was from Johnson's Bay into Choteau
+Creek through Artesian Creek, which empties
+into Choteau.</p>
+
+<p>From this time on the water receded, for in
+1894, twelve years later the lake was dry again.
+The years prior to this were dry and hot, those
+who lived here at that time will verify this.</p>
+
+<p>In "A History of South Dakota" by Frances
+Holley copyrighted in 1890, the author says of
+Andes lake: "It is situated in South Dakota,
+fifteen miles from Fort Randall, twelve miles
+from the Yankton Agency and seven miles from
+the smart town of Armour, the present terminus
+of the Chicago and Northwestern Railroad (Chicago,
+Milwaukee St. Paul and Pacific). It was named for
+Edward Andes, a surveyor for the American Fur
+Company. This lake is fifteen miles long, one and
+one-half miles wide, with an average depth of
+fifteen feet, and is in the form of a
+crescent. It has no visible outlet, but is fed by
+two creeks that drain a large area of country west
+and north; and there are no fish in the water,
+but a reptile, from ten to fifteen inches long,
+and termed the axolot. Around the lake there is a
+great abundance of game . . .  Andes Lake
+is very nearly in the center of the Yankton
+Reserve; around its shady banks was the old
+camping ground on the trail to the Pipestone
+Quarry, from which the Indians for centuries have
+made their pipes.</p>
+
+<p>It was also a famous resort for buffalo and
+important as a tanning place. Until within a
+comparatively short time the adjacent country
+was well timbered, where now there is only here
+and there a scanty, low growth; but along its shores
+plumed grasses nod and sway, as white winged gulls go
+by."</p>
+
+<p>At this time the lake was on the wane, due to dry
+years which caused the hard times of 1894. 
+After the period of drouth <sic>drought</sic> heavy snows filled the
+lake again to reach its peak in 1920 it nearly ran
+out a second time. Since then the water has steadily
+receded until now it is nearly dry.</p>
+
+<p>The artesian well at the north end known as the
+Spot as well, is flowing as good as ever, but the
+water only spreads out on the mud flat and
+evaporates. The well across from Stony Point has
+been inactive for some years as also the well
+at the town of Lake Andes. There are two wells
+at the state hatchery.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

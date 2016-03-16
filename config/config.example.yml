@@ -1,0 +1,22 @@
+tei_solr_xsl: projects/castingnets/scripts/solr_transform_tei.xsl
+solr_core: castingnets
+
+development:
+  xsl_params:
+    fig_location:
+    file_location:
+    figures: true
+    fw: true        # form works (page nums, etc)
+    pb: true        # page breaks
+    project: Casting\ Digital\ Nets
+    slug: castingnets
+
+production:
+  xsl_params:
+    fig_location:
+    file_location:
+    figures: true
+    fw: true        # form works (page nums, etc)
+    pb: true        # page breaks
+    project:
+    slug:

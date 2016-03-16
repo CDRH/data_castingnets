@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.resort.0015">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Booster Trip Comments</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Booster Trip Comments</title>
+<title level="a"></title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1912-07-04"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2010-02-18"><name>Laura Weakly</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+
+<head type="main">BOOSTER TRIP COMMENTS</head>
+
+<div1>
+
+<head type="sub">Delmont Record</head>
+<p>On last Friday the Lake Andes Fourth of July boosters came to Delmont boosting and just hooping her up for their celebration. They arrived here about I:30 p.m., about forty strong. They came in automoblies and had their band with them, which was a great help in enlivening the occasion. The citizens were out awaiting them and received them in the usual open arm fashion of Delmont and her people. The Delmont band was on the street and gave the visitors some of the class of band music we have in this city. Arrangements had been made in advance and the Lakeside boys stopped at Hotel Douglas for dinner. This allowed them much time In Delmont and they did some good work in extending an invitation to our people to come over there the Fourth. The orator of the trip was Hon. H. C. White, and the way he expounded the features of the celebration Lake Andes was going to have, was worth going a great ways to hear. Mr. White is going to be one of the prominent speakers of the day and it is needless to say it will be the best. The Delmont ball team will play one of the games in the afternoon which promises to be a good one.</p>
+<p>Mayor Remington and Editor Savage were pleasant callers at the Record office and were taking a good look over our city. The boys went from here to Corsica and thence to Geddes. While it was a pretty dusty drive, yet they were having good roads and luck from trouble whey they left here. It has just been a year ago when Delmont was out boosting, and we realize what. It means to be treated nicely, and gives us a better idea of how to treat other. out on the same mission</p>
+</div1>
+
+<div1>
+<head type="sub">Geddes  Record</head>
+<p>The Lake Andes Fourth of July Boosters wore In the city Friday of last week some fifty strong with their band, boosting for their celebration. They arrived about 7:00 from Corsica and stopped here for a couple of hours during which time their band played several nice selections after which they all went boosting, calling on their friends and getting acquainted with those they did not know. Hon. H. C. White delivered a short address and cordially invited our citizens to as he stated, "forget for a day and all come to Lake Andes for a grand celebration," and we are not sure but we believe our people will "do" the Lake town by sending a big delegation down to celebrate with them.</p>
+</div1>
+
+<div1>
+<head type="sub">Geddes  News</head>
+<p>The Lake Andes Fourth of July ['wooers were here Friday evening with nine automobiles and a very good band. They started out Friday morning going to Ravinia, Wagner, Tripp, Delmont, Armour. Corsica and (led des. They promise. oil a good celebration and Invited the Geddes people to spend the tiny with them. The (Geddes Cornet band Is to assist in furnishing music fur the occasion. There was a good crowd on our streets to listen to the music and shake hands with our neighbors on the east.</p>
+</div1>
+
+<div1>
+<head type="sub">Trope Ledger</head>
+<p>Lake Andes will celebrate the 4th of July and to impress this fact upon time minds of the people of this city eight or nine autos' loaded with boosters visited us last Friday. They came just at dinner time and did not stay very long, therefore they did not give the Tripp band a chance to welcome them. They were however presented with cigars by the Commercial Club. The lake will be an ideal place to celebrate and there will be a good number from Tripp over.</p>
+</div1>
+
+<div1>
+<head type="sub">CORSICA Globe</head>
+<p>Ten auto loads of boosters from Lake Andes drove into our city last Friday noun and proceeded to bill the town for the big 4th of July celebration that will be held at the Lake town this year. They were accompanied by their band which rendered some fine musk. Judging from their posters and programs and from what their spokesman wild. we have come to the conclusion that Lake Andes will be the only town on the map July 4th, Selz.</p>
+</div1>
+
+<div1>
+<head type="sub">Wagner PORT</head>
+<p>Last Friday morning the Lake Andes boosters were here to advertise their Fourth of July celebration. They brought along twelve cars of hustlers anti their newly organized band, which Is In every way a credit to the town. About nine o'clock the word was passed around that they were coming and in about twenty minutes fifteen ears of Wagner business men turned out and went to meet them.</p>
+</div1>
+
+<div1>
+<head type="sub">ARMOUR CHRONICLE</head>
+<p>The Lake Andes Fourth of July Boosters, ten automobiles strong, came streaming Into Armour last Friday afternoon. They were</p>
+<p>(Continued on last page)</p>
+</div1>
+
+</body>
+</text>
+</TEI>

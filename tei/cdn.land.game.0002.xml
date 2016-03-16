@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.game.0002">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">South Dakota Game Laws</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">South Dakota Game Laws</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1906-12-13"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>SD game laws proposed</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Supplied title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<head type="main">South Dakota Game Laws.</head>
+
+<head type="sub">Sioux Falls. S. D.. Dec. 8. 06</head>
+
+<p> Members of the committee appointed by the South Dakota Game and Fish Protection association, met Wednesday, December 5th, at Sioux Falls. to draft the proposed new game law. The Minnesota game and fish law was adopted as far as practical.</p>
+
+<p>The bill provides for the creation of a game and fish commission of five (5) members to be appointed by the governor. Members shall serve without compensation, except for the necessary expenses.</p>
+
+<p>The commission shall appoint one of its members its executive agent, who shall devote all his time to the discharge of his duties and shall receive compensation <choice><sic>therefor</sic> <corr>therefore</corr></choice> to be fixed by said commission. It may also appoint a sufficient number of game wardens as may be necessary, and fix their period of service and compensation.</p>
+
+<p>It also provides for a non-resident license of ten dollars, and a resident license of one dollar; these moneys to go to a game fund to pay the state game warden and his deputies.</p>
+
+<p>The open season on ducks. geese, snipe and water fowl, from September 1st to January 1st, and on chickens from September 1st to October 15th. Quail from October 15th to December 1st.</p>
+
+<p>The committee also adopted the Minnesota non-sale and cold storage clauses. and coupon system whereby a person can legally ship a certain number of birds within the state, with the coupon attached.</p>
+
+<p>The big game laws were left without any change, as the sportsmen and others interested west of the Missouri River, are to hold a meeting to draft a suitable law for their needs.</p>
+
+<p>The S. D. G. &amp; G. P. Association desire the earnest co-operation of the big game hunters in the Black Hills <choice><sic>countty</sic> <corr>county</corr></choice>, and are anxious to support them in any measure they wish for the protection of the game animals of the state, and trout or other game fish.</p>
+
+<p>Minnesota's fish laws were adopted in the bill as far as they apply to the game of the state, the only exception being trout, which was left open, as was the game animals. for the sportsmen of the western part of the state to frame the bill.</p>
+
+<p>The committee adjourned to meet in Pierre the first week of the legislature, for final revision of the bill. O. J. Straw, secretary, S. D. G. &amp; F. P. Ass'n.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

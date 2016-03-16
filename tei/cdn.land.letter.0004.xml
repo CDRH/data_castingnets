@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.letter.0004">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Johnson, Ripple, and Dutch correspondence</title>
+<title level="m" type="sub"></title>
+<principal>David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.land.letter.0004</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2010 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a">Johnson, Ripple, and Dutch correspondence</title>
+<title level="a"></title>
+<title level="j">correspondence</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1930-02-16"></date>
+<biblScope type="page">unknown</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2010-08-04"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+<p>Rapid City, S. Dak.</p>
+<p> Mar. 16, 1930.</p>
+
+<p> Mr. O. H. Johnson, Director</p>
+<p> Dept. of Game and Fish,</p>
+<p> Pierre, S. Dak.</p>
+
+<p> Dear Mr. Johnson:</p>
+
+	<p> Present indications are that Dutch, myself
+and possibly one other man will be going to Watertown the 
+middle of the coming week, about the twentieth, and as we
+have a lot of stuff to take over, includeing two of those
+large tanks that are used on the trucks and about sixty or 
+more cans, I had planned to use the International truck
+that has been here all winter as well as the Ford truck
+that has always been here, to haul everything to the Eastern
+part of the State all at once, but Dad told me I had better
+write you and find out if that would meet with your approval
+because he tells me that though he is not sure, he beleives
+you said at some time that if you were to sell the large
+International, you would want to do so in the West-River
+section. Of course the Ford truck will be taken East but 
+what Dad told me, leaves me in doubt about the International.</p>
+
+	<p> As I figure, there will be two good truck
+loads from here, and then there will be the hauling of the
+long twenty-foot staves for the tank at the Pickerel Lake
+hatchery, also the pipe to the Byron lake pond, that the
+International will prove exceptionally well adapted for.
+If you want the large International left here, I wish to
+know as soon as I can so that different arrangements can be
+made.</p>
+
+	<p> Please have two twenty-five dollar gasoline
+coupon books mailed to me immediately as they will be needed
+to make the trip, the pick-up taking a different route than
+the other trucks.	</p>
+
+	<p> I am writing you about this because Dad is
+going direct to Lake Andes before he goes to watertown to
+start the spring work there.</p>
+
+		<p>Yours truly,</p> 
+<p> R. L. Ripple </p>
+</div1>
+
+
+<div1>
+
+<p> January 13, 1930</p>
+
+<p> Mr. Robert L. Ripple</p>
+
+<p> Rapid City, South Dakota</p> 
+
+<p> Dear Bob:</p>
+
+	<p> I spoke to you at Madison about making a 
+talk in Mitchell sometime in January. The
+date has been set for the 21st at which time
+we are going to present charters to Plankinton,
+Mount Vernon, and Alexandria, and we would like
+to have you make a good talk similar to that
+you made in Madison telling the boys of the 
+condition you find in the Lakes Andes and Madison,
+and also the plans for the development of the James River.</p>
+
+	<p> Hoping to hear that you will be able to
+be with us at that time, I remain as ever,</p>
+		
+
+			<p> Yours truly,</p>
+		
+			<p> L. P. Petersen</p> 
+
+		      <p> President, Izaak walton League</p> 
+		
+			<p> Mitchell Chapter #43</p> 
+</div1>
+
+
+
+<div1>
+
+<p> Brookings, S. D.</p> 
+<p> Jan. 11, 1930</p> 
+
+<p> Mr. R. J. Ripple</p> 
+<p> Lake Andes, S. D.</p> 
+
+<p> Dear Mr. Ripple-</p> 
+
+<p> I was over at Arlington Friday but could not get
+in touch with Mr. Smith. I saw his partner Kjelson
+and he said that Smith was in Sioux Falls and
+that he did not expect him to return to Arlington until
+Monday.</p> 
+
+<p> Kjelson thought that Smith had no webbing at Lake 
+Brant, but  he was sure that he had some at Lake 
+Poinsett. As soon as I can see Smith and find out
+whether he has 1200 ft. of bullhead webbing at
+Poinsett, we can load it up and start for Lake
+Andes if that will hellp you any.
+Carl Kjelson was anxious to get started <unclear reason= "illegible"/> at
+Lake Hendricks again and he said he intended to
+call Mac Randall today (Sat.).</p> 
+					<p> Very truly yours</p>
+					<p> G. K. Sorenson.</p> 
+</div1>
+
+
+<div1>
+
+<p> 5/15/29.,</p>
+
+<p> Mr. R. W. Ripple, </p>
+<p> Rapid City</p>
+<p> S. Dak.</p> 
+
+<p> Friend Bob:</p>
+
+	<p> As I have a bunch of foolish ideas and you are about the only
+one that I know that would be kind enought to know enough to
+answer them. Now if you would be kind enough to let me know what I
+would like to know I will try and see that you get a few ducks
+or some pheasants next fall.</p> 
+
+	<p> First would it be profitable to try and raise bull heads or
+yellow belly cat in a lake that is full of rushes and now has about
+four or five feet of water in it. This lake covers about eighty
+acres. A person could put in an arteasion well in a few years after
+the lake was producing fish enough to pay or big enough to sell.</p> 
+
+	<p> Do you know if the federal department of fisheries has an estimate
+on what an acre of water will produce in fish? Or do you know what
+it would produce in fish?</p> 
+
+	<p> You see a fellow would not only get more water in the lake in the
+winter time with this well but it would all so catch your fish for 
+you as they come up in the warm water in the winter time.</p> 
+
+	<p> Do you know where in this state a fellow could get some yellow
+belly cat the ones that grow about two or three pounds? How long
+would it take to produce a cat of this size under fair water and 
+feed conditions? And do you think that it would be profitable to try
+bull frogs, or would they grow down here and where would a fellow
+get his stock and about what would they cost?</p> 
+
+	<p> Now Bob and I would appreciate it very much if you would answer these
+questions for me, and maybe some day I may be able to repay you in some way.</p> 
+
+					<p> Very truly yours,</p> 
+				<p>	<unclear reason="signature of Thompson" /> </p>
+
+<p> P.S. Have been catching lots of crappies here in the lake but have 
+had no luck with the blue gills but think that they are still 
+out in the deep water as I think that the crappie spawns first.</p> 
+	
+	<p> We are using live bait for the crappies and of coarse do not get
+as many blue gill s as if we were using worms.</p> 
+
+	<p> The weather has been very cold down here and do not look for a 
+very early fish hatch and that will be that much better as we have
+been having a very cold and windy spring.</p> 
+</div1>
+
+
+
+<div1>
+
+<p> State Fish Hatchery</p>
+<p> Pickerel Lake, So. Dakota.</p>
+
+<p> Mr. Merle Thompson,</p>
+<p> Lake Andes, South Dakota.</p> 
+
+<p> Dear Mr. Thompson:</p> 
+
+	<p> Received yours of May 15th, here today
+and same catches me at a time when I am just about crazy
+with work in connection with my Pike Propagation, because
+I have so many Pike Fry coming on, its just a dam fine thing
+to have to hustle to get them to our different lakes.
+Over 7,000,000 little Pike in our tanks at this hatchery
+on this date so ou may know I am beside myself in getting
+the planting done in a way that will spell success.
+Will not go into details in reference to your letter
+because you have touched upon TWO propositions that have
+merit behind them and both would have to have some real
+explanations in order that you can grasp things.</p> 
+
+	<p> I will spend a heap of time in your
+territory this summer because success must be made in our
+work at that point and the first time I get down there,
+will look you up and talk over the matters contained in
+your letter and which cannot be explained by leter, owing
+to time.         I wish however to say that the Large
+Bullfrogs are a coming thing in southern South Dakota.
+I have studied them considerable this last year and have
+a place in mind where stock can be purchased, down in
+Kansas, the address is at Pierre when we would want same.
+There is money in frogs if suitable conditions can be had
+for such a venture.</p>
+
+	<p> Eighty acres of lake space would handle
+a heap of Bullheads but such waters must be of a muddy
+nature bottom, plenty of depth the first consideration
+and there are many other conditions that must be taken
+into consideration.</p>
+
+		<p> Will see you when I get down there.</p> 
+
+	<p>	Very truly yours,</p>
+<p> R. L. Ripple </p> 
+</div1>
+
+
+<div1>
+
+<p> July 17/29</p>
+
+<p> Mr. R. L. Ripple</p>
+<p> Rapid City, SD</p> 
+
+<p> Dear Mr. Ripple:
+Well I arrived here safely
+and was glad of it as it certainly
+was a hot one. How far did you
+get that day. I did not see Ralph
+or Harold on my way down here.
+Guess they must have forgotten about
+getting nets. I suppose after driving
+that new Nash home you realize
+that I would like to more than 
+ever ride in it.</p>
+
+<p> Well now to let you know what
+I have been doing since I've been
+down here to start in with luck
+has been against us. Saturday it
+was very windy and couldn't see
+anything up in the bay. Sunday it
+rained so had to stay in all day.
+We went out Monday &amp; Tuesday
+but the green algae on the lake
+in the North End has been
+terribly thick. The wind keeps on
+blowing from the South &amp; East.
+Today its better and here's hoping
+things are cleared up, so that
+we can get some Bass. Of course
+when we were up there, we 
+could get a few by dipping
+into the vegetation, but it was
+impossible to see any swarms.</p>
+
+<p> The green algae that is on lake
+has done quite a bit of damage.
+Some of the farmers on North 
+side of lake have lost chickens
+ducks &amp; turkeys and hogs from
+drinking the water out of lake.
+One farmer lost ninteen hogs
+Another ten. Duffy sent samples
+of water to the University to
+have analyzed but so far haven't
+had a report from it. Well today
+things look much brighter
+today. Things are in our favor
+only its cloudy, but hope that
+the green algae is out of the North
+end. The nests in pond are no
+ more so before going up on lake
+we are going on pond to see if
+there are any swarms. If, the wind
+keeps on like it has from the East
+Duffy &amp; I will drive down to Sargent
+Lake to see what, we can get down
+there. But I'm more interested to
+get the Bass out of Lake here.
+Well, anyway I'm hoping for the 
+best. Well, we are set to go, so
+will quit. Will let you know
+what luck we had latter part of
+week. Regards to folks &amp; the boys.</p> 
+
+<p> With best Personal Wishes.</p>
+		<p> Respectfully yours.</p>
+		<p> "Dutch."</p>
+</div1>
+
+
+<div1>
+
+<p> Rapid City, July 22, 1929.</p> 
+
+<p> Mr. O. E. Glaseman,</p>
+<p> Lake Andes, South Dakota.</p> 
+
+<p> Dear "Dutch":</p> 
+
+	<p> Glad to have your letter July 17th,
+telling about the work at Lake Andes.
+Sorry to learn the Green Algae has hampered the work
+we wished to carry on but it cannot be helped of course.
+Only hope you boys have had better luck since your 
+letter was mailed to me.</p> 
+
+	<p> Although the work you are now in should
+be confined to Lake Andes, it would be well if you have
+had the time or will get the time to go down to Sargent
+lake to determine th depth of water and other conditions
+as how numerous the Black Bass are there.</p>
+
+	<p> I expect to have another letter from you
+possibly tomorrow and if it is determined that nothing
+worth while can be accomplished there in that special work
+I will write you what next to tackle.     At any rate do
+not leave there until I write you what you about the next move
+because I may have you go into the Winner country and it 
+may be you will have to bring through to Rapid City a load
+of various sorts or varities of vegetation to go into 
+Orman Dam.</p>
+
+	<p> I am sure sorry that algae got so thick 
+in the lake there but hope the swarms of young Bass in
+the pond are showing up.</p>
+
+	<p> Have been on the rush here ever since coming
+home.     Warden Schemmer leaves tonight for his section
+with a big load of trout, one load went to State Park this
+A. M. and so it goes.</p>
+
+	<p> Give regards to people there and say "Hello" 
+to "Duffy."</p> 
+
+				   <p> Yours,</p> 
+     <p> R. L. Ripple</p>
+</div1>
+
+
+
+<div1>
+
+				<p> Lake Andes, S. D.</p> 
+				<p> July 24/29</p>
+
+<p> Mr. R. L. Ripple</p>
+<p> Rapid City, S. D.</p>
+
+<p> Dear Mr. Ripple:</p>
+
+		<p> Received your letter today
+and very glad to hear. Well, things have
+quieted down considerably this past
+week, so far we have taken about
+2500 young Bass out of Lake, but the
+Green Algae is still in the North End 
+of Lake. These Bass that we got were
+all in small bunches and very
+hard to get. I really believe that the
+large swarms have all broken
+up. Not more than twenty or thirty
+in a bunch and a lot of bunches
+with only six and seven in them.</p>
+
+<p> I don't believe that it would pay
+to really try to get anymore as 
+it takes all day long just to get
+four or five hundred. Duffy sure 
+was disgusted to think that we
+couldn't run across any large
+swarms. He wasn't any more
+disgusted than I, as <unclear reason="illegible" />
+was looking forward to getting quite
+a few. I really think that if the
+Green Algae and the wind hadn't been
+we most likely would have gotten
+quite a few. Just our luck to have
+this happen. Well, about Sargent's
+Lake, last Thursday, the wind blew
+so hard we couldn't see anything
+on Lake in a. m. so Duffy &amp; I decided
+to go down there. I really don't see
+any lake part about it. </p>
+
+<p> It is the old river bottom but is cut off
+from River until high waters in
+spring. We spent about five hours
+there. The average depth is about
+five feet some vegetation and its all
+mud bottom. Nothing but Bullheads 
+and very few shiners &amp; Sun Fish but no
+Bass.</p>
+ 
+ <p>We talked to quite a few
+farmers that live around there
+and very few fish in it. They
+most likely would if there
+were any fish in it <unclear reason="illegible" /> never
+goes dry but gets shallow. The 
+widest part I don't believe is over a hundred feet. I should judge
+that it isn't over six or seven
+miles long and dry in parts where
+around or lay of land runs
+higher. Well, we are still at it
+hard to get more Bass for pond;
+so shall stay right here until
+I hear from you again. Should have
+written before I received your
+letter, but sure was glad to
+hear and shall do my very
+best to accomplish more than
+what we have under these conditions that have been in the lake.
+I gave your regards to Duffy and rest. 
+He also sends them best regards 
+to you folks. Also regards to
+folks from me &amp; Here's to boys hoping
+to hear soon. I am as usual,
+With Best Personal Wishes.</p> 
+	
+		           <p>Respectfully Yours,</p> 
+			               <p>"Dutch."</p> 
+</div1>
+
+</body>
+</text>
+</TEI>                                                                                                                                                                                                                                                                                                                                                                                             

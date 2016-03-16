@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.water.boat.0009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Doc Prepared to Run Excursions</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="supplied">Doc Prepared to Run Excursions</title>
+<title level="a" type="original">Untitled</title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1906-06-28"></date>
+<biblScope type="page">5</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Piano and Boat Rides</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-14"><name>Laura Weakly</name> Supplied title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<p>Charles Raben, the piano man of Armour, spent the past week
+at the home of Mr. Vandel east of town, and while there sold him a beautiful
+ $450 Mahogany cased "Fisher" piano. This is one of the finest pianos ever purchased
+in these parts and will be a fine and useful ornament for Mr. Vandel's new house.</p>
+
+<p>Mrs. A. Amundson treated the Ladies Aid of the Presbyterian church to a fine boat 
+ride on the lake Tuesday. They run up to the other end of the lake to the Johnson ranch, 
+where they were met by the Armour aid and all had dinner under the trees. It
+is needless to say that they all had a fine time.</p>
+
+<p> C. Wendell has made arrangements with Capt. Latham, whereby he gets control of the large 
+excursion boat "Belle of Andes." Mr. Wendell has thoroughly over-hauled the boat, fixed the engine 
+and otherwise improved it. He made a run up the lake last Sunday afternoon, it certainly ran fine
+never gave the least bit of trouble. "Doc" as he is more familiarly known around here is 
+now prepared to run excursions to any part of the lake.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

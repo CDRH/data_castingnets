@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.water.boat.0005">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Fourth of July Celebrated at Lake Andes</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="supplied">Fourth of July Celebrated at Lake Andes</title>
+<title level="a" type="original">Untitled</title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1906-07-05"></date>
+<biblScope type="page">5</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Fourth of July</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-14"><name>Laura Weakly</name> Fixed title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<p>Of the many quiet ways devised for the celebration of the Fourth, there
+is perhaps no crowd of people who had a more enjoyable time, than the picnic
+partys on the lake. Gaily decked out in colors the Belle of Andes at ten
+in the morning, taking a large crowd to the upper end of the lake, and 
+returned to take the second load. On the arrival at the upper end the big boat
+was moored while a gay and jolly party of some thirty-five persons crowded
+into the large sailing sloop of Messrs. Warren, Donovan and Yeager, which
+had been towed up for their convenience and sailed merrily away on a 
+voyage of discovery. The craft having been provisioned by the ladies.
+The welcome cry of Land Ho, soon sounded from our look out, who had
+climbed the mast and perched himself on the main-To-gallant mizzen fore
+sheets somewhere about the crow's nest, just which we were unable to determine,
+not being acquainted with sailors nomeclature, and being somewhat dizzy
+from various nautical terms that were being bandied about by Captain
+Warren and Look-out Yeager. Such as haul in the main braces, clew up that
+To gallant, hold her up to the weather and haul in the slack, which by the way must
+have been the slack in his suspenders, it being mess time. The land in
+question proved to be an island, commonly known as Johnson's. The eagle eye of
+Ed having discovered no signs of cannibals, it was decided to land. But a new
+predicament arose, how could we release our lookout without his stepping
+on some of our heads, as shinned down the pole or mast. This was solved by 
+our noble captain, who rising to the occasion, threw out some sky hooks, rigged
+up some block and tackle and lowered from his perilous position. On landing
+lunch was served by the ladies committee, which turned out to be the best picnic
+lunch it has ever been our good fortune to partake of, after which were 
+various sports, with every one participating, until the arrival of the Belle
+of Andes at dusk. </p>
+
+<p>When the return trip by moonlight was commanded. The
+big sail boat was commenced. The big sail boat towing along side, there being
+insufficient win for sailing. Colored lights, roman candles, rockets continued to
+unfold their brilliant colors as fast as the torch could be applied, until within
+a mile of the shore, when at the request of the fire works commmitte the big
+boat was stopped and the balance of the fire works let off in one 
+grand display, until it appeared as though the very lake itself must
+burn. At the conclusion of this we again weighed anchor, and pulled home,
+arriving along side the dock at 12 p.m. To one standing on the landing the 
+disembarkation by lantern light, in the neighborhood of a hundred people with 
+their picnic basksets, and bundles, looked for all the world like the unloading
+of the steam wherrys that convey the emmigrants from the Atlantic liners to 
+Castle Garden. All extend thanks to the management of the Belle of Andes, for a 
+delightful trip. It is impossible here to give the names of all who attended, so 
+we merely mention the various committees and thank the ladies for their glorious
+spread (Ye gods could we but sit to such a spread again.) Committee, Picnic No. 1,
+Mesdames Andrews, VanderVoort and Qualey. In conclusion we wish to inform the 
+public generally that the Belle of Andes can be chartered at any time except
+Sunday for private parties, at a reasonable price. On Sundays the boat makes two
+trips leaving Lake Andes at 10 a.m., and 2:30 p.m., the round trip being fifty cents.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

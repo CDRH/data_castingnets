@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.water.boat.0003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Belle of Andes To Make Regular Sunday Excursions</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="supplied">Belle of Andes To Make Regular Sunday Excursions</title>
+<title level="a" type="original">Untitled</title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1905-08-03"></date>
+<biblScope type="page">8</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Belle of Andes</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-14"><name>Laura Weakly</name> Fixed title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<p>The excursion steamer Belle of Andes will make regular Sunday excursions on the lake for the remainder of the season.</p>
+
+<p>W. H. Menzie was in town for a short time Tuesday and dropped into The Wave office for a moment. Inspector Bell, his successor, has not as yet been heard from, and it must be that the spirits are doing his work. The price for dipping has been reduced one-half, Menzie was a sort of John the Baptist in paving the way, and now we're looking for the Messiah. Inspector Bell may as well look for a roar no matter how careful he may try to act. He is working under one of the kind of laws that makes people mad in administering, but it does a heap of good after the dose is swallowed.</p>
+
+<p>Sioux City Tribune: While in South Dakota J. G. Love, freight and passenger agent of the Milwaukee, accompanied by F. S. Strohbehn of Wagner made a trip to Lake Andes for a few days' fishing. But it was not necessary to remain at this famous fishing place long to get satisfaction. The fishermen went to Thomas Brazell's fishing resort on the lake and securing a boat went out for bass, armed with spoon hooks. They remained on the lake six hours and secured 110 black bass, weighing 90 pounds. Some fifteen or sixteen of those choice fish weighed 2 1/2 pounds each, the largest fish of the bunch weighing 3 pounds. Mr. Love asserts that there is no place in four states where a better catch may be secured than at Lake Andes, and he has secured a large amount of information about the fishing at Lake Andes, which he is distributing at the city ticket office.</p>
+
+<p>W. H. Gunsel and family took a carriage ride around the lake Sunday. They found lots of fishing parties all along, at at the head of the lake several launches were in service, some Armour friends inviting them to a ride in one. The cast side is not settled but fenced into great pastures, the principal one being Johnson Brothers' ranch.</p>
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.refuge.0003">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Our Sanctuary Third Largest on Continent</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Our Sanctuary Third Largest on Continent</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1935-02-21"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Fixed title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+<head type="main">Our Sanctuary Third Largest on Continent</head>
+
+<milestone unit="absent" />
+
+<p> Sportsmen the country over, in open seasons to come, will now be able to ascertain whether or not his bag of ducks have been South Dakota corn-fed!</p>
+
+<p> This information will come as a result of the establishment at the hatchery ponds of one of the most extensive duck banding stations in this section by the game department under the supervision of deputy warden Allgier and assistant Merle Thompson.</p>
+
+<p> For years, this locality has been touted as a great winter concentration point for thousands of mallards and an ideal stop-over rest station during the spring migratory flights of geese and other species of ducks. It was this established fact that interested the U. S. Biological Survey in creating the proposed Owen's Bay sanctuary.</p>
+
+<p> With over three hundred ducks banded within the first ten days of operation, the local station bids fair to share honors with two other major <unclear reason="illegible" /> in the country-the Cheyenne <unclear reason="illegible" /> in Kansas and the Jack Min . . .<unclear reason="illegible" /> Sanctuary at Kingston, Canada, across from Detroit.</p>
+
+<p> Each band contains the inscription U. S. Biol. Survey, together with a serial and station number. They are <unclear reason="illegible" /> aluminum and in no way interfere with the bird's motive power.</p>
+
+<p> A careful compilation is made of the date, sex, and specie of the ducks banded. THese are placed on file with the Biological Survey at Washington, D. C. When a hunter finds a band on a duck and sends it to the above address he will receive a card with complete data and to where said bird was <unclear reason="illegible" />. The station operator also receives a card giving place, date, and party shooting bird providing this information was sent in with the band.</p>
+
+<p> Returns on ducks previously banded here have been received from numerous points Canada to Oklahoma. At the present time, five traps are in operation locally. Under favorable weather conditions, several hundred should be tagged during th next few weeks.</p> 
+
+<milestone unit="absent" />
+</div1>
+
+<div1>
+<head type="main">TO ESTABLISH A REFUGE AT OUR LAKE SOON</head>
+
+<milestone unit="absent" />
+
+<p> Washington&#8212;Developments of Lake Andes, S. D., federal wildfowl refuge is slated to start with the opening of spring.</p>
+
+<p> J. C. Salver, in charge of the federal government's migratory waterfowl program, announced options had been obtained for all of the land necessary for the project and arrangements made for a Civilian Conservation Corps camp to develop it.</p>
+
+<p> Arrangements now are being made for materials and supplies, he said, and as soon as spring weather arrives the actual development work will commence.</p>
+
+<p> Salyer said also that plans for the Sand lake project, which will require acquisition of 18,000 acres in South Dakota, are moving steadily ahead. He said options have been obtained for about half of the land needed and he hopes actual construction work on this project also will be started in the spring. He said the biological survey is uncertain whether it will obtain a CCC camp for the Sand lake project. The projects are part of the biological survey's program of restoring favorable nesting places for ducks and other wildfowl to help check the dwindling supply of birds.</p> 
+</div1>
+
+</body>
+</text>
+</TEI>

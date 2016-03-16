@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.letter.0001">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">outboard motor letter</title>
+<title level="m" type="sub"></title>
+<principal>David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.land.letter.0001</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2010 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a">outboard motor letter</title>
+<title level="a"></title>
+<title level="j">correspondence</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1933-12-13"></date>
+<biblScope type="page">unknown</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+<change when="2010-08-04"><name> Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+<p>Watertown, December 13, 1933.</p>
+
+ <p> Mr. Willard Crandall,
+ 4759 N. Maplewood Ave.,
+ Chicago, Ill.</p>
+
+<p> Dear Sir:
+
+	Yours of December 2nd, to hand in reference to 
+the use of outboard motors to introduce oxygen into low
+water lakes, dams etc. and will say that we have had real
+results from this method combined with other equiptment <sic>equipment</sic> as
+air compressors etc.</p>
+
+	<p>It can be readily seen that by kicking a stream of 
+water up onto the ice and allowing it to run for some distance
+then allowing it to run down through holes made here and there
+is of vast importance among low water lakes etc. where fish
+may be in distress from lack of oxygen wether <sic>whether</sic> this water be
+pumped up by the use of outboard motors or pumps etc.
+We have made use of the outboard motors to a great extent since
+they are so easily moved from place to place although pumps 
+of various sorts can be used for the same purpose.</p>
+
+	<p> The present winter we will if weather is adverse
+and heavy ice comes to our more shallow lakes and dams
+make use of air compressors along with a large water pump
+mounted with gas engine on a truck and a number of outboard
+motors.</p>
+
+				<p> Very truly yours,</p>
+				<p> Department of Game and Fish,</p>
+
+				<milestone unit="absent" />
+        <p>R. L. Ripple</p>
+				<p> Supt. of Fisheries,</p>
+
+</div1>
+
+
+<div1>
+
+<p> Watertown, December 26, 1933.</p>
+
+<p> Mr. Elmer Liebig,
+Cottonwood lake hatchery,
+Redfield, South Dakota.</p>
+
+<p> Dear Mr. Liebig:
+
+	Am sure sorry to learn the seine hauls
+made with the 1,200 ft. of seine have not brought in more
+fish from our small showing with short seine previous to
+freeze-up however it may be with a green crew things have
+not panned out as they should since here at Pelican lake we
+had more or less difficulty until we got set but the past
+week has been successful in that we have brought in some
+26,000 lbs. of fish all kinds that have been passed out in
+this county at the rate of about 25 lbs. to the family.
+People get them at the county sheds here at Watertown and
+they have had three men passing them out.   Saturday morning
+they had five tons on hand but by two o'clock afternoon all
+were gone.   Our largest single haul to date was 6 and one
+half tons.</p>
+
+	<p> This we do find, that cars etc. cant <sic>can't</sic> be
+running around on the ice near or inside the hauls in these
+shallow waters we are working because the least alarm is felt
+by especially the carp and they get to other parts at once.
+We have to close in on them quickly and drive with cars and
+trucks with cans etc. attached to make a noise before making
+the landing and it sure helps.   I can't imagine only getting
+a meager amount of fish at Cottonwood lake with the amount of
+seine being used however things may pick up, on the other hand
+I suppose the county men are wondering why they don't get more
+fish.</p> 
+
+	<p> I would like to see this big seine we are using
+at Pelican lake here pulled through your lake with the addition
+of the driving in we do with certain hauls, I'll bet you would
+see plenty of fish come to shore. Carp are darn wise and I am
+just wondering if your seine being short, the fish don't run
+around it before landing.   Anyway I can suggest that they
+should be careful not to drive or alarm those carp inside the
+hauls before landing.   Seining carp in shallow water is not like
+getting them in deeper lakes, they just get wise at the least
+alarm or noise and get away.      Should have at least 2,500 ft.
+of seine on that job.      Getting our air compressors etc. in shape,
+will see you very soon.</p> 
+
+					 <p> Yours very truly
+					"Compliments of the season"</p>
+
+</div1>
+
+
+<div1>
+
+<p>Watertown, December 26, 1933.
+
+Mr. Fred Curtis,
+Deputy State Game Warden,
+Huron, South Dakota.</p> 
+
+<p> Dear Mr. Curtis:
+
+	Am rather tardy answering yours of the
+15th, inst., in reference to your findings and the Roswell
+and Donahue dams, we have had our hands full here with
+the seining operations at Pelican lake since we are making
+use of relief labor on this project and it was some time
+before we got things so everything corked right.
+Our total for this past week was 26,000 pounds of fish mostly
+carp and buffalo that were alotted out at 25 lbs. per
+family throughout this county.   Having only 14 inches of
+water under the ice we have made every minute count to get
+the fish while we could work our big seine of about 3,500 ft.</p> 
+
+	<p> Glad we did not get to send fish to fill
+that Donahue application after all if they have no proper
+place for them and read with great interest your findings
+in reference to the Roswell dam which should be very O. K.
+when finished. I find that the two flocks of about 4,000
+pelicans each that fished Pelican lake here for two months
+previous tot he freeze-up took this lake to a cleaning in
+the matter of perch and bullheads, leaving the carp, buffalo and
+northern pike so I wont have any application fish from this
+source.      Think it may be well so long as they only have
+three feet of water in the Roswell dam to wait until spring
+and after the severe winter weather is over to stock their
+waters when it can be done to a nicety with bullheads and a
+few other varieties from our spring fishing operations.
+Of course if I run onto a lot of bullheads some where we may
+get them some this winter but that is doubtful now.
+I have reserved about One half million bullheads of this last
+years hatch in our bass ponds at Lake Andes and Redfield for
+spring stocking of waters should we get water so we will be
+all set along that line however I would not have much opportunity
+to get into those ponds at this time.</p> 
+
+	<p> To date we havent had any great success with
+getting large seine hauls at either Lake Traverse or Cottonwood
+lake at Redfiels but hope for better results from now on.
+	Hope you had a fine  Christmas and wishing
+you and yours a Happy New Year,</p> 
+
+				<p> Very truly yours,</p> 
+
+      <p>R. L. Ripple</p>
+
+				     
+
+</div1>
+
+</body>
+</text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.law.0012">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Actual Work Begun on Spillway Monday</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0020</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="original">Actual Work Begun on Spillway Monday</title>
+<title level="a"></title>
+<title level="j">Lake Andes Wave</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1933-07-20"></date>
+<biblScope type="page">1</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Spillway work begins</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-16"><name>Laura Weakly</name> Fixed title</change>
+<change when="2010-08-04"><name>Rhiannon Root</name> Proofread</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<head type="main">Actual Work Begun on Spillway Monday</head>
+
+<milestone unit="absent" />
+
+<p>The first shovelful of dirt moved in the digging of the spillway for the lake by the Veterans Citizens conservation corps <sic>Conservation Corps</sic> took place Monday forenoon on the Steensland far a half mile southwest of the railroad bridge. Immediately about 200 men were at work digging the ditch, which in one place will be nearly thirty-five feet deep. The ditch will be open for the first thirty rods and will be eight feet wide and seven feet deep all of the way except where the surface of the ground varies.</p>
+
+<p>Beginning near the Steensland land on the Gassman farm the five foot tile, inside measurement, will be used for about 6500 feet, <sic>.</sic> A plant will be established south of the Farmers' Co-Operative elevator for the making of the tile which will be six inches thick and probably contain a big per cent of crushed rock, at least the coarsest gravel that can be found. Two crews of men are on the job, 100 on the Steensland farm and teh other on the Gassman land adjoining the highway to the south. The work so far as possible will be done by hand, and on account of the presence of so much gumbo, it will take many weeks to complete the digging.</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+

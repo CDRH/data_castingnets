@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.water.boat.0023">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">Belle of Andes Makes Its First Excursion</title>
+<title level="m" type="sub"></title>
+<principal n="Nesheim, David A.">David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2012</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.water.boat.0023</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2012 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a" type="supplied">Belle of Andes Makes Its First Excursion</title>
+<title level="a" type="original">Untitled</title>
+<title level="j">Spencer News</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1907-05-16"></date>
+<biblScope type="page">5</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+<keywords scheme="original" n="keyword">
+<term>Well and Belle of Andes</term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2012-11-13"><name>Laura Weakly </name> Supplied title</change>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+
+<body>
+<div1>
+
+<p>Mr. Peterson, manager for the Norbeck well drilling company arrived here Saturday with his machinery and is now busily engaged in putting down the tubular well for the water works.</p>
+
+<p>C. B. Randall of Galva, Iowa arrived here last Friday evening. Mr. Randall owns 240 acres of fine land two miles north of town and will make extensive improvements thereon this summer.</p>
+
+<p>The Belle of Andes mades its first excursion up the lake last Sunday. The management informs us that the boat will make regular trips every Sunday, leaving the dock at 2:30 p. m. sharp.</p>
+
+<p>Frank Blankenhagen, who recently purchased the Wolfe farm one mile north of town, has commenced the erection of a house and suitable farm buildings thereon and will soon move his family here.</p>
+
+<p>Wheat jumped to a dollar a bushel on Chicago board of trade Monday on the strength of reports of unfavorable weather, green bugs, etc., in the wheat growing districts.</p>
+
+<p>The number of wild ducks--mostly of the <choice><sic>Tiel</sic> <corr>Teal</corr></choice> variety--which are remaining on the lake this season insures good fall shooting. These ducks nest here and raise their young and if the unlawful shooting of them can be stopped there will be thousands of them here this fall.</p>
+</div1>
+
+</body>
+</text>
+</TEI> 

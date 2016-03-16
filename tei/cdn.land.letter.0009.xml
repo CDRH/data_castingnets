@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cdn.land.letter.0009">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title level="m" type="main">rough fish life reports</title>
+<title level="m" type="sub"></title>
+<principal>David Nesheim</principal>
+</titleStmt>
+
+<editionStmt>
+<edition><date>2010</date></edition>
+</editionStmt>
+<publicationStmt>
+<idno>cdn.land.letter.0009</idno>
+ <authority>Casting Digital Nets: Fishery Modeling, Native Dispossession, and Dynamic History on the Great Plains</authority>
+<distributor>University of Nebraska-Lincoln Libraries</distributor>
+<address>
+<addrLine>Center for Digital Research in the Humanities</addrLine>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<availability>
+<p>Copyright &#169; 2010 by University of Nebraska, all rights reserved.
+Items in the Archive may be shared in accordance with the Fair Use provisions
+of U.S. copyright law.  Redistribution or republication on other terms, in
+any medium, requires express written consent from the editor and advance
+notification of the publisher, the Center for Digital Research in the Humanities.</p>
+</availability>
+</publicationStmt>
+
+<notesStmt>
+<note type="summary">
+
+</note>
+</notesStmt>
+
+
+<sourceDesc>
+<bibl>
+<title level="a">endangered fish life articles</title>
+<title level="a"></title>
+<title level="j">correspondence</title>
+<author></author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date when="1930-11-28"></date>
+<biblScope type="page">unknown</biblScope>
+</bibl>
+</sourceDesc>
+
+</fileDesc>
+
+<profileDesc>
+<textClass>
+<keywords scheme="original" n="water">
+<term></term>
+</keywords>
+<keywords scheme="original" n="sky">
+<term></term>
+</keywords>
+ <keywords scheme="original" n="land">
+<term></term>
+</keywords>
+<keywords scheme="original" n="earth">
+<term></term>
+</keywords>
+</textClass>
+</profileDesc>
+
+<revisionDesc>
+    <change when="2010-06-01"><name>Erin Pedigo</name> Initial Encoding</change>
+    <change when="2010"><name>Sam Herley</name> OCR</change>
+
+</revisionDesc>
+
+</teiHeader>
+
+<text>
+
+<body>
+<div1>
+
+
+			<p> 11/28, 1930.</p>
+
+<p> Mr. Bob Ripple</p>
+<p> Watertown S. Dak.</p>
+
+	<p> Dear Bob.&#8212;</p> 
+
+		<p> Just got home from Andes and wanted
+to stop over and see you but it was to <sic>too</sic> late. pulled <sic>Pulled</sic>
+several hauls but dident <sic>didn't</sic> get much. the <sic>The</sic> bigest <sic>biggest</sic> haul got 1400#, had twice as big a seine as last year too,
+but couldn't find any carp. Caught lots of crappies
+and believe me there <sic>they're</sic> nice this year they grew twice
+the size they were last, the carp are pretty scarce
+down there I think. I am going back there after
+Christmas if its <sic>it's</sic> O. K. with you. I can get all the
+fish around the wells at that time when they
+come up for fresh water. Andes is a peculiar
+lake to fish as you know.</p>
+
+	<p> I am disgusted the way election went in our state
+Bob, but dont <sic>don't</sic> forget when the opportunity comes I will
+always remember you, every thing <sic>everything</sic> would of been O. K.
+if things hadn't taken a flop here. but <sic>But</sic> we're 
+setting pretty any way, altho <sic>although</sic> it perhaps will take
+some time to get lined up.</p>
+
+	<p> We were lucky enough to get Big Stone from north 
+of the Islands to Browns Valley about 14 miles of the 
+north end of the lake. Were just alowed <sic>allowed</sic> one big
+seine in that portion of the lake.</p> 
+
+	<p> Now Bob if its <sic>it's</sic> in your power to give Jerry
+the S. Dak. side wish you would.</p> 
+
+	<p> The people here are all satisfied to have
+one big crew on each side of the lake as
+it would furnish work for so many people here,
+I surely would like to see you here on this job
+this winter. dont <sic>Don't</sic> mention this to any fisherman.
+if <sic>If</sic> you happen this way call me up.</p> 
+
+				<p> Yours Truly</p>
+				    <p> Moose</p>
+</div1>
+
+<div1>
+
+		<p> Brookings, Dec. 7, 1930.</p>
+
+<p> Mr. Everett Randall,</p>
+<p> Browns Valley, Minnesota.</p>
+
+<p> Dear Mr. Randall:</p>
+
+	<p> Have not been at Watertown until the other
+day since my headquarters are at Dudley Hotel, Brookings
+for the time being so am tardy in answering yours of Nov.
+28th.</p> 
+
+	<p> The Lake Andes work turned out about as I
+had expected during open water fishing and I agree with
+you in that when the ice forms of about a certain thickness
+the remaining carp will be found bunched up around the wells,
+especially the north well.         Hope you do go back down
+there and that you get enough fish to warrant the expense.
+Dont <sic>Don't</sic> think but what you will encounter a fine bunch of stuff
+at this north well and no one in South Dakota wants to see
+that lake cleaned of carp more than I do.</p>
+
+	<p> Nothing much was done at our last commission
+meeting relative to either Big Stone or Traverse and so far
+as I can see our commission had no idea of going into Big
+Stone at least.     Traverse will have to be watched during
+this low water etc.      If Minnesota is really going into
+Big Stone it is a surprise to me and I do not know just what
+our commission will do in this latter event.</p>
+
+	<p> Was glad to learn from a late copy of the 
+People's Press of Sisseton that they had corrected an article
+they ran in a former issue in reference to myself and seining
+operations.   I dont <sic>don't</sic> like to be misquoted and have nothing to
+take back that I have ever said relative to seining or rough
+fish work while in South Dakota.</p>
+
+	<p> Notice your comment Everett and thank you for
+same, Minnesota is a wonderful state of waters and fish and 
+I sure would relish the opportunity to be in that work at Big
+Stone or any where else that the damnable carp are coming out
+to make way for better fishing.    Expect to be over in that
+locality soon looking up shallow waters etc. at a number of
+our lakes and sloughs.</p> 
+			
+				<p> Very truly yours,</p>
+				         <p> R. L. Ripple. </p>
+</div1>
+
+
+<div1>
+
+								<p> Jan. 7, 1931.</p>
+
+<p> Mr. R. L. Ripple,</p>
+<p> C/o Dudly Hotel,</p>
+<p> Brookings, S. D.</p>
+
+<p> Dear Bob:</p>
+
+	<p> I have yours with remittance of $507.09, which same has
+been credited to Madison operation.</p>
+
+	<p> Just received a telephone communication from McBride at
+Lake Andes this morning and he states that arrangements have been made,
+through Hank Schemmer, with the owners of a shallow lake in Bennett
+County, for large quantity of bullheads.   This lake is reported to
+be teeming with under-size bullheads and Mac would like to have several
+truck loads of them transferred to Lake Andes. He states that arrange-
+ments will be made to have "Moose" Randall do the seining for them
+when he returns to Lake Andes for the purpose of completing his opera-
+tions on that lake.</p>
+
+	<p> In this bullhead work, they would like to have our 500'
+bullhead net which was sent into Huron during the Fair. Do not know
+just where this net is but if you will kindly advise me where it can be 
+picked up, I will arrange to have it taken to Lake Andes at an early
+date. They have gotten in touch with Randall and he advises them that
+he has a bag which he can attach to this net, which equipment would
+make it possible for them to take out great quantities of bullheads
+which infest the lake in Bennett County.</p>
+
+	<p> Kindly advise me at once where this net can be secured, so
+that I may arrange to have it sent to Andes.</p>
+
+				<p> Very truly yours,</p>
+
+				<p> O. H. Johnson, Director</p>
+				<p> Department of Game and Fish.</p>
+
+<p> OHJ: AW</p>
+</div1>
+
+<div1>
+
+			<p> Brookings, January 16, 1931.</p>
+
+<p> Mr. O. H. Johnson, Director,</p>
+<p> Department of Game &amp; Fish,</p>
+<p> Pierre, South Dakota.</p>
+
+<p> Dear Mr. Johnson:</p>
+
+	<p> So that you may know what move I have made
+toward the bullhead work contemplated for Lake Andes through
+the getting of these fish from Scotchmans lake down in Bennet
+County, will say as follows.     I would greatly prefer doing this
+work with me own me <sic>men</sic> so far as possible and our own equipment, like
+nets, trucks, etc.</p>
+
+	<p>Had Lester meet me here at Brookings last night
+also got Schemmer on the phone to settle some things regarding lake,
+depth of lake, how far from habitation, etc.    Telephone call was
+$1.25 and worth it before going down there as I intend sending
+a full line of equiptment <sic>equipment</sic>, tanks, seines, hoopnets, air compressor,
+ropes, chisels, running boards etc.    This will all go on our big
+new body Ford truck and I will await word from Lester about conditions
+for getting the bullheads etc.</p>
+
+	<p> With your permission I have gotten hold of Fred Curtis
+our warden at Huron, he will go through with Lester and if things
+pan out after a severe trial, Lester may have Dutch shoot across
+with another man from Rapid City hatchery for man power.
+Understand the nearest farm house is about two miles distant from
+the lake they will work.    Depth of lake is about six feet in the
+deeper parts so I am not sending our big twelve foot seine, but am
+sending about 600 ft. of eight ft. leaders that will serve better.
+There is little about nets and netting that Lester does not know
+and if a center bag is necessary, Lester will make one up from one 
+of the leaders.</p>
+
+	<p> If we can make use of our new one inch mesh hoopnets,
+that will be fine and I think we can.    Bullheads supposed to run in
+size from 6 inches to 14 inches, Schemmer says.    Will keep you
+posted in this work.    Lester and equiptment <sic>equipment</sic> etc. will no doubt be
+at Winner on Sunday night to connect with Schemmer if he wants to go
+out to lake with them.</p>
+
+					<p>Very truly yours,</p>
+						<p>R. L. Ripple</p>
+
+<p> Mr. Johnson:</p>
+
+	<p> If the Bullhead work at Scotchmans lake pans
+out as we hope it will, I will arrange to have Dutch bring
+our International truck accross <sic>across</sic> from Rapid City to this lake
+so we can keep two trucks running while the work is on.</p>
+
+	<p> I am keeping our SECOND POND TRUCK with Lawrence
+Sorenson in case I have to have that truck for work in these
+parts for lake areation etc.</p>
+
+					<p> R. L. Ripple</p>
+</div1>
+
+<div1>
+
+				<p> Brookings, January 19, 1931.</p>
+
+<p> Mr. O. H. Johnson, Director,</p>
+<p> Department of Game &amp; Fish,</p>
+<p> Pierre, South Dakota.</p>
+
+<p> Dear Mr. Johnson:</p>                                 <p> Carp Seining At Lake Mitchell</p>
+
+	<p> Last fall during open water it was the desire
+of some people at Mitchell to have the Russian Colonists
+seine their lake to remove the carp and I told Mr. Peterson
+also Mr. Noble that I would endeavor to let them know when
+I could get away from from other work in order to make an
+experimental seine haul.    Although admitting that I have
+failed to connect with the Russians to make such haul owing
+to stress of other work, I admit that I had little faith in
+anything worth while <sic>worthwhile</sic>, the Russians would be able to accomplish
+with such small equiptment <sic>equipment</sic> as they have.</p>
+
+	<p> It seems to me, knowing the depths etc. of Lake
+Mitchell, that any seining operations attempted there other
+than to attempt to shut off the carp in the bays during spawning
+season of such fish, would meet with failure by any crew unless
+equipped with very deep seines for the purpose or as we used 
+out at Orman Dam.          In other words special equiptment <sic>equipment</sic> would
+have to made use of to accomplish much.        Then to, there
+is the matter of green stumps and other matter at the bottom 
+of that artificial lake, the old creek bed at the upper end
+where it could be expected carp would hold out.</p>
+
+	<p> Further, it is my opinion that the carp in a general
+way, speaking of numbers, consist of small stuff that has naturally
+propagated during the couple years the lake has been raised.
+It appears to me that here is one lake where if anything worth
+while <sic>worthwhile</sic> is attempted in removing carp, the work should be started
+among the bays and upper end of lake during the carp spawning
+time and even then it is a guess of any man what could be done.</p>
+
+	<p> Any netting operation down there would please
+those people in showing up how numerous the game fishes may
+be and this information is desired by them as much as to get
+out the carp. I for one am not anxious to get into any additional
+rough fishing operations the balance of this winter since we
+have enough grief along the line on the hand at present time.</p> 
+</div1>
+
+<div1>
+
+<p> Mr. O. H. Johnson, . . 2.</p>
+
+	<p> If, as you say, Mr. Jerry Wilson of the Lake
+Andes seining operations wishes to make an experimental
+seine haul at Lake Mitchell just after finishing at Andes
+for the purpose of determining what is there and what can
+be expected in being able to seine the lake at all, then that
+will be fine with me.    Will be more than glad to be on
+hand to supervise such haul and will hope for its success.
+No one can be more interested in getting carp out of Lake 
+Mitchell than myself but I know its a hard nut to crack in
+such work.</p>
+
+	<p> I am convinced that game fishes are in Lake Mitchell
+in great numbers, however, this should be determined previous
+to any hook and line fishing there to the public.
+I am not making any guess when I say that the Black Bass, Bullheads,
+and Wall Eyed Pikes we have stocked the lake with, have all done
+fine.    Also there have been some fine natural hatches of game
+fishes there.    An experimental seine haul during this winter
+and if they can come in clean, might determine something about
+the numbers of game fishes.</p>
+
+	<p> If I can spare Lester and if you think it advisable,
+I might send him to Lake Mitchell with a few of our big hoop-nets
+in the near future and if he could find the proper depth of water
+to keep the nets from freezing to the ice, he might catch game
+fish in numbers enough to determine some thing <sic>something</sic>.
+Open water would be far better for this, after our Pike work
+would be out of the way.</p>
+
+			       <p> Very truly yours,</p>
+					<p> R. L. Ripple</p>
+</div1>
+
+
+<div1>
+
+						<p> January 27, 1931.</p>
+
+<p> Mr. R. L. Ripple,</p>
+<p> Brookings, S. D.</p>
+
+<p>Dear Bob:</p>
+
+	<p> Have yours of the 25th, also remittance covering rough
+fish work at Oakwood. Glad to learn that operations are about com-
+pleted on Fish Lake and that Smith will get started on Hendricks.
+Getting some work down on <unclear reason="illegible" /> will also help matters consider-
+able <sic>considerably</sic>.</p>
+
+	<p> Just had a telephone call from Duffy and he states that 
+Randall is back at Lake Andes. Am afraid if this weather continues
+the operations of Andes are not going to be very extensive.</p>
+		
+						<p> Very truly yours,</p>
+							<p> O. H. Johnson, Director,</p>
+<p> OHJ:AW</p> 						<p> Department of Game and Fish.</p>
+</div1>
+
+
+<div1>
+
+				  <p> Watertown, Nov. 9, 1930. </p>
+
+<p>Mr. O. H. Johnson, Director,</p>
+<p> Department of Game &amp; Fish,</p>
+<p> Pierre, South Dakota.</p>
+
+<p> Dear Mr. Johnson:</p>
+
+	<p> Enclosed please find report of
+the rough fishing operations at the various lakes
+covering everything of interest to this date
+Sunday, Nov. 9th.</p>
+
+	<p> Might say here that I made that trip
+to Cottonwood lake out of Redfield and the reason I
+did not get over there earlier was because I hated
+to take that big jump knowing that they would not be
+ready to go ahead as they should and because I have
+been so busy with the bigger work at other lakes.
+Well I notified Mr. Klebsch through our Game Farm
+what day I would be there and to get ready to make
+a seine haul upon that date,        Found the day a fine
+one upon arrival and finally located Mr. Klebsch in
+Redfield.     Said he had been beside him-self <sic>himself</sic> in
+trying to get together an equiptment <sic> equipment</sic> and thought he
+would now be able to do so and would let me know through
+our Mr. Hodginsa few days ahead of when he would start.
+I gave him to understand that nothing short of proper
+equiptment <sic>equipment</sic> would fill the bill Cottonwood because we
+did not wish to go in there and make any fizzle of the work.</p>
+
+	<p> Mr. Klebsch is going to work out O. K.
+with a little coaching and I am confident that our work
+at Cottonwood will turn out O. K.    Told Klebsch it was
+his own and work out the thing himself alone it would be
+better and that the people over there would feel better.</p> 
+				
+				<p> Very truly yours,</p>
+					<p> R. L. Ripple</p>
+</div1>
+
+
+<div1>
+			
+					<p> Watertown, Nov. 9, 1930.</p>
+
+<p> Mr. O. H. Johnson, Director,</p>
+<p> Department of Game &amp; Fish,</p>
+<p> Pierre, South Dakota.</p>
+
+<p>Dear Mr. Johnson:</p>				 <p> POINSETT LAKE</p>
+
+	<p> The big haul of carp and buffalo brought in
+on Saturday, Nov. 1st, will run to possibly about 50 tons of
+one half each, carp and buffalo, it may turn out more.
+Several hauls had been made previous to this date at Poinsett
+of a number of tons each so they have had plenty of rough fish
+on hand in the face of what is generally known as a poor market
+during this warm weather and all the rough fish going to the
+big eastern cities from Virginia etc.</p>
+
+	<p> The two rough fish crews have had enough to do
+during this past week in shipping what fish they could, making
+additional holding crates etc. without further seining and I have
+this day told them not toget any more LARGE hauls in until this
+mess of stuff on hand is seen to be cleaned up.       We cannot just
+for the sake of seining, bring in great amounts of rough fish to
+be sold for a song when such fish can be had later when conditions
+all around will be different.      Some loss will have to be
+taken in prices on this stuff and on some that died from heavy
+seas in cribs etc.    However I am on top of this work and will
+determine conditions as they arrive, in the best manner possible.</p>
+
+	<p> One carload has been shipped east, price uncertain
+as yet, 57 boxes iced to Chicago, price uncertain, 140 boxes iced 
+to New York, price 4 cents on no. 2, 7 cents on no. 1. About 150 boxes
+to the east, price uncertain at present.       Thousands of pounds
+sold on the ground, locally.       Carp brining some better price
+than buffalo at present time, mostly buffalo being shipped from
+Virginia.     My information from CARP BUYERS on the ground,
+and from $35.00 worth of messages sent out by Carl Kelsen is
+that the market is really poor at present.    Also gain this
+information from Mr. Joe Kiner who shipped a carload from Madison
+yesterday.     The whole thing is rather a stall to govern prices
+perhaps but you know Mr. Johnson, that prices will be normal
+when cold weather sets in.    Walter Bushaver whom you I presume
+know about as an agent for large eastern concern, was on the ground
+at Lake Poinsett last Wednesday.    His information is the same
+as from others but during last winter I came to have a lot of 
+respect for this man's say-so and his seeming honesty.
+He purchased all fish from the Hendricks work.       He is confident
+that prices will be up soon and got to Carl Kelsen about some
+contract on prices for Poinsett.    Carl took it all in and came
+to me and my advise <sic>advice</sic> to Kelsen was that it would be time to talk
+about contract prices after our contracts were out to the different 
+fishermen in the field at that the matter would have to be taken
+up with our office at any rate.</p>
+</div1>
+
+
+<div1>
+
+<p> Mr. Johnson . . 2.</p>          <p> POINSETT LAKE CONTINUED</p> 
+
+	<p> It is my opinion that we cannot make contracts with
+the two crews at Lake Poinsett and set a price per pound to our
+department to govern during this coming winter, until we know
+more about the prices that will govern later when market is right.
+However I wish we had some dicker for the stuff at this time but
+since Lake Poinsett is a living mass of rough fish, we should not
+cry over a little spilt milk so speaking.   I will see that we
+take no loss over and above what is necessary to properly govern
+Poinsett work to the time things will be on the feet.
+Checking up all shipping bills and local sales very closely.
+Our work at Lake Poinsett this winter will be a lesson to everyone
+concerned in the well-fare <sic>welfare</sic> of game fish, what the dirty water hogs
+are capable of doing when left alone.     It will prove such a 
+lesson as I have wished to prove for the good of game fishes in the 
+years to come.    Lamentable beyond all description are the
+conditions at Lake Poinsett, but it is well that in the face of all
+the damnable carp etc. there are a remnant of the old folks left
+of the game fish ranks.    Our stockings of Wall-Eyed-Pike fry
+are showing up in the seine hauls by the hundreds and that fact
+is very pleasing to the public interested in Poinsett.</p> 
+
+				<p> OAKWOOD LAKES</p> 
+
+	<p> At this date Sunday, Nov. 9th, they must have on
+hand at Oakwood lakes about 45 tons of rough fish, moslt <sic>most</sic> all
+carp of large size, just about like the Hendricks stuff last winter,
+fat and fit as a fiddle.    This stuff is good for sore eyes to
+CARP BUYERS and so Oakwood lakes have been good producers of carp.
+A single haul at Oakwood lakes the other day, brought in about 
+25 tons of these carp and somebody at Brookings said, Ripple you
+are going to <sic>too</sic> far, there arent <sic>aren't</sic> many carp in Oakwood lakes.
+Well history will be made for game fish in these wonderful lakes
+this winter, I figure it will take quite a long train all told,
+to haul the carp from there.    Please remember this is wonderul
+stuff.    Have made arrangements with this crew to seine the game
+fish from Turtle lake and Round lake that conncet <sic>connect</sic> with Oakwood lakes
+during high water, they are now dis-connected and must be rescued.
+A count will be made of all game fish we take from those two lakes,
+over into Oakwood lakes proper.    If this market dont <sic>don't</sic> change, we
+may fool the wise acres for a time by placing a heap of carp in
+this Turtle lake to get out later when market is right.
+Would like to sound out rough fish market for some time yet previous
+to making our price to the state, what wonderful stuff this is.</p> 
+</div1>
+
+
+<div1>
+
+<p> Mr. Johnson . . 4.</p>                             <p> RESCUE OPERATIONS </p>
+
+	<p> I have not had the help of any of my crew except a day
+or two at Lake Alice in rescue work or anything else, being content
+to confine Lester, Dutch, Atchison, Kiner, and Sorenson to the 
+very necessary work of putting in the new well, pipe-line and
+other work at our Kampeska hatchery.    They will finish there
+in a couple days and most of them with trucks will shoot west to
+get those trout out of our Rapid hatchery.     Might possibly
+have done something about rescue work with these men in a small way
+but I cannot leave anything un-done <sic>undone</sic> at the Kampeksa hatchery that
+would spell bad luck for our Pike hatching next spring.
+Next spring's hatching must be bigger and better than ever to
+stock these carp wallows when the carp are removed and they will
+get plenty of Pike next season.    Will look into that matter of
+Black Bass stranded down at Flandreau etc.    With all this work
+at hand the carp lakes and my crews going west soon, I feel that
+after I make a check-up of places like Lake John etc. I can send
+report to the department for their next meeting when a program can
+be mapped out.</p> 
+
+	<p> I would like to call your attention Mr. Johnson, to what
+is getting to be common talk by people around these lakes being
+seined, I have heard so much of it lately.    They want to know
+if the state is getting what is coming to it in the matter of
+money derived from the rough fish.   It just seems that people
+want to see our department get all they can from this work.
+I can see among those crowds of people, so many hundreds of friends
+of the Department of Game &amp; Fish and darn few people hollering
+about getting out the rough fish.   It is true that Poinsett is 
+going to rough up rough fish this winter, it is true to <sic>too</sic> that there
+will be many grades and small stuff as well as no. 1 ones by the 
+hundreds of thousands of lbs.    Oakwood lakes will turn out
+wonderful market stuff with small percentage of small stuff and 
+presume thinking will have to be done when contracts are let along
+the line of prices, it will be no fun to do it.</p>
+
+	<p>When my crew and trucks go west, I will keep one man
+and truck with me for possible use transferring game fish.</p>
+
+					<p> Very truly yours,</p>
+						<p> R. L. Ripple</p>
+</div1>
+
+</body>
+</text>
+</TEI>
+
