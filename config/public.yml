@@ -1,0 +1,10 @@
+default:
+  project_desc: Casting Digital Nets
+  solr_core: castingnets
+  es_type: castingnets
+  shortname: castingnets
+  tei_solr_xsl: collections/castingnets/scripts/solr_transform_tei.xsl
+
+# development:
+#
+# # production:
