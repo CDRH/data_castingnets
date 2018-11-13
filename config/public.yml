@@ -1,8 +1,8 @@
 default:
+  collection: castingnets
   project_desc: Casting Digital Nets
   solr_core: castingnets
-  es_type: castingnets
-  tei_solr_xsl: collections/castingnets/scripts/solr_transform_tei.xsl
+  tei_solr_xsl: scripts/solr_transform_tei.xsl
 
 # development:
 #
