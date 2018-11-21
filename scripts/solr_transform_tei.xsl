@@ -5,7 +5,7 @@
   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <xsl:output indent="yes"/>
   
-  <xsl:include href=".xslt/common.xsl"/>
+  <xsl:include href=".xslt-datura/common.xsl"/>
   
   <xsl:template match="/">
     <add>
